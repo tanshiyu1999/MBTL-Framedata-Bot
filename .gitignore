@@ -1,3 +1,6 @@
+# Discord Bot Data
+src/Data/config.json
+
 # Logs
 logs
 *.log

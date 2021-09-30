@@ -1,0 +1,25 @@
+{
+  "name": "mmtl-framedata-bot",
+  "version": "1.0.0",
+  "description": "This is a Discord Bot for MMTL",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanshiyu1999/MMTL-Framedata-Bot.git"
+  },
+  "author": "Tan Shi Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanshiyu1999/MMTL-Framedata-Bot/issues"
+  },
+  "homepage": "https://github.com/tanshiyu1999/MMTL-Framedata-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0"
+  }
+}
