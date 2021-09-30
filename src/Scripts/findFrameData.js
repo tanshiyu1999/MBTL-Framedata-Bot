@@ -1,9 +1,7 @@
 const fetchedData = require("./fetchData.js")
 
 
-const searchMoves = async (moveObj, move) => {
-  let matched = [];
-
+const searchMoves = (moveObj, move) => {
   // Generating the Regex 
   let regex = `^[ \\[\\]\\.]?[${move[0]}][ \\[\\]\\.]?`;
   for (let i = 1; i < move.length; i++) {
@@ -18,8 +16,10 @@ const searchMoves = async (moveObj, move) => {
   let moveRegex = new RegExp(regex, 'i');
   
   if (moveObj['input'].match(moveRegex) || moveObj['name'].match(moveRegex)) {
-    console.log(moveObj)
+    console.log(`Matched move: ${moveObj['chara']}'s ${moveObj['input']}`)
+    return moveObj;
   }
+  return null;
 }
 
 const searchData = async (name, move) => {
@@ -33,17 +33,38 @@ const searchData = async (name, move) => {
   
   const searchName = new RegExp(regex, 'i');
 
+  let matched = [];
   characterData.forEach(moveObj => {
     let match = moveObj['chara'].match(searchName);
     if (match) {
-      searchMoves(moveObj, move);
+      let returned = searchMoves(moveObj, move);
+      if (returned) {
+        matched.push(returned);
+      }
     }
   })
 
-
-  console.log(name)
-  console.log(move)
+  if (matched.length == 0) {
+    console.log("No match")
+    return false;
+  } else if (matched.length == 1) {
+    console.log("Single Match Found")
+  } else {
+    console.log("Multiple Matches Found")
+  }
+  return matched;
 
 }
 
-searchData("Akiha", "214A")
+module.exports = searchData;
+
+// In future iteration, the searchData() function will accept an array []
+// It will check for name match in the example below
+// array = [Akiho Tohno Meow Woof 236K]
+// Check if Akiho match with names
+// if yes, Check if Akiho Tohno match with names and so for...
+// Akiho Tohno Meow does not match with any names.
+// Meow Woof 236K becomes the move variable
+// Akiho Tohno becomes name variable
+
+// If first argument cannot find name. Combine all of the arguments and find input/skill name

@@ -15,6 +15,7 @@ const fetchData = async () => {
     .catch((err) => {
       console.log(err)
   });
+  console.log("Data Fetched From Cargo")
   return fetchedData;
 }
 
