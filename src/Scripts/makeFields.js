@@ -25,25 +25,37 @@ const makeFields = (moveObj) => {
 
   
   for (let i = 0; i < dataOutput.length; i++) {
-    console.log(dataOutput[i].name)
     if (dataOutput[i].name == 'images' || dataOutput[i].name == 'hitboxes' ) {
       imageOutput.push(...dataOutput.splice(i, 1))
       i--;
     }
   }
 
-  console.log(dataOutput)
-  console.log(imageOutput)
+  // console.log(dataOutput)
+  // console.log(imageOutput)
 
-
-
-
-  
 
   return {dataOutput, imageOutput}
 }
 
+const makeSelectableFields = (moveList) => {
+  let tempObj = {};
+  let output = [];
+
+  for (let i = 0; i < moveList.length; i++) {
+    if (moveList[i]['name']) {
+      tempObj.name = `${i + 1}: ${moveList[i]['name']}`;
+    } else {
+      tempObj.name = `${i + 1}: ${moveList[i]['input']}`;
+    }
+    tempObj.value = moveList[i]['input'];
+    tempObj.inline = false;
+    output.push(tempObj);
+    tempObj = {};
+
+  } 
+  return output;
+}
 
 
-
-module.exports = makeFields;
+module.exports = {makeFields, makeSelectableFields};

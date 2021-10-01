@@ -1,7 +1,7 @@
 const Command = require("../Structures/Command.js")
 const FindFrameData = require("./findFrameData.js")
 const Discord = require("discord.js")
-const makeFields = require("./makeFields.js")
+const {makeFields, makeSelectableFields} = require("./makeFields.js")
 
 const outputDiscord = (moveList, message) => {
   const output = new Discord.MessageEmbed();
@@ -14,7 +14,7 @@ const outputDiscord = (moveList, message) => {
       moveObj['chara'],
       message.author.avatarURL({dynamic: true})
     )
-    .setTitle(`Frame data for kekw`)
+    .setTitle(`Frame data for ${((moveObj.name) ? moveObj.name : moveObj.input)}`)
     // .setURL("")
     // .setThumbnail(imageOutput[1].value)
     .setColor("BLURPLE")

@@ -1,4 +1,4 @@
-const fetchedData = require("./fetchData.js")
+const frameDataBase = require("../Data/frameDataBase.json")
 
 
 const searchMoves = (moveObj, move) => {
@@ -23,7 +23,7 @@ const searchMoves = (moveObj, move) => {
 }
 
 const searchData = async (name, move) => {
-  let characterData = await fetchedData();
+  let characterData = frameDataBase;
 
   // \b at start of regex to ensure that we start searching fron the front of the word
   let regex = "\\b"
@@ -58,13 +58,3 @@ const searchData = async (name, move) => {
 
 module.exports = searchData;
 
-// In future iteration, the searchData() function will accept an array []
-// It will check for name match in the example below
-// array = [Akiho Tohno Meow Woof 236K]
-// Check if Akiho match with names
-// if yes, Check if Akiho Tohno match with names and so for...
-// Akiho Tohno Meow does not match with any names.
-// Meow Woof 236K becomes the move variable
-// Akiho Tohno becomes name variable
-
-// If first argument cannot find name. Combine all of the arguments and find input/skill name

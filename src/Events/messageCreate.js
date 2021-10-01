@@ -1,4 +1,5 @@
 const Event = require("../Structures/Event.js");
+const inputParser = require("../Scripts/inputParser.js")
 
 module.exports = new Event("messageCreate", (client, message) => {
   if (message.author.bot) return;
@@ -23,6 +24,8 @@ module.exports = new Event("messageCreate", (client, message) => {
     console.log(command);
     return; //message.reply(`${args[0]} is not a valid command!`)
   }
+
+  // args = inputParser(args)
 
   command.run(message, args, client);
 
