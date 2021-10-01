@@ -21,5 +21,5 @@ const inputParser = (args) => {
 }
 
 
-inputParser(["Akiha", "5A"])
+// inputParser(["Akiha", "5A"])
 module.exports = inputParser;

@@ -3,15 +3,15 @@ const frameDataBase = require("../Data/frameDataBase.json")
 
 const searchMoves = (moveObj, move) => {
   // Generating the Regex 
-  let regex = `^[ \\[\\]\\.]?[${move[0]}][ \\[\\]\\.]?`;
+  let regex = `^[ \\.]?[${move[0]}][ \\.]?`;
   for (let i = 1; i < move.length; i++) {
     if (i == 1) {
-      regex = regex + "[ \\[\\]\\.]?";
+      regex = regex + "[ \\.]?";
     }
     if (move[i] == ' ' || move[i] == '.') {
       continue;
     }
-    regex = regex + move.substring(i , i + 1) + "[ \\[\\]\\.]?";
+    regex = regex + move.substring(i , i + 1) + "[ \\.]?";
   }
   let moveRegex = new RegExp(regex, 'i');
   

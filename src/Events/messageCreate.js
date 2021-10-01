@@ -7,7 +7,7 @@ module.exports = new Event("messageCreate", (client, message) => {
   if (!message.content.startsWith(client.prefix)) return;
 
   // remove [ and ]
-  message.content = message.content.replace("[", "").replace("]", "")
+  // message.content = message.content.replace("[", "").replace("]", "")
 
   const args = message.content.substring(client.prefix.length).split(/ +/);
 

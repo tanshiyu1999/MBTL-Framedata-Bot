@@ -23,7 +23,7 @@ const fetchData = async () => {
   //   })
   // }
 
-  fs.writeFileSync("./src/Data/frameDataBase.json", JSON.stringify(fetchedData))
+  fs.writeFileSync("./src/Data/frameDataBase.json", JSON.stringify(fetchedData, undefined, 2))
 
 
 
