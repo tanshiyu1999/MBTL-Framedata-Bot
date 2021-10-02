@@ -370,7 +370,7 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 150,
     "guard": [
       ""
     ],
@@ -406,7 +406,7 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 420,
     "guard": [
       ""
     ],
@@ -478,7 +478,7 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 620,
     "guard": [
       ""
     ],
@@ -658,7 +658,7 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "290*3 (870)?",
     "guard": [
       ""
     ],
@@ -694,9 +694,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 180,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -711,9 +711,9 @@
       ""
     ],
     "startup": 5,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 2,
+    "recovery": 14,
+    "overall": 20,
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -730,9 +730,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 480,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -747,9 +747,9 @@
       ""
     ],
     "startup": 8,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 3,
+    "recovery": 21,
+    "overall": 31,
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -766,9 +766,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 610,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -783,9 +783,9 @@
       ""
     ],
     "startup": 8,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 4,
+    "recovery": 27,
+    "overall": 38,
     "frameAdv": -11,
     "invul": "",
     "minDamage": "",
@@ -1774,9 +1774,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 1200,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -1790,11 +1790,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 25,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 4,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -1810,9 +1810,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "500*2 (945)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -1826,11 +1826,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 24,
+    "active": 4,
+    "recovery": 15,
+    "overall": 42,
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2062,9 +2062,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 150,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -2078,11 +2078,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 5,
+    "active": 2,
+    "recovery": 11,
+    "overall": 17,
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2098,9 +2098,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 420,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -2114,11 +2114,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 7,
+    "active": 4,
+    "recovery": 15,
+    "overall": 25,
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2170,9 +2170,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 620,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -2186,11 +2186,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 10,
+    "active": 3,
+    "recovery": 21,
+    "overall": 33,
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2242,7 +2242,7 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 700,
     "guard": [
       ""
     ],
@@ -2258,11 +2258,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 13,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -11,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2314,9 +2314,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "500*2 (950)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -2330,11 +2330,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 10,
+    "active": "2 (3) 9",
+    "recovery": "17 + 8L",
+    "overall": 48,
+    "frameAdv": -16,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2350,9 +2350,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 750,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -2366,11 +2366,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 29,
+    "active": 4,
+    "recovery": 24,
+    "overall": 56,
+    "frameAdv": -11,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2386,9 +2386,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 2000,
     "guard": [
-      ""
+      "U"
     ],
     "cancel": [
       ""
@@ -2402,10 +2402,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 37,
+    "active": 4,
+    "recovery": 29,
+    "overall": 69,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -2422,9 +2422,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 180,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -2438,11 +2438,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 5,
+    "active": 2,
+    "recovery": 11,
+    "overall": 17,
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2458,9 +2458,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 480,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -2474,11 +2474,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2494,9 +2494,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 610,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -2510,11 +2510,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -11,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2854,9 +2854,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": 600,
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -2870,11 +2870,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 11,
+    "active": 8,
+    "recovery": "19 + 14L",
+    "overall": 51,
+    "frameAdv": "-2 (TK)",
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -2926,9 +2926,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "400*2 (764)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -2942,11 +2942,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": "",
+    "startup": 7,
+    "active": "3 (15) 3",
+    "recovery": 30,
+    "overall": "47 + 12L",
+    "frameAdv": "0 ~ +1 (TK)",
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -6804,7 +6804,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "214A",
     "name": "",
     "images": [
@@ -6840,7 +6840,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "214A",
     "name": "",
     "images": [
@@ -6876,7 +6876,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "214B",
     "name": "",
     "images": [
@@ -6912,7 +6912,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "214B",
     "name": "",
     "images": [
@@ -6948,7 +6948,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "214C",
     "name": "",
     "images": [
@@ -6984,7 +6984,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "214C",
     "name": "",
     "images": [
@@ -7020,7 +7020,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22A",
     "name": "",
     "images": [
@@ -7056,7 +7056,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22A",
     "name": "",
     "images": [
@@ -7092,7 +7092,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22B",
     "name": "",
     "images": [
@@ -7128,7 +7128,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22B",
     "name": "",
     "images": [
@@ -7164,7 +7164,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22C",
     "name": "",
     "images": [
@@ -7200,7 +7200,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22C",
     "name": "",
     "images": [
@@ -7236,7 +7236,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "22D",
     "name": "",
     "images": [
@@ -7272,7 +7272,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236[A]",
     "name": "",
     "images": [
@@ -7308,7 +7308,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236[BC]",
     "name": "",
     "images": [
@@ -7344,7 +7344,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236[BC]",
     "name": "",
     "images": [
@@ -7380,7 +7380,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236A",
     "name": "",
     "images": [
@@ -7416,7 +7416,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236A",
     "name": "",
     "images": [
@@ -7452,7 +7452,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236B",
     "name": "",
     "images": [
@@ -7488,7 +7488,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236B",
     "name": "",
     "images": [
@@ -7524,7 +7524,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236B",
     "name": "",
     "images": [
@@ -7560,7 +7560,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236BC",
     "name": "",
     "images": [
@@ -7596,7 +7596,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236BC",
     "name": "",
     "images": [
@@ -7632,7 +7632,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236C",
     "name": "",
     "images": [
@@ -7668,7 +7668,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236C",
     "name": "",
     "images": [
@@ -7704,7 +7704,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236X~X",
     "name": "",
     "images": [
@@ -7740,7 +7740,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "236X~X",
     "name": "",
     "images": [
@@ -7776,7 +7776,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2A",
     "name": "",
     "images": [
@@ -7812,7 +7812,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2A",
     "name": "",
     "images": [
@@ -7848,7 +7848,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2B",
     "name": "",
     "images": [
@@ -7884,7 +7884,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2B",
     "name": "",
     "images": [
@@ -7920,7 +7920,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2BC",
     "name": "",
     "images": [
@@ -7956,7 +7956,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2BC",
     "name": "",
     "images": [
@@ -7992,7 +7992,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2C",
     "name": "",
     "images": [
@@ -8028,7 +8028,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2C",
     "name": "",
     "images": [
@@ -8064,7 +8064,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "2C~2C",
     "name": "",
     "images": [
@@ -8100,7 +8100,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "3BC",
     "name": "",
     "images": [
@@ -8136,7 +8136,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "3C",
     "name": "",
     "images": [
@@ -8172,7 +8172,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "3C",
     "name": "",
     "images": [
@@ -8208,7 +8208,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "4[B]",
     "name": "",
     "images": [
@@ -8244,7 +8244,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "4/6AD",
     "name": "",
     "images": [
@@ -8280,7 +8280,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "4/6AD",
     "name": "",
     "images": [
@@ -8316,7 +8316,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "4B",
     "name": "",
     "images": [
@@ -8352,7 +8352,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "4BC",
     "name": "",
     "images": [
@@ -8388,7 +8388,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "4BC",
     "name": "",
     "images": [
@@ -8424,7 +8424,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5[C]",
     "name": "",
     "images": [
@@ -8460,7 +8460,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5A",
     "name": "",
     "images": [
@@ -8496,7 +8496,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5A",
     "name": "",
     "images": [
@@ -8532,7 +8532,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5B",
     "name": "",
     "images": [
@@ -8568,7 +8568,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5B",
     "name": "",
     "images": [
@@ -8604,7 +8604,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5C",
     "name": "",
     "images": [
@@ -8640,7 +8640,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "5C",
     "name": "",
     "images": [
@@ -8676,7 +8676,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "623A",
     "name": "",
     "images": [
@@ -8712,7 +8712,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "623B",
     "name": "",
     "images": [
@@ -8748,7 +8748,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "623C",
     "name": "",
     "images": [
@@ -8784,7 +8784,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "6BC",
     "name": "",
     "images": [
@@ -8820,7 +8820,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "6BC",
     "name": "",
     "images": [
@@ -8856,7 +8856,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "6C",
     "name": "",
     "images": [
@@ -8892,7 +8892,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "6C",
     "name": "",
     "images": [
@@ -8928,7 +8928,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "6C~C",
     "name": "",
     "images": [
@@ -8964,7 +8964,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "6C~C~C",
     "name": "",
     "images": [
@@ -9000,7 +9000,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "ABCD",
     "name": "",
     "images": [
@@ -9036,7 +9036,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "ABCD",
     "name": "",
     "images": [
@@ -9072,7 +9072,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j.4/6AD",
     "name": "",
     "images": [
@@ -9108,7 +9108,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j.4/6AD",
     "name": "",
     "images": [
@@ -9144,7 +9144,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j[C]",
     "name": "",
     "images": [
@@ -9180,7 +9180,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j[C]",
     "name": "",
     "images": [
@@ -9216,7 +9216,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j214A",
     "name": "",
     "images": [
@@ -9252,7 +9252,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j214B",
     "name": "",
     "images": [
@@ -9288,7 +9288,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j214C",
     "name": "",
     "images": [
@@ -9324,7 +9324,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j236A",
     "name": "",
     "images": [
@@ -9360,7 +9360,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j236B",
     "name": "",
     "images": [
@@ -9396,7 +9396,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j236C",
     "name": "",
     "images": [
@@ -9432,7 +9432,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j2C",
     "name": "",
     "images": [
@@ -9468,7 +9468,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j4BC",
     "name": "",
     "images": [
@@ -9504,7 +9504,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "j6BC",
     "name": "",
     "images": [
@@ -9540,7 +9540,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jA",
     "name": "",
     "images": [
@@ -9576,7 +9576,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jA",
     "name": "",
     "images": [
@@ -9612,7 +9612,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jB",
     "name": "",
     "images": [
@@ -9648,7 +9648,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jB",
     "name": "",
     "images": [
@@ -9684,7 +9684,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jB~j2B",
     "name": "",
     "images": [
@@ -9720,7 +9720,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jC",
     "name": "",
     "images": [
@@ -9756,7 +9756,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "jC",
     "name": "",
     "images": [
@@ -9792,7 +9792,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "rapid2",
     "name": "",
     "images": [
@@ -9828,7 +9828,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "rapid2",
     "name": "",
     "images": [
@@ -9864,7 +9864,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "rapid3",
     "name": "",
     "images": [
@@ -9900,7 +9900,7 @@
     "landing": ""
   },
   {
-    "chara": "Hisui &amp; Kohaku",
+    "chara": "Hisui & Kohaku",
     "input": "rapid3",
     "name": "",
     "images": [
@@ -13653,7 +13653,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -13904,9 +13904,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "440*3 (1200)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -13920,10 +13920,10 @@
     "attribute": [
       ""
     ],
-    "startup": 7,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 6,
+    "active": 11,
+    "recovery": 25,
+    "overall": 41,
     "frameAdv": -19,
     "invul": "",
     "minDamage": "",
@@ -13940,9 +13940,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "340*4, ? (1544)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -13957,11 +13957,11 @@
       ""
     ],
     "startup": 6,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 14,
+    "recovery": 27,
+    "overall": 46,
     "frameAdv": -30,
-    "invul": "",
+    "invul": "1-13 All",
     "minDamage": "",
     "landing": ""
   },
@@ -13976,9 +13976,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "300*6, ? (2010)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -13993,11 +13993,11 @@
       ""
     ],
     "startup": "4+1",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 22,
+    "recovery": 28,
+    "overall": 54,
     "frameAdv": -35,
-    "invul": "",
+    "invul": "1-16 All",
     "minDamage": "",
     "landing": ""
   },
@@ -14012,9 +14012,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "",
+    "damage": "550*3 (1473)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -14690,7 +14690,7 @@
     "input": "22[C]",
     "name": "",
     "images": [
-      "MBTL_Miyako_22[C].png"
+      "MBTL_Miyako_22C.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15094,7 +15094,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -15108,10 +15108,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 5,
+    "active": 2,
+    "recovery": 11,
+    "overall": 17,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15130,7 +15130,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -15144,10 +15144,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 8,
+    "active": 5,
+    "recovery": 16,
+    "overall": 28,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15202,7 +15202,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -15216,10 +15216,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 8,
+    "active": 5,
+    "recovery": 18,
+    "overall": 30,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15238,7 +15238,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -15252,10 +15252,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 14,
+    "active": 2,
+    "recovery": 19,
+    "overall": 34,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15338,7 +15338,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [
-      "MBTL_Miyako_throw.png"
+      "MBTL Miyako Grab.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15360,10 +15360,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 4,
+    "active": 3,
+    "recovery": 19,
+    "overall": 25,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15418,7 +15418,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -15432,10 +15432,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 5,
+    "active": 2,
+    "recovery": 11,
+    "overall": 17,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15454,7 +15454,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -15468,10 +15468,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 7,
+    "active": 4,
+    "recovery": 17,
+    "overall": 27,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15490,7 +15490,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -15504,10 +15504,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 9,
+    "active": 6,
+    "recovery": 18,
+    "overall": 32,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15698,7 +15698,7 @@
     "input": "ABCD",
     "name": "",
     "images": [
-      "MBTL_Miyako_ABCD.png"
+      "MBTL_Miyako_LA.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15770,7 +15770,7 @@
     "input": "j214A",
     "name": "",
     "images": [
-      "MBTL_Miyako_j214A.png"
+      "MBTL Miyako J214X.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15806,7 +15806,7 @@
     "input": "j214B",
     "name": "",
     "images": [
-      "MBTL_Miyako_j214B.png"
+      "MBTL Miyako J214X.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15878,7 +15878,7 @@
     "input": "j236A",
     "name": "",
     "images": [
-      "MBTL_Miyako_j236A.png"
+      "MBTL_Miyako_J236X.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15914,7 +15914,7 @@
     "input": "j236B",
     "name": "",
     "images": [
-      "MBTL_Miyako_j236B.png"
+      "MBTL_Miyako_J236X.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -15950,7 +15950,7 @@
     "input": "j236C",
     "name": "",
     "images": [
-      "MBTL_Miyako_j236C.png"
+      "MBTL_Miyako_J236X.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -16066,7 +16066,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -16080,10 +16080,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 5,
+    "active": 4,
+    "recovery": 20,
+    "overall": 28,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -16102,7 +16102,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -16116,10 +16116,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 6,
+    "active": 8,
+    "recovery": 18,
+    "overall": 31,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -16138,7 +16138,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -16152,10 +16152,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 8,
+    "active": 7,
+    "recovery": 25,
+    "overall": 39,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -16166,7 +16166,7 @@
     "input": "rapid2",
     "name": "",
     "images": [
-      "MBTL_Miyako_rapid2.png"
+      "MBTL_Miyako_Auto.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -16174,7 +16174,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -16188,10 +16188,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 9,
+    "active": 3,
+    "recovery": 23,
+    "overall": 34,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -16210,7 +16210,7 @@
     ],
     "damage": "",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -16224,10 +16224,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 11,
+    "active": 3,
+    "recovery": 19,
+    "overall": 32,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -16337,6 +16337,42 @@
     "recovery": "",
     "overall": "",
     "frameAdv": -4,
+    "invul": "",
+    "minDamage": "",
+    "landing": ""
+  },
+  {
+    "chara": "Noel",
+    "input": "214B~X",
+    "name": "",
+    "images": [
+      "MBTL_Noel_214BX.png"
+    ],
+    "hitboxes": [
+      "placeholder.png",
+      " placeholder.png"
+    ],
+    "damage": "",
+    "guard": [
+      "LH"
+    ],
+    "cancel": [
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -20749,7 +20785,7 @@
     ],
     "damage": 1200,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -20764,9 +20800,9 @@
       ""
     ],
     "startup": 8,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 10,
+    "recovery": 14,
+    "overall": 31,
     "frameAdv": "-4 (at worst)",
     "invul": "",
     "minDamage": "",
@@ -20785,7 +20821,7 @@
     ],
     "damage": 1330,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -20800,9 +20836,9 @@
       ""
     ],
     "startup": 17,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 10,
+    "recovery": 13,
+    "overall": 29,
     "frameAdv": "-1 (at worst)",
     "invul": "",
     "minDamage": "",
@@ -20821,7 +20857,7 @@
     ],
     "damage": "880, 765 (1645) ?",
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -20836,7 +20872,7 @@
       ""
     ],
     "startup": "4+3",
-    "active": "",
+    "active": 10,
     "recovery": "",
     "overall": "",
     "frameAdv": -13,
@@ -20857,7 +20893,7 @@
     ],
     "damage": 1000,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -20871,10 +20907,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 15,
+    "active": 3,
+    "recovery": 20,
+    "overall": 37,
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -20893,7 +20929,7 @@
     ],
     "damage": 1400,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -20908,11 +20944,11 @@
       ""
     ],
     "startup": 29,
-    "active": "",
-    "recovery": "",
+    "active": 2,
+    "recovery": 19,
     "overall": "",
     "frameAdv": -4,
-    "invul": "",
+    "invul": "17-29 All?",
     "minDamage": "",
     "landing": ""
   },
@@ -20929,7 +20965,7 @@
     ],
     "damage": 1400,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -20944,9 +20980,9 @@
       ""
     ],
     "startup": 13,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 5,
+    "recovery": 28,
+    "overall": 45,
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -20965,7 +21001,7 @@
     ],
     "damage": "270*6 (1620) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -20980,9 +21016,9 @@
       ""
     ],
     "startup": 11,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": "2(1)2(1)2(1)2(1)2",
+    "recovery": 19,
+    "overall": 43,
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -21071,9 +21107,9 @@
       "placeholder.png",
       " placeholder.png"
     ],
-    "damage": "520*3 (1560) ?",
+    "damage": "520*3 (1377) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -21088,9 +21124,9 @@
       ""
     ],
     "startup": 18,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": "2,2,2",
+    "recovery": 19,
+    "overall": 42,
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -21145,7 +21181,7 @@
     ],
     "damage": "660*4 (2640) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -21160,9 +21196,9 @@
       ""
     ],
     "startup": "3+6",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": "6 (11) 4",
+    "recovery": 26,
+    "overall": 55,
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -21325,7 +21361,7 @@
     ],
     "damage": "330*5 (1650) ?",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -21339,8 +21375,8 @@
     "attribute": [
       ""
     ],
-    "startup": 7,
-    "active": "",
+    "startup": 6,
+    "active": "1 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": -3,
@@ -21469,7 +21505,7 @@
     ],
     "damage": "320, 297, 275, 340, 292 (1452)?",
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -21483,8 +21519,8 @@
     "attribute": [
       ""
     ],
-    "startup": 14,
-    "active": "",
+    "startup": 13,
+    "active": 22,
     "recovery": "",
     "overall": "",
     "frameAdv": -32,
@@ -21649,7 +21685,7 @@
     ],
     "damage": "440*3 (1320) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -21664,7 +21700,7 @@
       ""
     ],
     "startup": 6,
-    "active": "",
+    "active": "1 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": -26,
@@ -21685,7 +21721,7 @@
     ],
     "damage": "440*3 (1320) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -21700,11 +21736,11 @@
       ""
     ],
     "startup": 6,
-    "active": "",
+    "active": "1 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": -30,
-    "invul": "",
+    "invul": "1-14 All",
     "minDamage": "",
     "landing": ""
   },
@@ -21721,7 +21757,7 @@
     ],
     "damage": "690*3 (2070) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -21736,7 +21772,7 @@
       ""
     ],
     "startup": "4+1",
-    "active": "",
+    "active": "3 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": -30,
@@ -21757,7 +21793,7 @@
     ],
     "damage": "750*2 (1500) ?",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -21771,10 +21807,10 @@
     "attribute": [
       ""
     ],
-    "startup": 15,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 14,
+    "active": "2 (4) 4",
+    "recovery": 19,
+    "overall": 42,
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -21901,7 +21937,7 @@
     ],
     "damage": "440*3 (1320) ?",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -21915,8 +21951,8 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
+    "startup": 6,
+    "active": "1 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -21951,8 +21987,8 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
+    "startup": 7,
+    "active": "1 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -21988,7 +22024,7 @@
       ""
     ],
     "startup": "",
-    "active": "",
+    "active": "3 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -22023,8 +22059,8 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
+    "startup": 6,
+    "active": "2 (2) 10",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -23516,8 +23552,7 @@
       "MBTL_Vlov_3C.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_3C_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23624,8 +23659,7 @@
       "MBTL_Vlov_5A.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_5A_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23660,8 +23694,7 @@
       "MBTL_Vlov_5b.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_5b_hb.png"
     ],
     "damage": "",
     "guard": [

@@ -44,9 +44,9 @@ const makeSelectableFields = (moveList) => {
 
   for (let i = 0; i < moveList.length; i++) {
     if (moveList[i]['name']) {
-      tempObj.name = `${i + 1}: ${moveList[i]['name']}`;
+      tempObj.name = `${i + 1}: ${moveList[i]['chara']}'s ${moveList[i]['name']}`;
     } else {
-      tempObj.name = `${i + 1}: ${moveList[i]['input']}`;
+      tempObj.name = `${i + 1}: ${moveList[i]['chara']}'s ${moveList[i]['input']}`;
     }
     tempObj.value = moveList[i]['input'];
     tempObj.inline = false;

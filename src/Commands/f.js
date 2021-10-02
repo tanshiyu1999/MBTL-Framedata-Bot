@@ -1,8 +1,8 @@
 const Command = require("../Structures/Command.js");
-const searchData = require("../Scripts/findFrameData.js")
+const searchData = require("../Scripts/findFrameData.js");
 const Discord = require("discord.js");
-const outputDiscord = require("../Scripts/outputDiscord.js")
-const {makeFields, makeSelectableFields} = require("../Scripts/makeFields.js")
+const outputDiscord = require("../Scripts/outputDiscord.js");
+const {makeFields, makeSelectableFields} = require("../Scripts/makeFields.js");
 const emoji = ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣","8️⃣", "9️⃣", "🔟"];
 
 
@@ -15,7 +15,7 @@ module.exports = new Command({
 
     if (moveList.length == 1) {
       outputDiscord(moveList, message)
-    } else if (moveList.length > 1) {
+    } else if (moveList.length > 1 && moveList.length < 11) {
       const confirmMove = new Discord.MessageEmbed();
       const inputSelectableFields = makeSelectableFields(moveList);
 

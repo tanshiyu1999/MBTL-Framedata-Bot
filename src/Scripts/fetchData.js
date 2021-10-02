@@ -15,13 +15,26 @@ const fetchData = async () => {
     .catch((err) => {
       console.log(err)
   });
+
+  // Parsing data to desirable format
+  for (let i = 0; i < fetchedData.length; i++) {
+    if (fetchedData[i]['chara'] == "Hisui &amp; Kohaku") {
+      fetchedData[i]['chara'] = "Hisui & Kohaku"
+    }
+  }
+
+
+
+
+
+
+
+
+
   console.log("Data Fetched From Cargo")
 
-  // for (let i = 0; i < fetchedData.length; i++) {
-  //   Object.keys(fetchedData[i]).forEach(key => {
-  //     fetchedData[i][key].toString;
-  //   })
-  // }
+
+
 
   fs.writeFileSync("./src/Data/frameDataBase.json", JSON.stringify(fetchedData, undefined, 2))
 
