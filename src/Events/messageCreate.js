@@ -11,6 +11,11 @@ module.exports = new Event("messageCreate", (client, message) => {
 
   const args = message.content.substring(client.prefix.length).split(/ +/);
 
+  if (args.length == 1 && args[0] == 'f') {
+    console.log("Only f command is included")
+    return;
+  }
+
 
   // return the command if it is equal to the first argument
   const command = client.commands.find(cmd => {
@@ -25,7 +30,8 @@ module.exports = new Event("messageCreate", (client, message) => {
     return; //message.reply(`${args[0]} is not a valid command!`)
   }
 
-  // args = inputParser(args)
+
+  
 
   command.run(message, args, client);
 

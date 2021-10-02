@@ -1,5 +1,6 @@
 const Command = require("../Structures/Command.js");
 const searchData = require("../Scripts/findFrameData.js");
+const inputParser = require("../Scripts/inputParser.js");
 const Discord = require("discord.js");
 const outputDiscord = require("../Scripts/outputDiscord.js");
 const {makeFields, makeSelectableFields} = require("../Scripts/makeFields.js");
@@ -11,7 +12,27 @@ module.exports = new Command({
   description: "Shows an embed",
   permission: "SEND_MESSAGES",
   async run(message, args, client) {
-    let moveList = await searchData(args[0], args[1]);
+    let parsedArgs = inputParser(args);
+    let moveList;
+
+    if (parsedArgs[0]) {
+      console.log(parsedArgs)
+      moveList = await searchData(parsedArgs[0], parsedArgs[1]);
+    } else {
+      // Will look through inputs and stuff
+
+
+      console.log(`Cannot find ${message.content}`);
+      const output = new Discord.MessageEmbed();
+      output
+        .setTitle(`${message.content} cannot be found`)
+        .setDescription('Please ensure that you have entered the command correctly \n !f (Name) (Move)')
+        .setColor("RED")
+      message.channel.send({embeds:[output]});
+      return;
+    }
+
+    
 
     if (moveList.length == 1) {
       outputDiscord(moveList, message)
