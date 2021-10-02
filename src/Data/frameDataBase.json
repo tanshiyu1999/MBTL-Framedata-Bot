@@ -11710,8 +11710,7 @@
       "MBTL_Kouma_236A.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_236X.png"
     ],
     "damage": "",
     "guard": [
@@ -11746,8 +11745,7 @@
       "MBTL_Kouma_236B.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_236X.png"
     ],
     "damage": "",
     "guard": [
@@ -11854,8 +11852,7 @@
       "MBTL_Kouma_236X4X.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_236XX_Hitbox.png"
     ],
     "damage": "",
     "guard": [
@@ -11890,8 +11887,7 @@
       "MBTL_Kouma_236XX.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_236XX_Hitbox.png"
     ],
     "damage": "",
     "guard": [
@@ -11926,8 +11922,7 @@
       "MBTL_Kouma_236XX4X4X.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_236XXX_Hitbox.png"
     ],
     "damage": "",
     "guard": [
@@ -11959,11 +11954,10 @@
     "input": "236X~X/4X~X",
     "name": "",
     "images": [
-      "MBTL_Kouma_236XX4XX.png"
+      "MBTL_Kouma_236X4X4X.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_236XXX_Hitbox.png"
     ],
     "damage": "",
     "guard": [
@@ -12151,8 +12145,8 @@
       "MBTL_Kouma_3BC.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_3BC_Hitbox.png",
+      " MBTL_Koouma_623A2_Hitbox.png"
     ],
     "damage": "",
     "guard": [
@@ -12775,8 +12769,7 @@
       "MBTL_Kouma_j236B.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_j236A_Hitbox.png"
     ],
     "damage": "",
     "guard": [
@@ -12883,8 +12876,7 @@
       "MBTL_Kouma_j6BC.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Kouma_6BC2.png"
     ],
     "damage": "",
     "guard": [
@@ -14618,7 +14610,7 @@
     "input": "214B",
     "name": "",
     "images": [
-      "MBTL_Miyako_214B.png"
+      "MBTL_Miyako_214A.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -14870,7 +14862,7 @@
     "input": "236B",
     "name": "",
     "images": [
-      "MBTL_Miyako_236B.png"
+      "MBTL_Miyako_236A.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -16202,7 +16194,7 @@
     "input": "rapid3",
     "name": "",
     "images": [
-      "MBTL_Miyako_rapid3.png"
+      "MBTL_Miyako_3C.png"
     ],
     "hitboxes": [
       "placeholder.png",
@@ -22819,7 +22811,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -7,
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -22855,7 +22847,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -1,
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": ""
@@ -23372,8 +23364,7 @@
       "MBTL_Vlov_2A.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_2A_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23408,8 +23399,7 @@
       "MBTL_Vlov_2B.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_2B_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23516,8 +23506,7 @@
       "MBTL_Vlov_2C.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_2C_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -24377,8 +24366,7 @@
       "MBTL_Vlov_jA.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_jA_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -24413,8 +24401,7 @@
       "MBTL_Vlov_jB.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_jB_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -24449,8 +24436,7 @@
       "MBTL_Vlov_jC.png"
     ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Vlov_jC_hb.png"
     ],
     "damage": "",
     "guard": [

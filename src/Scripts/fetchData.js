@@ -19,15 +19,15 @@ const fetchData = async () => {
 
 
   // Parsing data to desirable format
-  for (let i = 0; i < fetchedData.length; i++) {
-    if (fetchedData[i]['chara'] == "Hisui &amp; Kohaku") {
-      fetchedData[i]['chara'] = "Maids"
+  if (fetchedData) {
+    console.log("Data Fetched From Cargo")
+    for (let i = 0; i < fetchedData.length; i++) {
+      if (fetchedData[i]['chara'] == "Hisui &amp; Kohaku") {
+        fetchedData[i]['chara'] = "Maids"
+      }
     }
+    fs.writeFileSync("./src/Data/frameDataBase.json", JSON.stringify(fetchedData, undefined, 2))
   }
-
-  console.log("Data Fetched From Cargo")
-
-  fs.writeFileSync("./src/Data/frameDataBase.json", JSON.stringify(fetchedData, undefined, 2))
 
   return;
 }
