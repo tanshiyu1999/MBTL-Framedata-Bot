@@ -25,7 +25,6 @@ module.exports = new Command({
     const loaded = new Discord.MessageEmbed();
     loaded
       .setTitle("New Frame Data has been fetched")
-      .setURL("https://wiki.gbl.gg/w/Main_Page")
       .setDescription("Data is fetched from [Mizuumi](https://wiki.gbl.gg/w/Main_Page).")
       .setColor("GREEN")
 

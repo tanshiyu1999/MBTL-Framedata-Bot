@@ -4,22 +4,22 @@ const frameDataBase = require("../Data/frameDataBase.json")
 
 // searchMoves will do a absolute search first.
 const searchMoves = (moveObj, move) => {
-  move = move.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&')
+  move = move.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
   // Generating the Regex 
-  let regex = `^[ \\.]?[${move[0]}][ \\.]?`;
+  let regex = `^[ \\.\\~]?[${move[0]}][ \\.\\~]?`;
   for (let i = 1; i < move.length; i++) {
     if (i == 1) {
-      regex = regex + "[ \\.]?";
+      regex = regex + "[ \\.\\~]?";
     }
     if (move[i] == ' ' || move[i] == '.') {
       continue;
     }
-    regex = regex + move.substring(i , i + 1) + "[ \\.]?";
+    regex = regex + move.substring(i , i + 1) + "[ \\.\\~]?";
   }
   let moveRegex = new RegExp(regex, 'i');
   
   if (moveObj['input'].match(moveRegex) || moveObj['name'].match(moveRegex)) {
-    console.log(`Matched move: ${moveObj['chara']}'s ${moveObj['input']}`)
+    console.log(`Regex Match: ${moveObj['chara']}'s ${moveObj['input']}`)
     return moveObj;
   }
   return null;
@@ -29,7 +29,7 @@ const searchMoves = (moveObj, move) => {
 const searchAbsoluteMoves = (moveObj, move) => {
   move = move.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&')
 
-  let absoluteMoveRegex = new RegExp("^(" + move + ")", 'i');
+  let absoluteMoveRegex = new RegExp("^(" + move + ")$", 'i');
   if (moveObj['name']) {
     if (moveObj['name'].match(absoluteMoveRegex) || moveObj['input'].match(absoluteMoveRegex)) {
       console.log("Absolute Match: ", moveObj['input']);
@@ -37,7 +37,7 @@ const searchAbsoluteMoves = (moveObj, move) => {
     }
   } else {
     if (moveObj['input'].match(absoluteMoveRegex)) {
-      console.log("Absolute Match: ", moveObj['input']);
+      console.log(`Absolute Match: ${moveObj['chara']}'s ${moveObj['input']}`);
       return moveObj;
     }
   }

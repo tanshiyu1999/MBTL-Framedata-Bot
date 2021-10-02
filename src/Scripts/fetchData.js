@@ -14,31 +14,20 @@ const fetchData = async () => {
     .then(response => response.json())
     .catch((err) => {
       console.log(err)
+      console.log("hello")
   });
+
 
   // Parsing data to desirable format
   for (let i = 0; i < fetchedData.length; i++) {
     if (fetchedData[i]['chara'] == "Hisui &amp; Kohaku") {
-      fetchedData[i]['chara'] = "Hisui & Kohaku"
+      fetchedData[i]['chara'] = "Maids"
     }
   }
 
-
-
-
-
-
-
-
-
   console.log("Data Fetched From Cargo")
 
-
-
-
   fs.writeFileSync("./src/Data/frameDataBase.json", JSON.stringify(fetchedData, undefined, 2))
-
-
 
   return;
 }
