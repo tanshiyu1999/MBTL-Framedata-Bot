@@ -20,13 +20,36 @@ const outputDiscord = (moveList, message) => {
     .setColor("BLURPLE")
     .addFields(...dataOutput)
     .setFooter("Data provided by Mizuumi wiki", "https://wiki.gbl.gg/mizulogo.png?1fe5d")
-  // console.log(imageOutput)
-  
-  for (let i = 0; i < imageOutput.length; i++) {
-    if (imageOutput[i].name == "images") {
-      output.setThumbnail(imageOutput[i].value)
+  console.log(imageOutput)
+
+  let printHitbox = false;
+  imageOutput.forEach(imageObj => {
+    if (imageObj.name == "hitboxes") {
+      if (imageObj.value != "") {
+        printHitbox = true;
+      }
+    }
+  })
+
+  if (printHitbox) {
+    for (let i = 0; i < imageOutput.length; i++) {
+      if (imageOutput[i].name == "hitboxes") {
+        output.setThumbnail(imageOutput[i].value)
+      }
+    }
+  } else {
+    for (let i = 0; i < imageOutput.length; i++) {
+      if (imageOutput[i].name == "images") {
+        output.setThumbnail(imageOutput[i].value)
+      }
     }
   }
+
+
+
+
+
+
 
   message.channel.send({embeds:[output]});
   

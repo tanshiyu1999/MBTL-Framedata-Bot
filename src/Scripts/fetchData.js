@@ -37,34 +37,67 @@ const moveLinkParser = (fetchedData) => {
 const fetchImage = async (fetchedData) => {
   const fetchPromise = import('node-fetch').then(mod => mod.default)
   const fetch = (...args) => fetchPromise.then(fetch => fetch(...args));
-  let tempList = []
+  let tempImageList = []
+  let tempHitBoxList = []
+
   for (let i = 0; i < fetchedData.length; i++) {
     var imageList = fetchedData[i].images;
     for (let j = 0; j < imageList.length; j++) {
       console.log(`Fetching: ${imageList[j]}`);
       let fetchedImage = await fetch(`https://wiki.gbl.gg/api.php?action=query&format=json&prop=imageinfo&titles=File:${imageList[j]}&iiprop=url`)
-      .then(response => response.json())
-      .catch((err) => {
-        // console.log(err)
-        console.log(`Error in procuring information from: ${imageList[j]}`)
-      });
+        .then(response => response.json())
+        .catch((err) => {
+          // console.log(err)
+          console.log(`Error in procuring information from: ${imageList[j]}`)
+        });
       try {
         if (Object.keys(fetchedImage.query.pages) != "-1") {
           let pages = fetchedImage.query.pages
           let pageKey = Object.keys(pages);
           let keyNumber = pageKey[0]
           let url = pages[keyNumber].imageinfo[0].url;
-          console.log(`Fetched: ${url}`)
-          tempList.push(url);
+          console.log(`Fetched Image: ${url}`)
+          tempImageList.push(url);
         }
       } catch (err) {
         console.log("Catched error for when API call for fetchIamge fails")
       }
     }
 
-    fetchedData[i].images = tempList;
-    tempList = [];
+    var hitBoxList = fetchedData[i].hitboxes;
+    for (let j = 0; j < hitBoxList.length; j++) {
+      if (hitBoxList[j].replace(" ", "") == "placeholder.png") {
+        continue;
+      }
+      console.log(`Fetching HitBox: ${hitBoxList[j].replace(" ", "")}`);
+      let fetchedHitBox = await fetch(`https://wiki.gbl.gg/api.php?action=query&format=json&prop=imageinfo&titles=File:${hitBoxList[j].replace(" ", "")}&iiprop=url`)
+        .then(response => response.json())
+        .catch((err) => {
+          // console.log(err);
+          console.log(`Error in procuring information from: ${hitBoxList[j]}`)
+        });
+      try {
+        if (Object.keys(fetchedHitBox.query.pages) != "-1") {
+          let pages = fetchedHitBox.query.pages;
+          let pageKey = Object.keys(pages);
+          let keyNumber = pageKey[0];
+          let url = pages[keyNumber].imageinfo[0].url;
+          console.log(`Fetched HitBox: ${url}`)
+          tempHitBoxList.push(url)
+        }
+      } catch {
+        console.log("Catched error for when API call for fetchHitBox fails")
+      }
+    }
+
+    fetchedData[i].images = tempImageList;
+    fetchedData[i].hitboxes = tempHitBoxList;
+    tempImageList = [];
+    tempHitBoxList = [];
   }
+
+
+  
   console.log("All Image Fetched.")
   return fetchedData;
 }

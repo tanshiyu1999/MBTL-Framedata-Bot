@@ -4,10 +4,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1320)",
     "guard": [
       ""
@@ -39,10 +36,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1320)",
     "guard": [
       ""
@@ -74,10 +68,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "490*5 (2450)",
     "guard": [
       ""
@@ -109,10 +100,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1320)",
     "guard": [
       ""
@@ -144,10 +132,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1320)",
     "guard": [
       ""
@@ -179,10 +164,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "520*5 (2600)",
     "guard": [
       ""
@@ -214,10 +196,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "320*4 (1280)",
     "guard": [
       ""
@@ -249,10 +228,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "320*4 (1280)",
     "guard": [
       ""
@@ -284,10 +260,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -319,10 +292,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "600, 510*4 (2640)",
     "guard": [
       ""
@@ -354,10 +324,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       ""
@@ -389,10 +356,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       ""
@@ -424,10 +388,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "600*3 (1800)",
     "guard": [
       ""
@@ -459,10 +420,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       ""
@@ -494,10 +452,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -529,10 +484,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -564,10 +516,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -599,10 +548,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "300*5 (1500)",
     "guard": [
       ""
@@ -634,10 +580,7 @@
     "input": "5[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "290*3 (870)",
     "guard": [
       ""
@@ -669,10 +612,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -704,10 +644,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -739,10 +676,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -774,10 +708,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -809,10 +740,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -844,10 +772,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "430*5 (2150)",
     "guard": [
       ""
@@ -879,10 +804,7 @@
     "input": "632146C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "800, 520 (1320)",
     "guard": [
       "Throw"
@@ -914,10 +836,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1320)",
     "guard": [
       ""
@@ -949,10 +868,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       ""
@@ -984,10 +900,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -1019,10 +932,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -1054,10 +964,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -1089,10 +996,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "320*4 (1280)",
     "guard": [
       ""
@@ -1124,10 +1028,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "320*4 (1280)",
     "guard": [
       ""
@@ -1159,10 +1060,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "600+510*4 (2640)",
     "guard": [
       ""
@@ -1194,10 +1092,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1320)",
     "guard": [
       ""
@@ -1229,10 +1124,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -1264,10 +1156,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -1299,10 +1188,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       ""
@@ -1334,10 +1220,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -1369,10 +1252,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -1404,10 +1284,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -1439,10 +1316,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "700, 850 (1442)",
     "guard": [
       ""
@@ -1474,10 +1348,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "1200, 320*2, 576 (2384)",
     "guard": [
       ""
@@ -1509,10 +1380,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "550*2 (1039)",
     "guard": [
       ""
@@ -1544,10 +1412,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "350*4 (1235)",
     "guard": [
       ""
@@ -1579,10 +1444,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "300*8 (1998)",
     "guard": [
       ""
@@ -1614,10 +1476,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "270*9 (1968)",
     "guard": [
       ""
@@ -1649,10 +1508,7 @@
     "input": "22X~66C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -1684,10 +1540,7 @@
     "input": "22X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -1719,10 +1572,7 @@
     "input": "236[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -1754,10 +1604,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "500*2 (945)",
     "guard": [
       "LH"
@@ -1789,10 +1636,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "500*2 (945)",
     "guard": [
       ""
@@ -1824,10 +1668,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -1859,10 +1700,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "320*11 (2568)",
     "guard": [
       ""
@@ -1894,10 +1732,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "450*2 (850)",
     "guard": [
       ""
@@ -1929,10 +1764,7 @@
     "input": "236X~X~4X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -1964,10 +1796,7 @@
     "input": "236X~X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1300,
     "guard": [
       ""
@@ -1999,10 +1828,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       "L"
@@ -2034,10 +1860,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "L"
@@ -2069,10 +1892,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "470*3 (1282)",
     "guard": [
       ""
@@ -2104,10 +1924,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -2139,10 +1956,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -2174,10 +1988,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -2209,10 +2020,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -2244,10 +2052,7 @@
     "input": "4C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "500*2 (950)",
     "guard": [
       "LH"
@@ -2279,10 +2084,7 @@
     "input": "5[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 750,
     "guard": [
       "H"
@@ -2314,10 +2116,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 2000,
     "guard": [
       "U"
@@ -2349,10 +2148,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -2384,10 +2180,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -2419,10 +2212,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -2454,10 +2244,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       ""
@@ -2489,10 +2276,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "450*3 (1228)",
     "guard": [
       ""
@@ -2524,10 +2308,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "270*8 (1855)",
     "guard": [
       ""
@@ -2559,10 +2340,7 @@
     "input": "623X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -2594,10 +2372,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "650*3 (1702)",
     "guard": [
       ""
@@ -2629,10 +2404,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -2664,10 +2436,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -2699,10 +2468,7 @@
     "input": "j22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "400*3 (1104)",
     "guard": [
       ""
@@ -2734,10 +2500,7 @@
     "input": "j22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "350*4 (1235)",
     "guard": [
       ""
@@ -2769,10 +2532,7 @@
     "input": "j2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 600,
     "guard": [
       "LHA"
@@ -2804,10 +2564,7 @@
     "input": "j2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "350*4 (1252)",
     "guard": [
       ""
@@ -2839,10 +2596,7 @@
     "input": "j2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "400*2 (764)",
     "guard": [
       "LHA"
@@ -2874,10 +2628,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -2909,10 +2660,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "240*2 (468)",
     "guard": [
       ""
@@ -2944,10 +2692,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       ""
@@ -2979,10 +2724,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -3014,10 +2756,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -3049,10 +2788,7 @@
     "input": "214[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640, 467 (1107)",
     "guard": [
       "LH"
@@ -3084,10 +2820,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3119,10 +2852,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3154,10 +2884,7 @@
     "input": "214B/C~A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3189,10 +2916,7 @@
     "input": "214B/C~B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3224,10 +2948,7 @@
     "input": "214B/C~X~A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -3259,10 +2980,7 @@
     "input": "214B/C~X~B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3294,10 +3012,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "280*12 (2077)",
     "guard": [
       "LH"
@@ -3329,10 +3044,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -3364,10 +3076,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -3399,10 +3108,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "310*7 (1795)",
     "guard": [
       "LH"
@@ -3434,10 +3140,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -3469,10 +3172,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -3505,7 +3205,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Ciel_236BC_hb.png"
+      "https://wiki.gbl.gg/images/d/df/MBTL_Ciel_236BC_hb.png"
     ],
     "damage": 3500,
     "guard": [
@@ -3538,10 +3238,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "170, 102 x 19 (2108)",
     "guard": [
       "LHA"
@@ -3573,10 +3270,7 @@
     "input": "236X~214X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "500*3 (1165)",
     "guard": [
       "LHA"
@@ -3608,10 +3302,7 @@
     "input": "236X~A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -3643,10 +3334,7 @@
     "input": "236X~B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -3678,10 +3366,7 @@
     "input": "236X~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -3716,10 +3401,7 @@
     "images": [
       "https://wiki.gbl.gg/images/0/04/MBTL_Ciel_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "L"
@@ -3755,10 +3437,7 @@
     "images": [
       "https://wiki.gbl.gg/images/e/e5/MBTL_Ciel_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "240*2 (468)",
     "guard": [
       "LH"
@@ -3792,10 +3471,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -3830,10 +3506,7 @@
     "images": [
       "https://wiki.gbl.gg/images/4/49/MBTL_Ciel_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 590,
     "guard": [
       "L"
@@ -3867,10 +3540,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640, 850 (1379)",
     "guard": [
       "LH"
@@ -3904,10 +3574,7 @@
     "images": [
       "https://wiki.gbl.gg/images/b/bb/MBTL_Ciel_3C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -3940,10 +3607,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       "U"
@@ -3975,10 +3639,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "450*4 (1327)",
     "guard": [
       "LH"
@@ -4010,10 +3671,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 980,
     "guard": [
       "LH"
@@ -4050,7 +3708,7 @@
       "https://wiki.gbl.gg/images/6/64/MBTL_Ciel_5A.png"
     ],
     "hitboxes": [
-      "MBTL_Ciel_5A_hb.png"
+      "https://wiki.gbl.gg/images/1/16/MBTL_Ciel_5A_hb.png"
     ],
     "damage": 160,
     "guard": [
@@ -4087,10 +3745,7 @@
     "images": [
       "https://wiki.gbl.gg/images/3/3a/MBTL_Ciel_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "LH"
@@ -4126,10 +3781,7 @@
     "images": [
       "https://wiki.gbl.gg/images/8/82/MBTL_Ciel_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -4165,10 +3817,7 @@
     "images": [
       "https://wiki.gbl.gg/images/a/a5/MBTL_Ciel_5C4C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       "LH"
@@ -4202,10 +3851,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "630, 556 (1186)",
     "guard": [
       "LH"
@@ -4237,10 +3883,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640, 556 (1196)",
     "guard": [
       "LH"
@@ -4272,10 +3915,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "900*3 (2358)",
     "guard": [
       "LH"
@@ -4307,10 +3947,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "H"
@@ -4344,10 +3981,7 @@
     "images": [
       "https://wiki.gbl.gg/images/f/fc/MBTL_Ciel_6C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "700, 680 (1380)",
     "guard": [
       "LH"
@@ -4383,7 +4017,7 @@
       "https://wiki.gbl.gg/images/9/9a/MBTL_Ciel_ABCD.png"
     ],
     "hitboxes": [
-      "MBTL_Ciel_ABCD_hb.png"
+      "https://wiki.gbl.gg/images/e/e6/MBTL_Ciel_ABCD_hb.png"
     ],
     "damage": 4800,
     "guard": [
@@ -4416,10 +4050,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -4451,10 +4082,7 @@
     "input": "j214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 800,
     "guard": [
       "LH"
@@ -4486,10 +4114,7 @@
     "input": "j214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 800,
     "guard": [
       "LH"
@@ -4521,10 +4146,7 @@
     "input": "j214B/C~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "500*2 (946~1045)",
     "guard": [
       "LH"
@@ -4556,10 +4178,7 @@
     "input": "j214B/C~X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "500*3 (1365)",
     "guard": [
       "LH"
@@ -4591,10 +4210,7 @@
     "input": "j214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "300*9 (1854)",
     "guard": [
       "LH"
@@ -4626,10 +4242,7 @@
     "input": "j22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1084)",
     "guard": [
       "LH"
@@ -4662,10 +4275,7 @@
     "input": "j22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "600*2 (1122)",
     "guard": [
       "LH"
@@ -4698,10 +4308,7 @@
     "input": "j22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "370*7 (2142)",
     "guard": [
       "LH"
@@ -4733,10 +4340,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -4768,10 +4372,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -4803,10 +4404,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "620*4 (2126)",
     "guard": [
       ""
@@ -4838,10 +4436,7 @@
     "input": "j2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "EX",
@@ -4874,10 +4469,7 @@
     "input": "j4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1315,
     "guard": [
       "LH"
@@ -4909,10 +4501,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -4946,10 +4535,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d4/MBTL_Ciel_jA.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 130,
     "guard": [
       "H"
@@ -4986,10 +4572,7 @@
     "images": [
       "https://wiki.gbl.gg/images/0/0d/MBTL_Ciel_jB.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 380,
     "guard": [
       "H"
@@ -5026,10 +4609,7 @@
     "images": [
       "https://wiki.gbl.gg/images/7/76/MBTL_Ciel_jC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 520,
     "guard": [
       "H"
@@ -5066,10 +4646,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d3/MBTL_Ciel_rapid2.png"
     ],
-    "hitboxes": [
-      "MBTL_Ciel_rapid2_hb.png",
-      " MBTL_Ciel_rapid2_2_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "230, 184",
     "guard": [
       "LH"
@@ -5102,10 +4679,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -5138,10 +4712,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5173,10 +4744,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5208,10 +4776,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5243,10 +4808,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5278,10 +4840,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5313,10 +4872,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5348,10 +4904,7 @@
     "input": "236[BC]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5383,10 +4936,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5418,10 +4968,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5453,10 +5000,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5488,10 +5032,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5523,10 +5064,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5558,10 +5096,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5593,10 +5128,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5628,10 +5160,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5663,10 +5192,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5698,10 +5224,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5733,10 +5256,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5768,10 +5288,7 @@
     "input": "4[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5803,10 +5320,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5838,10 +5352,7 @@
     "input": "4B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5873,10 +5384,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5908,10 +5416,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5943,10 +5448,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -5978,10 +5480,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6013,10 +5512,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6048,10 +5544,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6083,10 +5576,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6118,10 +5608,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6153,10 +5640,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6188,10 +5672,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6223,10 +5704,7 @@
     "input": "6C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6258,10 +5736,7 @@
     "input": "6C~C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6293,10 +5768,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6328,10 +5800,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6363,10 +5832,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6398,10 +5864,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6433,10 +5896,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6468,10 +5928,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6503,10 +5960,7 @@
     "input": "j2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6538,10 +5992,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6573,10 +6024,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6608,10 +6056,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6643,10 +6088,7 @@
     "input": "jB~j2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6678,10 +6120,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6713,10 +6152,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6748,10 +6184,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6783,10 +6216,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6818,10 +6248,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6853,10 +6280,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6888,10 +6312,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6923,10 +6344,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6958,10 +6376,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6993,10 +6408,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7028,10 +6440,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7063,10 +6472,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7098,10 +6504,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7133,10 +6536,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7168,10 +6568,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7203,10 +6600,7 @@
     "input": "22D",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7238,10 +6632,7 @@
     "input": "236[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7273,10 +6664,7 @@
     "input": "236[BC]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7308,10 +6696,7 @@
     "input": "236[BC]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7343,10 +6728,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7378,10 +6760,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7413,10 +6792,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7448,10 +6824,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7483,10 +6856,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7518,10 +6888,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7553,10 +6920,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7588,10 +6952,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7623,10 +6984,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7658,10 +7016,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7693,10 +7048,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7728,10 +7080,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7763,10 +7112,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7798,10 +7144,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7833,10 +7176,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7868,10 +7208,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7903,10 +7240,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7938,10 +7272,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -7973,10 +7304,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8008,10 +7336,7 @@
     "input": "2C~2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8043,10 +7368,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8078,10 +7400,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8113,10 +7432,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8148,10 +7464,7 @@
     "input": "4[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8183,10 +7496,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8218,10 +7528,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8253,10 +7560,7 @@
     "input": "4B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8288,10 +7592,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8323,10 +7624,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8358,10 +7656,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8393,10 +7688,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8428,10 +7720,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8463,10 +7752,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8498,10 +7784,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8533,10 +7816,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8568,10 +7848,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8603,10 +7880,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8638,10 +7912,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8673,10 +7944,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8708,10 +7976,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8743,10 +8008,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8778,10 +8040,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8813,10 +8072,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8848,10 +8104,7 @@
     "input": "6C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8883,10 +8136,7 @@
     "input": "6C~C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8918,10 +8168,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8953,10 +8200,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8988,10 +8232,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9023,10 +8264,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9058,10 +8296,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9093,10 +8328,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9128,10 +8360,7 @@
     "input": "j214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9163,10 +8392,7 @@
     "input": "j214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9198,10 +8424,7 @@
     "input": "j214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9233,10 +8456,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9268,10 +8488,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9303,10 +8520,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9338,10 +8552,7 @@
     "input": "j2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9373,10 +8584,7 @@
     "input": "j4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9408,10 +8616,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9443,10 +8648,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9478,10 +8680,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9513,10 +8712,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9548,10 +8744,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9583,10 +8776,7 @@
     "input": "jB~j2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9618,10 +8808,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9653,10 +8840,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9688,10 +8872,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9723,10 +8904,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9758,10 +8936,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9793,10 +8968,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9828,10 +9000,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9863,10 +9032,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9898,10 +9064,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -9933,10 +9096,7 @@
     "input": "214X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -9968,10 +9128,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -10003,10 +9160,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -10038,10 +9192,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -10073,10 +9224,7 @@
     "input": "236[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -10108,10 +9256,7 @@
     "input": "236[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10143,10 +9288,7 @@
     "input": "236[BC]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10178,10 +9320,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "L"
@@ -10214,10 +9353,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10250,10 +9386,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10285,10 +9418,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10320,10 +9450,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10355,10 +9482,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "L"
@@ -10396,10 +9520,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH",
@@ -10437,10 +9558,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -10472,10 +9590,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "L"
@@ -10513,10 +9628,7 @@
     "input": "2C~2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10552,10 +9664,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10589,10 +9698,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -10624,10 +9730,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -10659,10 +9762,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10700,10 +9800,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10740,10 +9837,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10780,10 +9874,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10815,10 +9906,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10852,10 +9940,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -10887,10 +9972,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -10922,10 +10004,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "A"
@@ -10962,10 +10041,7 @@
     "input": "j214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -10997,10 +10073,7 @@
     "input": "j214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -11032,10 +10105,7 @@
     "input": "j214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -11067,10 +10137,7 @@
     "input": "j4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -11102,10 +10169,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "(L)HA"
@@ -11142,10 +10206,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "(L)HA"
@@ -11182,10 +10243,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "(L)HA"
@@ -11222,10 +10280,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -11260,10 +10315,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -11298,7 +10350,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_2C_Hitbox.png"
+      "https://wiki.gbl.gg/images/b/bb/MBTL_Kouma_2C_Hitbox.png"
     ],
     "damage": 1000,
     "guard": [
@@ -11337,7 +10389,7 @@
       "https://wiki.gbl.gg/images/e/e6/MBTL_Kouma_214A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_214A_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/6/69/MBTL_Kouma_214A_Hitbox.PNG"
     ],
     "damage": 1400,
     "guard": [
@@ -11373,7 +10425,7 @@
       "https://wiki.gbl.gg/images/0/0b/MBTL_Kouma_214B.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_214B_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/9/9c/MBTL_Kouma_214B_Hitbox.PNG"
     ],
     "damage": 1400,
     "guard": [
@@ -11407,7 +10459,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_214C_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/e/ec/MBTL_Kouma_214C_Hitbox.PNG"
     ],
     "damage": 2300,
     "guard": [
@@ -11442,9 +10494,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d7/MBTL_Kouma_214X236C.png"
     ],
-    "hitboxes": [
-      ""
-    ],
+    "hitboxes": [],
     "damage": 2000,
     "guard": [
       ""
@@ -11478,9 +10528,7 @@
     "images": [
       "https://wiki.gbl.gg/images/4/4b/MBTL_Kouma_214X4X.png"
     ],
-    "hitboxes": [
-      ""
-    ],
+    "hitboxes": [],
     "damage": 1600,
     "guard": [
       ""
@@ -11515,7 +10563,7 @@
       "https://wiki.gbl.gg/images/4/47/MBTL_Kouma_22A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_22X_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/8/81/MBTL_Kouma_22X_Hitbox.PNG"
     ],
     "damage": 1200,
     "guard": [
@@ -11551,8 +10599,8 @@
       "https://wiki.gbl.gg/images/b/b3/MBTL_Kouma_22B.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_22X_Hitbox.PNG",
-      " MBTL_Kouma_22B2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/8/81/MBTL_Kouma_22X_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/e/e7/MBTL_Kouma_22B2_Hitbox.PNG"
     ],
     "damage": 1200,
     "guard": [
@@ -11588,7 +10636,7 @@
       "https://wiki.gbl.gg/images/1/1b/MBTL_Kouma_22C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_22C_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/6/6e/MBTL_Kouma_22C_Hitbox.PNG"
     ],
     "damage": 2308,
     "guard": [
@@ -11624,7 +10672,7 @@
       "https://wiki.gbl.gg/images/0/08/MBTL_Kouma_236A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_236X_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/8/83/MBTL_Kouma_236X_Hitbox.PNG"
     ],
     "damage": 1000,
     "guard": [
@@ -11658,7 +10706,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_236X_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/8/83/MBTL_Kouma_236X_Hitbox.PNG"
     ],
     "damage": 1000,
     "guard": [
@@ -11694,8 +10742,8 @@
       "https://wiki.gbl.gg/images/e/ec/MBTL_Kouma_236BC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_236BC1_Hitbox.PNG",
-      " MBTL_Kouma_236BC2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/8/88/MBTL_Kouma_236BC1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/8/8a/MBTL_Kouma_236BC2_Hitbox.PNG"
     ],
     "damage": 3500,
     "guard": [
@@ -11731,7 +10779,7 @@
       "https://wiki.gbl.gg/images/d/de/MBTL_Kouma_236C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_236C_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/0/0e/MBTL_Kouma_236C_Hitbox.PNG"
     ],
     "damage": 2602,
     "guard": [
@@ -11765,7 +10813,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_236XX_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/3/3a/MBTL_Kouma_236XX_Hitbox.PNG"
     ],
     "damage": 1000,
     "guard": [
@@ -11801,7 +10849,7 @@
       "https://wiki.gbl.gg/images/b/bb/MBTL_Kouma_236XX.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_236XX_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/3/3a/MBTL_Kouma_236XX_Hitbox.PNG"
     ],
     "damage": 1000,
     "guard": [
@@ -11835,7 +10883,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_236XXX_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/4/43/MBTL_Kouma_236XXX_Hitbox.PNG"
     ],
     "damage": 1000,
     "guard": [
@@ -11871,7 +10919,7 @@
       "https://wiki.gbl.gg/images/b/bb/MBTL_Kouma_236XX4X4X.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_236XXX_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/4/43/MBTL_Kouma_236XXX_Hitbox.PNG"
     ],
     "damage": 1100,
     "guard": [
@@ -11907,7 +10955,7 @@
       "https://wiki.gbl.gg/images/8/87/MBTL_Kouma_2A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_2A_Hitbox.png"
+      "https://wiki.gbl.gg/images/b/b3/MBTL_Kouma_2A_Hitbox.png"
     ],
     "damage": 180,
     "guard": [
@@ -11946,7 +10994,7 @@
       "https://wiki.gbl.gg/images/e/ee/MBTL_Kouma_2B.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_2B_Hitbox.png"
+      "https://wiki.gbl.gg/images/0/07/MBTL_Kouma_2B_Hitbox.png"
     ],
     "damage": 460,
     "guard": [
@@ -11985,8 +11033,8 @@
       "https://wiki.gbl.gg/images/b/b9/MBTL_Kouma_2BC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_22X_Hitbox.PNG",
-      " MBTL_Kouma_2BC2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/8/81/MBTL_Kouma_22X_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/a/ac/MBTL_Kouma_2BC2_Hitbox.PNG"
     ],
     "damage": 1228,
     "guard": [
@@ -12022,7 +11070,7 @@
       "https://wiki.gbl.gg/images/0/0d/MBTL_Kouma_2C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_2C_Hitbox.png"
+      "https://wiki.gbl.gg/images/b/bb/MBTL_Kouma_2C_Hitbox.png"
     ],
     "damage": 680,
     "guard": [
@@ -12061,8 +11109,7 @@
       "https://wiki.gbl.gg/images/d/df/MBTL_Kouma_3BC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_3BC_Hitbox.PNG",
-      " MBTL_Koouma_623A2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/5/59/MBTL_Kouma_3BC_Hitbox.PNG"
     ],
     "damage": 1196,
     "guard": [
@@ -12098,7 +11145,7 @@
       "https://wiki.gbl.gg/images/7/70/MBTL_Kouma_3C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_3C_Hitbox.png"
+      "https://wiki.gbl.gg/images/4/45/MBTL_Kouma_3C_Hitbox.png"
     ],
     "damage": 780,
     "guard": [
@@ -12134,7 +11181,7 @@
       "https://wiki.gbl.gg/images/a/a6/MBTL_Kouma_throw.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_Throw_Hitbox.png"
+      "https://wiki.gbl.gg/images/0/05/MBTL_Kouma_Throw_Hitbox.png"
     ],
     "damage": 1500,
     "guard": [
@@ -12170,8 +11217,8 @@
       "https://wiki.gbl.gg/images/8/81/MBTL_Kouma_4BC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_4BC1_Hitbox.PNG",
-      " MBTL_Kouma_4BC2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/e/ea/MBTL_Kouma_4BC1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/d/d9/MBTL_Kouma_4BC2_Hitbox.PNG"
     ],
     "damage": 1400,
     "guard": [
@@ -12205,7 +11252,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_5C_Hitbox.png"
+      "https://wiki.gbl.gg/images/0/04/MBTL_Kouma_5C_Hitbox.png"
     ],
     "damage": 1767,
     "guard": [
@@ -12241,7 +11288,7 @@
       "https://wiki.gbl.gg/images/2/2c/MBTL_Kouma_5A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_5A_Hitbox.png"
+      "https://wiki.gbl.gg/images/e/e3/MBTL_Kouma_5A_Hitbox.png"
     ],
     "damage": 190,
     "guard": [
@@ -12280,7 +11327,7 @@
       "https://wiki.gbl.gg/images/2/2c/MBTL_Kouma_5B.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_5B_Hitbox.png"
+      "https://wiki.gbl.gg/images/5/58/MBTL_Kouma_5B_Hitbox.png"
     ],
     "damage": 510,
     "guard": [
@@ -12319,7 +11366,7 @@
       "https://wiki.gbl.gg/images/8/8b/MBTL_Kouma_5C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_5C_Hitbox.png"
+      "https://wiki.gbl.gg/images/0/04/MBTL_Kouma_5C_Hitbox.png"
     ],
     "damage": 680,
     "guard": [
@@ -12358,8 +11405,8 @@
       "https://wiki.gbl.gg/images/0/09/MBTL_Kouma_623A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_623A1_Hitbox.PNG",
-      " MBTL_Kouma_623A2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/d/d4/MBTL_Kouma_623A1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/c/c7/MBTL_Kouma_623A2_Hitbox.PNG"
     ],
     "damage": 1039,
     "guard": [
@@ -12395,8 +11442,8 @@
       "https://wiki.gbl.gg/images/8/88/MBTL_Kouma_623B.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_623B1_Hitbox.PNG",
-      " MBTL_Kouma_623B2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/5/58/MBTL_Kouma_623B1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/4/4a/MBTL_Kouma_623B2_Hitbox.PNG"
     ],
     "damage": 1302,
     "guard": [
@@ -12432,9 +11479,9 @@
       "https://wiki.gbl.gg/images/3/3d/MBTL_Kouma_623C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_623C1_Hitbox.PNG",
-      " MBTL_Kouma_623C2_Hitbox.PNG",
-      " MBTL_Kouma_623C_Projectile_Hitbox.png"
+      "https://wiki.gbl.gg/images/3/34/MBTL_Kouma_623C1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/2/23/MBTL_Kouma_623C2_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/e/ea/MBTL_Kouma_623C_Projectile_Hitbox.png"
     ],
     "damage": 2098,
     "guard": [
@@ -12468,7 +11515,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_623XX_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/d/d0/MBTL_Kouma_623XX_Hitbox.PNG"
     ],
     "damage": 850,
     "guard": [
@@ -12504,8 +11551,8 @@
       "https://wiki.gbl.gg/images/b/b5/MBTL_Kouma_6BC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_6BC1_Hitbox.PNG",
-      " MBTL_Kouma_6BC2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/e/e0/MBTL_Kouma_6BC1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/7/70/MBTL_Kouma_6BC2_Hitbox.PNG"
     ],
     "damage": 1357,
     "guard": [
@@ -12539,7 +11586,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_ABCD_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/d/da/MBTL_Kouma_ABCD_Hitbox.PNG"
     ],
     "damage": "4800 (raw, does more damage in blood heat according to remaining heat time.)",
     "guard": [
@@ -12574,10 +11621,7 @@
     "images": [
       "https://wiki.gbl.gg/images/2/27/MBTL_Kouma_airthrow.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 2000,
     "guard": [
       ""
@@ -12609,9 +11653,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "MBTL Kouma j-C- Hitbox.png"
-    ],
+    "hitboxes": [],
     "damage": 1300,
     "guard": [
       "HA"
@@ -12649,7 +11691,7 @@
       "https://wiki.gbl.gg/images/1/18/MBTL_Kouma_j236A.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_j236A_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/d/d5/MBTL_Kouma_j236A_Hitbox.PNG"
     ],
     "damage": 1283,
     "guard": [
@@ -12683,7 +11725,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_j236A_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/d/d5/MBTL_Kouma_j236A_Hitbox.PNG"
     ],
     "damage": 1313,
     "guard": [
@@ -12719,9 +11761,9 @@
       "https://wiki.gbl.gg/images/1/1a/MBTL_Kouma_j236C.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_j236C1_Hitbox.PNG",
-      " MBTL_Kouma_j236C2_Hitbox.PNG",
-      " MBTL_Kouma_623C_Projectile_Hitbox.png"
+      "https://wiki.gbl.gg/images/4/43/MBTL_Kouma_j236C1_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/7/74/MBTL_Kouma_j236C2_Hitbox.PNG",
+      "https://wiki.gbl.gg/images/e/ea/MBTL_Kouma_623C_Projectile_Hitbox.png"
     ],
     "damage": 2132,
     "guard": [
@@ -12755,7 +11797,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "MBTL_Kouma_j236XX_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/2/2a/MBTL_Kouma_j236XX_Hitbox.PNG"
     ],
     "damage": 1500,
     "guard": [
@@ -12791,7 +11833,7 @@
       "https://wiki.gbl.gg/images/b/ba/MBTL_Kouma_j6BC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_6BC2_Hitbox.PNG"
+      "https://wiki.gbl.gg/images/7/70/MBTL_Kouma_6BC2_Hitbox.PNG"
     ],
     "damage": 1300,
     "guard": [
@@ -12827,7 +11869,7 @@
       "https://wiki.gbl.gg/images/0/02/MBTL_Kouma_jA.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_jA_Hitbox.png"
+      "https://wiki.gbl.gg/images/8/87/MBTL_Kouma_jA_Hitbox.png"
     ],
     "damage": 370,
     "guard": [
@@ -12866,7 +11908,7 @@
       "https://wiki.gbl.gg/images/2/2c/MBTL_Kouma_jB.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_jB_Hitbox.png"
+      "https://wiki.gbl.gg/images/4/4b/MBTL_Kouma_jB_Hitbox.png"
     ],
     "damage": 510,
     "guard": [
@@ -12905,7 +11947,7 @@
       "https://wiki.gbl.gg/images/1/12/MBTL_Kouma_jC.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_jC_Hitbox.png"
+      "https://wiki.gbl.gg/images/0/0a/MBTL_Kouma_jC_Hitbox.png"
     ],
     "damage": 650,
     "guard": [
@@ -12944,7 +11986,7 @@
       "https://wiki.gbl.gg/images/9/92/MBTL_Kouma_rapid2.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_Rapid2_Hitbox.png"
+      "https://wiki.gbl.gg/images/e/e0/MBTL_Kouma_Rapid2_Hitbox.png"
     ],
     "damage": 400,
     "guard": [
@@ -12980,7 +12022,7 @@
       "https://wiki.gbl.gg/images/2/27/MBTL_Kouma_rapid3.png"
     ],
     "hitboxes": [
-      "MBTL_Kouma_3C_Hitbox.png"
+      "https://wiki.gbl.gg/images/4/45/MBTL_Kouma_3C_Hitbox.png"
     ],
     "damage": 780,
     "guard": [
@@ -13013,10 +12055,7 @@
     "input": "214[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13048,10 +12087,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13083,10 +12119,7 @@
     "input": "214A~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13118,10 +12151,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13153,10 +12183,7 @@
     "input": "214B/C~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13188,10 +12215,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13223,10 +12247,7 @@
     "input": "236[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13258,10 +12279,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -13293,10 +12311,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13328,10 +12343,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13363,10 +12375,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13400,10 +12409,7 @@
     "images": [
       "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       "L"
@@ -13437,10 +12443,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d4/MBTL_Roa_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "L"
@@ -13474,10 +12477,7 @@
     "images": [
       "https://wiki.gbl.gg/images/5/5c/MBTL_Roa_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -13509,10 +12509,7 @@
     "input": "2C~2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       "LH"
@@ -13544,10 +12541,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LHA"
@@ -13579,10 +12573,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13614,10 +12605,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13649,10 +12637,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -13686,10 +12671,7 @@
     "images": [
       "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -13723,10 +12705,7 @@
     "images": [
       "https://wiki.gbl.gg/images/e/ee/MBTL_Roa_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -13760,10 +12739,7 @@
     "images": [
       "https://wiki.gbl.gg/images/c/ca/MBTL_Roa_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "420*2 (806)",
     "guard": [
       "LH",
@@ -13796,10 +12772,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       "LH"
@@ -13831,10 +12804,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "340*4, ? (1544)",
     "guard": [
       "LH"
@@ -13866,10 +12836,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "300*6, ? (2010)",
     "guard": [
       "LH"
@@ -13901,10 +12868,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "550*3 (1473)",
     "guard": [
       "LH"
@@ -13936,10 +12900,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "390*2 (744)",
     "guard": [
       "LHA"
@@ -13971,10 +12932,7 @@
     "input": "6C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LA"
@@ -14006,10 +12964,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14041,10 +12996,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14076,10 +13028,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14111,10 +13060,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14146,10 +13092,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14181,10 +13124,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14216,10 +13156,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "HA"
@@ -14251,10 +13188,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       "HA"
@@ -14286,10 +13220,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "HA"
@@ -14321,10 +13252,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14356,10 +13284,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14391,11 +13316,8 @@
     "input": "214[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1400,
     "guard": [
       ""
     ],
@@ -14426,11 +13348,8 @@
     "input": "214[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1400,
     "guard": [
       ""
     ],
@@ -14463,11 +13382,8 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c8/MBTL_Miyako_214A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1250,
     "guard": [
       ""
     ],
@@ -14500,11 +13416,8 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c8/MBTL_Miyako_214A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1250,
     "guard": [
       ""
     ],
@@ -14537,11 +13450,8 @@
     "images": [
       "https://wiki.gbl.gg/images/0/0b/MBTL_Miyako_214C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "1350*2 (2700)",
     "guard": [
       ""
     ],
@@ -14574,11 +13484,8 @@
     "images": [
       "https://wiki.gbl.gg/images/b/b9/MBTL_Miyako_22C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1800,
     "guard": [
       ""
     ],
@@ -14611,11 +13518,8 @@
     "images": [
       "https://wiki.gbl.gg/images/8/88/MBTL_Miyako_22A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1000,
     "guard": [
       ""
     ],
@@ -14648,11 +13552,8 @@
     "images": [
       "https://wiki.gbl.gg/images/7/72/MBTL_Miyako_22B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1000,
     "guard": [
       ""
     ],
@@ -14685,11 +13586,8 @@
     "images": [
       "https://wiki.gbl.gg/images/b/b9/MBTL_Miyako_22C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1600,
     "guard": [
       ""
     ],
@@ -14722,11 +13620,8 @@
     "images": [
       "https://wiki.gbl.gg/images/5/5e/MBTL_Miyako_236A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1000,
     "guard": [
       ""
     ],
@@ -14759,11 +13654,8 @@
     "images": [
       "https://wiki.gbl.gg/images/5/5e/MBTL_Miyako_236A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1200,
     "guard": [
       ""
     ],
@@ -14796,11 +13688,8 @@
     "images": [
       "https://wiki.gbl.gg/images/0/05/MBTL_Miyako_236BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 3500,
     "guard": [
       ""
     ],
@@ -14833,11 +13722,8 @@
     "images": [
       "https://wiki.gbl.gg/images/3/3f/MBTL_Miyako_236C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 2300,
     "guard": [
       ""
     ],
@@ -14870,11 +13756,8 @@
     "images": [
       "https://wiki.gbl.gg/images/9/99/MBTL_Miyako_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1000,
     "guard": [
       ""
     ],
@@ -14907,10 +13790,7 @@
     "images": [
       "https://wiki.gbl.gg/images/b/bc/MBTL_Miyako_236XB.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -14944,11 +13824,8 @@
     "images": [
       "https://wiki.gbl.gg/images/2/21/MBTL_Miyako_236XC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 800,
     "guard": [
       ""
     ],
@@ -14981,11 +13858,8 @@
     "images": [
       "https://wiki.gbl.gg/images/a/ae/MBTL_Miyako_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 150,
     "guard": [
       "L"
     ],
@@ -15018,11 +13892,8 @@
     "images": [
       "https://wiki.gbl.gg/images/2/28/MBTL_Miyako_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 420,
     "guard": [
       "LH"
     ],
@@ -15055,11 +13926,8 @@
     "images": [
       "https://wiki.gbl.gg/images/6/6b/MBTL_Miyako_2BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1100,
     "guard": [
       ""
     ],
@@ -15092,11 +13960,8 @@
     "images": [
       "https://wiki.gbl.gg/images/3/36/MBTL_Miyako_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 620,
     "guard": [
       "L"
     ],
@@ -15129,11 +13994,8 @@
     "images": [
       "https://wiki.gbl.gg/images/4/47/MBTL_Miyako_2C2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 740,
     "guard": [
       "LH"
     ],
@@ -15166,11 +14028,8 @@
     "images": [
       "https://wiki.gbl.gg/images/0/07/MBTL_Miyako_3BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "460*3 (1380)",
     "guard": [
       ""
     ],
@@ -15203,13 +14062,10 @@
     "images": [
       "https://wiki.gbl.gg/images/8/8c/MBTL_Miyako_3C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -15240,11 +14096,8 @@
     "images": [
       "https://wiki.gbl.gg/images/5/57/MBTL_Miyako_Grab.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 700,
     "guard": [
       ""
     ],
@@ -15277,11 +14130,8 @@
     "images": [
       "https://wiki.gbl.gg/images/4/43/MBTL_Miyako_4BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1500,
     "guard": [
       ""
     ],
@@ -15314,10 +14164,7 @@
     "images": [
       "https://wiki.gbl.gg/images/7/70/MBTL_Miyako_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -15351,10 +14198,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/dd/MBTL_Miyako_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -15388,10 +14232,7 @@
     "images": [
       "https://wiki.gbl.gg/images/9/99/MBTL_Miyako_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -15425,11 +14266,8 @@
     "images": [
       "https://wiki.gbl.gg/images/2/28/MBTL_Miyako_623A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "640*2 (1280)",
     "guard": [
       ""
     ],
@@ -15462,11 +14300,8 @@
     "images": [
       "https://wiki.gbl.gg/images/d/dc/MBTL_Miyako_623B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "520*3 (1560)",
     "guard": [
       ""
     ],
@@ -15499,11 +14334,8 @@
     "images": [
       "https://wiki.gbl.gg/images/0/03/MBTL_Miyako_623C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "620*3 (1860)",
     "guard": [
       ""
     ],
@@ -15536,10 +14368,7 @@
     "images": [
       "https://wiki.gbl.gg/images/b/b2/MBTL_Miyako_6AB.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -15573,11 +14402,8 @@
     "images": [
       "https://wiki.gbl.gg/images/c/cc/MBTL_Miyako_6BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "700*2 (1400)",
     "guard": [
       ""
     ],
@@ -15610,11 +14436,8 @@
     "images": [
       "https://wiki.gbl.gg/images/f/f8/MBTL_Miyako_LA.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
     ],
@@ -15647,11 +14470,8 @@
     "images": [
       "https://wiki.gbl.gg/images/b/bc/MBTL_Miyako_airthrow.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1200,
     "guard": [
       ""
     ],
@@ -15684,11 +14504,8 @@
     "images": [
       "https://wiki.gbl.gg/images/0/0b/MBTL_Miyako_J214X.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1200,
     "guard": [
       ""
     ],
@@ -15721,11 +14538,8 @@
     "images": [
       "https://wiki.gbl.gg/images/0/0b/MBTL_Miyako_J214X.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1200,
     "guard": [
       ""
     ],
@@ -15758,11 +14572,8 @@
     "images": [
       "https://wiki.gbl.gg/images/9/91/MBTL_Miyako_j214C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "690*3 (2700)",
     "guard": [
       ""
     ],
@@ -15795,11 +14606,8 @@
     "images": [
       "https://wiki.gbl.gg/images/1/14/MBTL_Miyako_J236X.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1400,
     "guard": [
       ""
     ],
@@ -15832,11 +14640,8 @@
     "images": [
       "https://wiki.gbl.gg/images/1/14/MBTL_Miyako_J236X.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1400,
     "guard": [
       ""
     ],
@@ -15869,11 +14674,8 @@
     "images": [
       "https://wiki.gbl.gg/images/1/14/MBTL_Miyako_J236X.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 2600,
     "guard": [
       ""
     ],
@@ -15906,11 +14708,8 @@
     "images": [
       "https://wiki.gbl.gg/images/1/1f/MBTL_Miyako_j4BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": "1200, 400 (1600)",
     "guard": [
       ""
     ],
@@ -15943,11 +14742,8 @@
     "images": [
       "https://wiki.gbl.gg/images/4/4e/MBTL_Miyako_j6BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 1500,
     "guard": [
       ""
     ],
@@ -15980,11 +14776,8 @@
     "images": [
       "https://wiki.gbl.gg/images/4/45/MBTL_Miyako_jA.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 140,
     "guard": [
       "HA"
     ],
@@ -16017,11 +14810,8 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c5/MBTL_Miyako_jB.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 400,
     "guard": [
       "HA"
     ],
@@ -16054,11 +14844,8 @@
     "images": [
       "https://wiki.gbl.gg/images/3/35/MBTL_Miyako_jC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 560,
     "guard": [
       "HA"
     ],
@@ -16091,11 +14878,8 @@
     "images": [
       "https://wiki.gbl.gg/images/c/ce/MBTL_Miyako_Auto.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": "",
+    "hitboxes": [],
+    "damage": 400,
     "guard": [
       "LH"
     ],
@@ -16128,10 +14912,7 @@
     "images": [
       "https://wiki.gbl.gg/images/8/8c/MBTL_Miyako_3C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -16163,10 +14944,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1196,
     "guard": [
       "LH"
@@ -16198,10 +14976,7 @@
     "input": "214A~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -16233,10 +15008,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1236,
     "guard": [
       "LH"
@@ -16268,10 +15040,7 @@
     "input": "214B~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -16303,10 +15072,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 2340,
     "guard": [
       "LH"
@@ -16338,10 +15104,7 @@
     "input": "22[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1392,
     "guard": [
       "H"
@@ -16375,10 +15138,7 @@
     "images": [
       "https://wiki.gbl.gg/images/9/96/MBTL_Noel_22A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -16412,10 +15172,7 @@
     "images": [
       "https://wiki.gbl.gg/images/f/f5/MBTL_Noel_22B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -16449,10 +15206,7 @@
     "images": [
       "https://wiki.gbl.gg/images/e/e4/MBTL_Noel_22C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1517,
     "guard": [
       "LH"
@@ -16484,10 +15238,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -16519,10 +15270,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -16554,10 +15302,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       ""
@@ -16589,10 +15334,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1531,
     "guard": [
       "LHA"
@@ -16624,10 +15366,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "LHA",
     "guard": [
       ""
@@ -16661,10 +15400,7 @@
     "images": [
       "https://wiki.gbl.gg/images/6/61/MBTL_Noel_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "L"
@@ -16698,10 +15434,7 @@
     "images": [
       "https://wiki.gbl.gg/images/0/09/MBTL_Noel_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 468,
     "guard": [
       "LH",
@@ -16736,10 +15469,7 @@
     "images": [
       "https://wiki.gbl.gg/images/a/ad/MBTL_Noel_2BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -16773,10 +15503,7 @@
     "images": [
       "https://wiki.gbl.gg/images/9/9e/MBTL_Noel_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -16808,10 +15535,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1394,
     "guard": [
       "LH",
@@ -16844,10 +15568,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -16881,10 +15602,7 @@
     "images": [
       "https://wiki.gbl.gg/images/5/50/MBTL_Noel_throw.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 600,
     "guard": [
       "U"
@@ -16916,10 +15634,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1355,
     "guard": [
       "LH"
@@ -16953,10 +15668,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d2/MBTL_Noel_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       "LH"
@@ -16990,10 +15702,7 @@
     "images": [
       "https://wiki.gbl.gg/images/a/aa/MBTL_Noel_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "LH"
@@ -17027,10 +15736,7 @@
     "images": [
       "https://wiki.gbl.gg/images/2/26/MBTL_Noel_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -17062,10 +15768,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -17097,10 +15800,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       "LH",
@@ -17133,10 +15833,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 2324,
     "guard": [
       "LH"
@@ -17168,10 +15865,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1255,
     "guard": [
       "LHA"
@@ -17205,10 +15899,7 @@
     "images": [
       "https://wiki.gbl.gg/images/4/4d/MBTL_Noel_6C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -17242,10 +15933,7 @@
     "images": [
       "https://wiki.gbl.gg/images/b/ba/MBTL_Noel_ABCD.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 4800,
     "guard": [
       ""
@@ -17279,10 +15967,7 @@
     "images": [
       "https://wiki.gbl.gg/images/1/19/MBTL_Noel_airthrow.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -17314,10 +15999,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "HA"
@@ -17349,10 +16031,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -17384,10 +16063,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -17419,10 +16095,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1531,
     "guard": [
       "LHA"
@@ -17454,10 +16127,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       "LHA"
@@ -17491,10 +16161,7 @@
     "images": [
       "https://wiki.gbl.gg/images/c/cf/MBTL_Noel_jA.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 130,
     "guard": [
       "HA"
@@ -17528,10 +16195,7 @@
     "images": [
       "https://wiki.gbl.gg/images/9/96/MBTL_Noel_jB.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       "HA"
@@ -17565,10 +16229,7 @@
     "images": [
       "https://wiki.gbl.gg/images/a/a9/MBTL_Noel_jC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "HA"
@@ -17602,10 +16263,7 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c7/MBTL_Noel_rapid2.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -17639,10 +16297,7 @@
     "images": [
       "https://wiki.gbl.gg/images/8/86/MBTL_Noel_rapid3.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       "LH"
@@ -17674,10 +16329,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17709,10 +16361,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17744,10 +16393,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17779,10 +16425,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17814,10 +16457,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17849,10 +16489,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17884,10 +16521,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17919,10 +16553,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17954,10 +16585,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17989,10 +16617,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18024,10 +16649,7 @@
     "input": "2C~2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18059,10 +16681,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18094,10 +16713,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18129,10 +16745,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18164,10 +16777,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18199,10 +16809,7 @@
     "input": "5[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18234,10 +16841,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18269,10 +16873,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18304,10 +16905,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18339,10 +16937,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18374,10 +16969,7 @@
     "input": "623[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18409,10 +17001,7 @@
     "input": "623[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18444,10 +17033,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18479,10 +17065,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18514,10 +17097,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18549,10 +17129,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18584,10 +17161,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18619,10 +17193,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18654,10 +17225,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18689,10 +17257,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18724,10 +17289,7 @@
     "input": "j214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18759,10 +17321,7 @@
     "input": "j214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18794,10 +17353,7 @@
     "input": "j214B/C~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18829,10 +17385,7 @@
     "input": "j214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18864,10 +17417,7 @@
     "input": "j2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18899,10 +17449,7 @@
     "input": "j4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18934,10 +17481,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18969,10 +17513,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19004,10 +17545,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19039,10 +17577,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19074,10 +17609,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19109,10 +17641,7 @@
     "input": "214[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19144,10 +17673,7 @@
     "input": "214[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19179,10 +17705,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -19214,10 +17737,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       ""
@@ -19249,10 +17769,7 @@
     "input": "214BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19284,10 +17801,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "1900 [456]",
     "guard": [
       ""
@@ -19319,10 +17833,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1602,
     "guard": [
       ""
@@ -19354,10 +17865,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -19389,10 +17897,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -19424,10 +17929,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -19459,10 +17961,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1870,
     "guard": [
       ""
@@ -19494,10 +17993,7 @@
     "input": "236X~4X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1476,
     "guard": [
       "L"
@@ -19529,10 +18025,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1476,
     "guard": [
       ""
@@ -19564,10 +18057,7 @@
     "input": "236X~X~4X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1476,
     "guard": [
       "H"
@@ -19599,10 +18089,7 @@
     "input": "236X~X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1203,
     "guard": [
       ""
@@ -19636,10 +18123,7 @@
     "images": [
       "https://wiki.gbl.gg/images/4/44/MBTL_Saber_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       ""
@@ -19673,10 +18157,7 @@
     "images": [
       "https://wiki.gbl.gg/images/6/62/MBTL_Saber_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       ""
@@ -19710,10 +18191,7 @@
     "images": [
       "https://wiki.gbl.gg/images/9/96/MBTL_Saber_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       ""
@@ -19745,10 +18223,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1409,
     "guard": [
       ""
@@ -19780,10 +18255,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -19817,10 +18289,7 @@
     "images": [
       "https://wiki.gbl.gg/images/b/b2/MBTL_Saber_throw.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -19852,10 +18321,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -19887,10 +18353,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 990,
     "guard": [
       ""
@@ -19924,10 +18387,7 @@
     "images": [
       "https://wiki.gbl.gg/images/2/23/MBTL_Saber_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       ""
@@ -19961,10 +18421,7 @@
     "images": [
       "https://wiki.gbl.gg/images/7/72/MBTL_Saber_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       ""
@@ -19998,10 +18455,7 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c5/MBTL_Saber_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       ""
@@ -20033,10 +18487,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -20068,10 +18519,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1196,
     "guard": [
       ""
@@ -20103,10 +18551,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1870,
     "guard": [
       ""
@@ -20138,10 +18583,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1357,
     "guard": [
       ""
@@ -20175,10 +18617,7 @@
     "images": [
       "https://wiki.gbl.gg/images/8/85/MBTL_Saber_6C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -20212,10 +18651,7 @@
     "images": [
       "https://wiki.gbl.gg/images/e/e5/MBTL_Saber_ABCD.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -20249,10 +18685,7 @@
     "images": [
       "https://wiki.gbl.gg/images/a/aa/MBTL_Saber_airthrow.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -20284,10 +18717,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -20321,10 +18751,7 @@
     "images": [
       "https://wiki.gbl.gg/images/7/72/MBTL_Saber_j236A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1153,
     "guard": [
       ""
@@ -20358,10 +18785,7 @@
     "images": [
       "https://wiki.gbl.gg/images/a/af/MBTL_Saber_j236B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1216,
     "guard": [
       ""
@@ -20395,10 +18819,7 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c6/MBTL_Saber_j236C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 2590,
     "guard": [
       ""
@@ -20430,10 +18851,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1359,
     "guard": [
       ""
@@ -20465,10 +18883,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -20500,10 +18915,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -20535,10 +18947,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       ""
@@ -20570,10 +18979,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -20605,10 +19011,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -20640,10 +19043,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "L"
@@ -20675,10 +19075,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1330,
     "guard": [
       "L"
@@ -20710,10 +19107,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "880*2 (1645)",
     "guard": [
       "L"
@@ -20745,10 +19139,7 @@
     "input": "214XX",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -20780,10 +19171,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       "H"
@@ -20815,10 +19203,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       "L"
@@ -20850,10 +19235,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "270*6 (1419)",
     "guard": [
       "LH"
@@ -20885,10 +19267,7 @@
     "input": "236[BC]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "1250, 250*5, 1000 (3500)",
     "guard": [
       "Unblockable"
@@ -20920,10 +19299,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -20955,10 +19331,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "520*3 (1377)",
     "guard": [
       "LH"
@@ -20990,10 +19363,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "1250, 250*5, 1000 (3500)",
     "guard": [
       ""
@@ -21025,10 +19395,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "660*4 (2263)",
     "guard": [
       "LH"
@@ -21060,10 +19427,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       "L"
@@ -21095,10 +19459,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "260*2 (504)",
     "guard": [
       "L"
@@ -21130,10 +19491,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "900, 630 (1530)",
     "guard": [
       ""
@@ -21165,10 +19523,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -21200,10 +19555,7 @@
     "input": "3BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "330*5 (1419)",
     "guard": [
       "LHA"
@@ -21235,10 +19587,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -21270,10 +19619,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       "U"
@@ -21305,10 +19651,7 @@
     "input": "44 44",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -21340,10 +19683,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "320*3, 340, 400 (1452)",
     "guard": [
       "L"
@@ -21375,10 +19715,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 2000,
     "guard": [
       "U"
@@ -21410,10 +19747,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -21445,10 +19779,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -21480,10 +19811,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 680,
     "guard": [
       "LH"
@@ -21515,10 +19843,7 @@
     "input": "623A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       "LH"
@@ -21550,10 +19875,7 @@
     "input": "623B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       "LH"
@@ -21585,10 +19907,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "690*3 (1807)",
     "guard": [
       "LH"
@@ -21620,10 +19939,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "750*2 (1357)",
     "guard": [
       "LH"
@@ -21655,10 +19971,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960]",
     "guard": [
       ""
@@ -21690,10 +20003,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -21725,10 +20035,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "H"
@@ -21760,10 +20067,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       "LHA"
@@ -21795,10 +20099,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       ""
@@ -21830,10 +20131,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "690*3 (1807)",
     "guard": [
       ""
@@ -21865,10 +20163,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "300*5 (1293)",
     "guard": [
       ""
@@ -21900,10 +20195,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "H"
@@ -21935,10 +20227,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "200*2 (392)",
     "guard": [
       "H"
@@ -21970,10 +20259,7 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "H"
@@ -22005,10 +20291,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22040,10 +20323,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22075,10 +20355,7 @@
     "input": "214[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22110,10 +20387,7 @@
     "input": "214A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22145,10 +20419,7 @@
     "input": "214B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22180,10 +20451,7 @@
     "input": "214C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22215,10 +20483,7 @@
     "input": "214X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22250,10 +20515,7 @@
     "input": "214X~X~4X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22285,10 +20547,7 @@
     "input": "214X~X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22320,10 +20579,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22355,10 +20611,7 @@
     "input": "22A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22390,10 +20643,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22425,10 +20675,7 @@
     "input": "22B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22460,10 +20707,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22495,10 +20739,7 @@
     "input": "22C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22530,10 +20771,7 @@
     "input": "22X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22565,10 +20803,7 @@
     "input": "22X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22600,10 +20835,7 @@
     "input": "22X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22635,10 +20867,7 @@
     "input": "22X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22670,10 +20899,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22705,10 +20931,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22740,10 +20963,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22775,10 +20995,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22810,10 +21027,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22845,10 +21059,7 @@
     "input": "236BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22880,10 +21091,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22915,10 +21123,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22950,10 +21155,7 @@
     "input": "236X~[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -22985,10 +21187,7 @@
     "input": "236X~[A]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23020,10 +21219,7 @@
     "input": "236X~[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23055,10 +21251,7 @@
     "input": "236X~[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23090,10 +21283,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23125,10 +21315,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23163,7 +21350,7 @@
       "https://wiki.gbl.gg/images/f/f3/MBTL_Vlov_2A.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_2A_hb.png"
+      "https://wiki.gbl.gg/images/e/e2/MBTL_Vlov_2A_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23199,7 +21386,7 @@
       "https://wiki.gbl.gg/images/7/74/MBTL_Vlov_2B.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_2B_hb.png"
+      "https://wiki.gbl.gg/images/8/8f/MBTL_Vlov_2B_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23232,10 +21419,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23267,10 +21451,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23302,9 +21483,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "MBTL_Vlov_2C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23339,7 +21518,7 @@
       "https://wiki.gbl.gg/images/d/d4/MBTL_Vlov_3C.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_3C_hb.png"
+      "https://wiki.gbl.gg/images/3/3d/MBTL_Vlov_3C_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23372,10 +21551,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23407,10 +21583,7 @@
     "input": "4BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23445,7 +21618,7 @@
       "https://wiki.gbl.gg/images/a/a8/MBTL_Vlov_5A.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_5A_hb.png"
+      "https://wiki.gbl.gg/images/1/12/MBTL_Vlov_5A_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23481,7 +21654,7 @@
       "https://wiki.gbl.gg/images/3/3e/MBTL_Vlov_5b.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_5b_hb.png"
+      "https://wiki.gbl.gg/images/f/f2/MBTL_Vlov_5b_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23514,10 +21687,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23549,10 +21719,7 @@
     "input": "6[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23584,10 +21751,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23619,10 +21783,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23657,7 +21818,7 @@
       "https://wiki.gbl.gg/images/6/63/MBTL_Vlov_6C.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_6C_hb.png"
+      "https://wiki.gbl.gg/images/e/e6/MBTL_Vlov_6C_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -23690,10 +21851,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23725,10 +21883,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23760,10 +21915,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23795,10 +21947,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23830,10 +21979,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23865,10 +22011,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23900,10 +22043,7 @@
     "input": "j236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23935,10 +22075,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -23970,10 +22107,7 @@
     "input": "j236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -24005,10 +22139,7 @@
     "input": "j236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -24040,10 +22171,7 @@
     "input": "j236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -24075,10 +22203,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -24110,10 +22235,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -24148,7 +22270,7 @@
       "https://wiki.gbl.gg/images/7/71/MBTL_Vlov_jA.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_jA_hb.png"
+      "https://wiki.gbl.gg/images/8/84/MBTL_Vlov_jA_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -24184,7 +22306,7 @@
       "https://wiki.gbl.gg/images/4/4d/MBTL_Vlov_jB.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_jB_hb.png"
+      "https://wiki.gbl.gg/images/c/c9/MBTL_Vlov_jB_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -24220,7 +22342,7 @@
       "https://wiki.gbl.gg/images/6/67/MBTL_Vlov_jC.png"
     ],
     "hitboxes": [
-      "MBTL_Vlov_jC_hb.png"
+      "https://wiki.gbl.gg/images/2/29/MBTL_Vlov_jC_hb.png"
     ],
     "damage": "",
     "guard": [
@@ -24253,10 +22375,7 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -24288,10 +22407,7 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
