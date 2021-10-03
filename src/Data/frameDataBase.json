@@ -3505,8 +3505,7 @@
     "name": "",
     "images": [],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Ciel_236BC_hb.png"
     ],
     "damage": 3500,
     "guard": [
@@ -4380,10 +4379,11 @@
     "chara": "Ciel",
     "input": "ABCD",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/9a/MBTL_Ciel_ABCD.png"
+    ],
     "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+      "MBTL_Ciel_ABCD_hb.png"
     ],
     "damage": 4800,
     "guard": [
@@ -13397,7 +13397,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "2A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_2A.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -13432,7 +13434,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "2B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d4/MBTL_Roa_2B.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -13467,7 +13471,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "2C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/5c/MBTL_Roa_2C.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -13714,7 +13720,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "5B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/ee/MBTL_Roa_5B.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -13749,7 +13757,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "5C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/ca/MBTL_Roa_5C.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -16362,7 +16372,9 @@
     "chara": "Noel",
     "input": "22A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/96/MBTL_Noel_22A.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -16397,7 +16409,9 @@
     "chara": "Noel",
     "input": "22B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/f/f5/MBTL_Noel_22B.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -16432,7 +16446,9 @@
     "chara": "Noel",
     "input": "22C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/e4/MBTL_Noel_22C.png"
+    ],
     "hitboxes": [
       "placeholder.png",
       " placeholder.png"
@@ -21317,7 +21333,7 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Shiki_Tohno#44 44"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Shiki_Tohno#44_44"
   },
   {
     "chara": "Shiki Tohno",

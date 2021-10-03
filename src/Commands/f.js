@@ -16,12 +16,10 @@ module.exports = new Command({
     let moveList;
 
     if (parsedArgs[0]) {
-      console.log(parsedArgs)
+      // console.log(parsedArgs)
       moveList = await searchData(parsedArgs[0], parsedArgs[1]);
     } else {
-      // Will look through inputs and stuff
-
-
+      // Will look through inputs and stuff in future patch
       console.log(`Cannot find ${message.content}`);
       const output = new Discord.MessageEmbed();
       output
@@ -32,7 +30,6 @@ module.exports = new Command({
       return;
     }
 
-    
 
     if (moveList.length == 1) {
       outputDiscord(moveList, message)

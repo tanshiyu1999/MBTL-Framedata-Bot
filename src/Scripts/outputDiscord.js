@@ -20,7 +20,7 @@ const outputDiscord = (moveList, message) => {
     .setColor("BLURPLE")
     .addFields(...dataOutput)
     .setFooter("Data provided by Mizuumi wiki", "https://wiki.gbl.gg/mizulogo.png?1fe5d")
-  console.log(imageOutput)
+  // console.log(imageOutput)
   
   for (let i = 0; i < imageOutput.length; i++) {
     if (imageOutput[i].name == "images") {
@@ -29,6 +29,7 @@ const outputDiscord = (moveList, message) => {
   }
 
   message.channel.send({embeds:[output]});
+  
 }
 
 module.exports = outputDiscord;

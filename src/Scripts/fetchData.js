@@ -16,8 +16,9 @@ const moveLinkParser = (fetchedData) => {
     if (moveObj.name == "") {
       if (moveObj.input.charAt(0) == "j") {
         moveName = moveObj.input.slice(0,1) + "." + moveObj.input.slice(1)
+        moveName = moveName.replaceAll(" ", "_")
       } else {
-        moveName = moveObj.input
+        moveName = moveObj.input.replaceAll(" ", "_")
       }
     } else {
       moveName = moveObj.name.replaceAll(" ", "_");
