@@ -20,7 +20,13 @@ const outputDiscord = (moveList, message) => {
     .setColor("BLURPLE")
     .addFields(...dataOutput)
     .setFooter("Data provided by Mizuumi wiki", "https://wiki.gbl.gg/mizulogo.png?1fe5d")
-    //https://www.mediawiki.org/wiki/API:Imageinfo#API_documentation
+  console.log(imageOutput)
+  
+  for (let i = 0; i < imageOutput.length; i++) {
+    if (imageOutput[i].name == "images") {
+      output.setThumbnail(imageOutput[i].value)
+    }
+  }
 
   message.channel.send({embeds:[output]});
 }
