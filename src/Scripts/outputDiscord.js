@@ -15,7 +15,7 @@ const outputDiscord = (moveList, message) => {
       message.author.avatarURL({dynamic: true})
     )
     .setTitle(`Frame data for ${((moveObj.name) ? moveObj.name : moveObj.input)}`)
-    // .setURL("")
+    .setURL(moveObj.moveLink)
     // .setThumbnail(imageOutput[1].value)
     .setColor("BLURPLE")
     .addFields(...dataOutput)

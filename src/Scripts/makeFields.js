@@ -8,7 +8,7 @@ const makeFields = (moveObj) => {
   let imageOutput = [];
 
   for (let i = 0; i < keys.length; i++) {
-    if (moveObj[keys[i]] == "" || keys[i] == "chara" || (Array.isArray(moveObj[keys[i]]) && keys[i].length == 0)) {
+    if (moveObj[keys[i]] == "" || keys[i] == "chara" || (Array.isArray(moveObj[keys[i]]) && keys[i].length == 0) || keys[i] == "moveLink") {
       continue;
     } else {
       if (Array.isArray(moveObj[keys[i]])) {
@@ -31,8 +31,8 @@ const makeFields = (moveObj) => {
     }
   }
 
-  // console.log(dataOutput)
-  // console.log(imageOutput)
+  console.log(dataOutput)
+  console.log(imageOutput)
 
 
   return {dataOutput, imageOutput}
