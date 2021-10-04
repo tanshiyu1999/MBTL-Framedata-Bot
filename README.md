@@ -18,11 +18,11 @@ The bot is public, feel free to add it into your own server via [invite link](ht
 ## Examples
 `!f ciel 5a`
 
-![Ciel 5A](https://i.imgur.com/qFrmLX0.png){:height="50%" width="50%"}
+![Ciel 5A](https://i.imgur.com/qFrmLX0.png)
 
 `!f ciel 214bca`
 
-![Image to be added when image is included in the database]{:height="50%" width="50%"}
+![Image to be added when image is included in the database]
 
 `!f tohno 5a`
 
