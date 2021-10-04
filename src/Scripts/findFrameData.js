@@ -1,4 +1,5 @@
 const frameDataBase = require("../Data/frameDataBase.json")
+const dupNameDifferentiator = require("./dupNameDifferentiator.js")
 
 
 
@@ -44,28 +45,14 @@ const searchAbsoluteMoves = (moveObj, move) => {
 }
 
 
-// searchData() will search for character name, remember the search name
+// Search data will search through all the character data and return found matches
 const searchData = async (name, move) => {
   let characterData = frameDataBase;
-
-  // \b at start of regex to ensure that we start searching fron the front of the word
-  let regex = "\\b"
-  for (let i= 0; i < name.length; i++) {
-    regex = regex + name.substring(i, i + 1) + "[ -']?"; 
-  }
   
-  const searchName = new RegExp(regex, 'i');
+  let moveObjs = dupNameDifferentiator(name, characterData)
 
   let matched = [];
-  let moveObjs = [];
-  // This matches with the character.
-  for (let i = 0; i < characterData.length; i++) {
-    if (characterData[i]['chara'].match(searchName)) {
-      moveObjs.push(characterData[i])
-    }
-  }
-
-  
+  // Match with the moves of the characters absolutely. Avoiding matches with 6BC with 6B
   moveObjs.forEach(moveObj => {
     let absoluteReturned = searchAbsoluteMoves(moveObj, move);
     if (absoluteReturned) {
@@ -74,7 +61,7 @@ const searchData = async (name, move) => {
   });
 
 
-  // Search for regex matches
+  // Match with the moves of characters via regex.
   if (matched.length == 0) {
     moveObjs.forEach(moveObj => {
       let returned = searchMoves(moveObj, move);
@@ -84,6 +71,7 @@ const searchData = async (name, move) => {
     })
   }
 
+  // Return the data to the Command (f.js atm)
   if (matched.length == 0) {
     console.log("No match")
     return false;

@@ -20,7 +20,7 @@ const outputDiscord = (moveList, message) => {
     .setColor("BLURPLE")
     .addFields(...dataOutput)
     .setFooter("Data provided by Mizuumi wiki", "https://wiki.gbl.gg/mizulogo.png?1fe5d")
-  console.log(imageOutput)
+  // console.log(imageOutput)
 
   let printHitbox = false;
   imageOutput.forEach(imageObj => {

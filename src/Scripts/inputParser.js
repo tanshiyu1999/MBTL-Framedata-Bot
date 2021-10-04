@@ -1,4 +1,5 @@
 const frameDataBase = require("../Data/frameDataBase.json")
+const charNameShorthandParser = require("./charNameShorthandParser.js")
 
 
 const splitNameParser = (tempName, nameList) => {
@@ -44,9 +45,24 @@ const regexNameFinder = (tempName, nameList) => {
 
 
 const inputParser = (args) => {
+  let outputArgs = [];
+  let tempArgs = [...args]
+
+  let shortHandArgs = charNameShorthandParser(tempArgs);
+  console.log(shortHandArgs)
+  console.log(args)
+  if (shortHandArgs != args) {
+    console.log("hello")
+    console.log(shortHandArgs)
+    let outputString = shortHandArgs.shift();
+    let outputMove = shortHandArgs.join(' ');
+    outputArgs.push(outputString);
+    outputArgs.push(outputMove)
+    return outputArgs;
+  }
+
   // console.log(args)
   let outputString;
-  let outputArgs = [];
 
   let nameList = []; 
   frameDataBase.forEach(moveObj => {
@@ -70,7 +86,7 @@ const inputParser = (args) => {
       if ( i == 0 ) {
         outputString = args[i]
       } else {
-        outputString + " " + args[i]
+        outputString = outputString + " " + args[i]
       }
       continue;
     } else {
@@ -81,9 +97,7 @@ const inputParser = (args) => {
       break;
     }
   }
-  console.log(`Output argument: ${outputArgs}`)
-
-
+  console.log(`Output arguments: \n1st Output: ${outputArgs[0]}\n2nd Output: ${outputArgs[1]}`);
   return outputArgs;
 }
 
@@ -92,4 +106,7 @@ module.exports = inputParser;
 
 // This will check through the names
 // First word will be regex match
-// Second word will be absolute match
+// Second words onwards will be absolute match
+// This will return 2 outputs
+// First output is the character's name
+// Second output is the character's move

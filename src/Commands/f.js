@@ -12,6 +12,7 @@ module.exports = new Command({
   description: "Shows an embed",
   permission: "SEND_MESSAGES",
   async run(message, args, client) {
+    console.log(`Initial Input Argument: ${args}`)
     let parsedArgs = inputParser(args);
     let moveList;
 
