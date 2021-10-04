@@ -1,5 +1,5 @@
 # MMTL FrameData Discord Bot
-This is a framedata discord bot for French Bread's Melty Blood Type Lumina.
+This is a framedata discord bot for French Bread's fighting game: Melty Blood Type Lumina.
 
 The bot is public, feel free to add it into your own server via [invite link](https://discord.com/api/oauth2/authorize?client_id=893058566854946836&permissions=534723820608&scope=bot).
 
