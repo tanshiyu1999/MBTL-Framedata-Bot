@@ -2561,6 +2561,70 @@
   },
   {
     "chara": "Arcueid Brunestud",
+    "input": "j22X~66C",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
+    "damage": "",
+    "guard": [
+      ""
+    ],
+    "cancel": [
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Arcueid_Brunestud#j.22X~66C"
+  },
+  {
+    "chara": "Arcueid Brunestud",
+    "input": "j22X~X",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
+    "damage": "",
+    "guard": [
+      ""
+    ],
+    "cancel": [
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Arcueid_Brunestud#j.22X~X"
+  },
+  {
+    "chara": "Arcueid Brunestud",
     "input": "j2B",
     "name": "",
     "images": [],
@@ -6329,13 +6393,8 @@
     "chara": "Maids",
     "input": "22D",
     "name": "",
-    "images": [
-      "MBTL_Maids_22D.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -6366,13 +6425,8 @@
     "chara": "Maids",
     "input": "H214A",
     "name": "",
-    "images": [
-      "MBTL_Maids_H214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "180*10 (1553)",
     "guard": [
       ""
@@ -6403,13 +6457,8 @@
     "chara": "Maids",
     "input": "H214B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "460+630 (951)",
     "guard": [
       ""
@@ -6440,13 +6489,8 @@
     "chara": "Maids",
     "input": "H214C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       ""
@@ -6477,13 +6521,8 @@
     "chara": "Maids",
     "input": "H22A",
     "name": "",
-    "images": [
-      "MBTL_Maids_H22A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       ""
@@ -6514,13 +6553,8 @@
     "chara": "Maids",
     "input": "H22B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H22B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       ""
@@ -6551,13 +6585,8 @@
     "chara": "Maids",
     "input": "H22C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H22C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "600, 960*3 (1877)",
     "guard": [
       ""
@@ -6588,13 +6617,8 @@
     "chara": "Maids",
     "input": "H236[BC]",
     "name": "",
-    "images": [
-      "MBTL_Maids_H236BC_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "400*9, 700 (4300)",
     "guard": [
       ""
@@ -6625,13 +6649,8 @@
     "chara": "Maids",
     "input": "H236A",
     "name": "",
-    "images": [
-      "MBTL_Maids_H236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "220*6 (1186)",
     "guard": [
       ""
@@ -6662,13 +6681,8 @@
     "chara": "Maids",
     "input": "H236B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "150*9 (1186)",
     "guard": [
       ""
@@ -6699,13 +6713,8 @@
     "chara": "Maids",
     "input": "H236BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_H236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "700*5 (3500)",
     "guard": [
       ""
@@ -6736,13 +6745,8 @@
     "chara": "Maids",
     "input": "H236C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "160*9, 580 (1796)",
     "guard": [
       ""
@@ -6773,13 +6777,8 @@
     "chara": "Maids",
     "input": "H236X~X",
     "name": "",
-    "images": [
-      "MBTL_Maids_H236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -6810,13 +6809,8 @@
     "chara": "Maids",
     "input": "H2A",
     "name": "",
-    "images": [
-      "MBTL_Maids_H2A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -6847,13 +6841,8 @@
     "chara": "Maids",
     "input": "H2B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H2B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       ""
@@ -6884,13 +6873,8 @@
     "chara": "Maids",
     "input": "H2BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_H2BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "400, 1400 (1800)",
     "guard": [
       ""
@@ -6921,13 +6905,8 @@
     "chara": "Maids",
     "input": "H2C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 590,
     "guard": [
       ""
@@ -6958,13 +6937,8 @@
     "chara": "Maids",
     "input": "H3BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_H3BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       ""
@@ -6995,13 +6969,8 @@
     "chara": "Maids",
     "input": "H3C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H3C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -7032,13 +7001,8 @@
     "chara": "Maids",
     "input": "H4[B]",
     "name": "",
-    "images": [
-      "MBTL_Maids_H4B_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "100, 200 (300)",
     "guard": [
       ""
@@ -7069,13 +7033,8 @@
     "chara": "Maids",
     "input": "H4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -7106,13 +7065,8 @@
     "chara": "Maids",
     "input": "H4B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H4B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 100,
     "guard": [
       ""
@@ -7143,13 +7097,8 @@
     "chara": "Maids",
     "input": "H4BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_H4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "[400, 570]*4 (2680)",
     "guard": [
       ""
@@ -7180,13 +7129,8 @@
     "chara": "Maids",
     "input": "H5[C]",
     "name": "",
-    "images": [
-      "MBTL_Maids_H5C_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "430*3 (1186)",
     "guard": [
       ""
@@ -7217,13 +7161,8 @@
     "chara": "Maids",
     "input": "H5A",
     "name": "",
-    "images": [
-      "MBTL_Maids_H5A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       ""
@@ -7254,13 +7193,8 @@
     "chara": "Maids",
     "input": "H5B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H5B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       ""
@@ -7291,13 +7225,8 @@
     "chara": "Maids",
     "input": "H5C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H5C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "420*2 (806)",
     "guard": [
       ""
@@ -7328,13 +7257,8 @@
     "chara": "Maids",
     "input": "H623A",
     "name": "",
-    "images": [
-      "MBTL_Maids_H623A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 800,
     "guard": [
       ""
@@ -7365,13 +7289,8 @@
     "chara": "Maids",
     "input": "H623B",
     "name": "",
-    "images": [
-      "MBTL_Maids_H623B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 800,
     "guard": [
       ""
@@ -7402,13 +7321,8 @@
     "chara": "Maids",
     "input": "H623C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H623C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "550*4 (1627)",
     "guard": [
       ""
@@ -7439,13 +7353,8 @@
     "chara": "Maids",
     "input": "H6BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_H6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "175*9 (1324)",
     "guard": [
       ""
@@ -7476,13 +7385,8 @@
     "chara": "Maids",
     "input": "H6C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H6C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 440,
     "guard": [
       ""
@@ -7513,13 +7417,8 @@
     "chara": "Maids",
     "input": "H6C~C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H6CC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "440 (774)",
     "guard": [
       ""
@@ -7550,13 +7449,8 @@
     "chara": "Maids",
     "input": "H6C~C~C",
     "name": "",
-    "images": [
-      "MBTL_Maids_H6CCC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1200 (1590)",
     "guard": [
       ""
@@ -7587,13 +7481,8 @@
     "chara": "Maids",
     "input": "HABCD",
     "name": "",
-    "images": [
-      "MBTL_Maids_HABCD.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -7624,13 +7513,8 @@
     "chara": "Maids",
     "input": "Hj[C]",
     "name": "",
-    "images": [
-      "MBTL_Maids_HjC_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -7661,13 +7545,8 @@
     "chara": "Maids",
     "input": "Hj236A",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hj236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "200*7 (1232)",
     "guard": [
       ""
@@ -7698,13 +7577,8 @@
     "chara": "Maids",
     "input": "Hj236B",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hj236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "200*7 (1232)",
     "guard": [
       ""
@@ -7735,13 +7609,8 @@
     "chara": "Maids",
     "input": "Hj236C",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hj236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "350*7 (2092)",
     "guard": [
       ""
@@ -7772,13 +7641,8 @@
     "chara": "Maids",
     "input": "Hj2C",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hj2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 780,
     "guard": [
       ""
@@ -7809,13 +7673,8 @@
     "chara": "Maids",
     "input": "Hj4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hairthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -7846,13 +7705,8 @@
     "chara": "Maids",
     "input": "Hj6BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hj6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "210*7 (1291)",
     "guard": [
       ""
@@ -7883,13 +7737,8 @@
     "chara": "Maids",
     "input": "HjA",
     "name": "",
-    "images": [
-      "MBTL_Maids_HjA.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 130,
     "guard": [
       ""
@@ -7920,13 +7769,8 @@
     "chara": "Maids",
     "input": "HjB",
     "name": "",
-    "images": [
-      "MBTL_Maids_HjB.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 380,
     "guard": [
       ""
@@ -7957,13 +7801,8 @@
     "chara": "Maids",
     "input": "HjB~j2B",
     "name": "",
-    "images": [
-      "MBTL_Maids_HjB2B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "480 (754)",
     "guard": [
       ""
@@ -7994,13 +7833,8 @@
     "chara": "Maids",
     "input": "HjC",
     "name": "",
-    "images": [
-      "MBTL_Maids_HjC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       ""
@@ -8031,13 +7865,8 @@
     "chara": "Maids",
     "input": "Hrapid 2",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hrapid2.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -8068,13 +7897,8 @@
     "chara": "Maids",
     "input": "Hrapid 3",
     "name": "",
-    "images": [
-      "MBTL_Maids_Hrapid3.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -8105,13 +7929,8 @@
     "chara": "Maids",
     "input": "K214A",
     "name": "",
-    "images": [
-      "MBTL_Maids_K214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -8142,13 +7961,8 @@
     "chara": "Maids",
     "input": "K214B",
     "name": "",
-    "images": [
-      "MBTL_Maids_K214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "650, 565 (1215)",
     "guard": [
       ""
@@ -8179,13 +7993,8 @@
     "chara": "Maids",
     "input": "K214C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -8216,13 +8025,8 @@
     "chara": "Maids",
     "input": "K22A",
     "name": "",
-    "images": [
-      "MBTL_Maids_K22A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "330*6 (1640)",
     "guard": [
       ""
@@ -8253,13 +8057,8 @@
     "chara": "Maids",
     "input": "K22B",
     "name": "",
-    "images": [
-      "MBTL_Maids_K22B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "180*10 (1553)",
     "guard": [
       ""
@@ -8290,13 +8089,8 @@
     "chara": "Maids",
     "input": "K22C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K22C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "590*4 (1781)",
     "guard": [
       ""
@@ -8327,13 +8121,8 @@
     "chara": "Maids",
     "input": "K236[A]",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236A_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -8364,13 +8153,8 @@
     "chara": "Maids",
     "input": "K236[BC]",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236BC_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1000+70*8+420*2+400+700 (3500)",
     "guard": [
       ""
@@ -8401,13 +8185,8 @@
     "chara": "Maids",
     "input": "K236A",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -8438,13 +8217,8 @@
     "chara": "Maids",
     "input": "K236B",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236B_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       ""
@@ -8475,13 +8249,8 @@
     "chara": "Maids",
     "input": "K236B",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -8512,13 +8281,8 @@
     "chara": "Maids",
     "input": "K236BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1000+70*8+420*2+400+700 (3500)",
     "guard": [
       ""
@@ -8549,13 +8313,8 @@
     "chara": "Maids",
     "input": "K236C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1100, 1440 (2540)",
     "guard": [
       ""
@@ -8586,13 +8345,8 @@
     "chara": "Maids",
     "input": "K236X~X",
     "name": "",
-    "images": [
-      "MBTL_Maids_K236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -8623,13 +8377,8 @@
     "chara": "Maids",
     "input": "K2A",
     "name": "",
-    "images": [
-      "MBTL_Maids_K2A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -8660,13 +8409,8 @@
     "chara": "Maids",
     "input": "K2B",
     "name": "",
-    "images": [
-      "MBTL_Maids_K2B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "230*2 (448)",
     "guard": [
       ""
@@ -8697,13 +8441,8 @@
     "chara": "Maids",
     "input": "K2BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_K2BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "230, 230*7 (1644)",
     "guard": [
       ""
@@ -8734,13 +8473,8 @@
     "chara": "Maids",
     "input": "K2C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       ""
@@ -8771,13 +8505,8 @@
     "chara": "Maids",
     "input": "K2C~2C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K2C2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       ""
@@ -8808,13 +8537,8 @@
     "chara": "Maids",
     "input": "K3C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K3C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -8845,13 +8569,8 @@
     "chara": "Maids",
     "input": "K4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Maids_Kthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -8882,13 +8601,8 @@
     "chara": "Maids",
     "input": "K4BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_K4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "600*3 (1572)",
     "guard": [
       ""
@@ -8919,13 +8633,8 @@
     "chara": "Maids",
     "input": "K5A",
     "name": "",
-    "images": [
-      "MBTL_Maids_K5A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       ""
@@ -8956,13 +8665,8 @@
     "chara": "Maids",
     "input": "K5B",
     "name": "",
-    "images": [
-      "MBTL_Maids_K5B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       ""
@@ -8993,13 +8697,8 @@
     "chara": "Maids",
     "input": "K5C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K5C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "450, 200*4 (1126)",
     "guard": [
       ""
@@ -9030,13 +8729,8 @@
     "chara": "Maids",
     "input": "K6BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_K6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "500*3 (1355)",
     "guard": [
       ""
@@ -9067,13 +8761,8 @@
     "chara": "Maids",
     "input": "K6C",
     "name": "",
-    "images": [
-      "MBTL_Maids_K6C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -9104,13 +8793,8 @@
     "chara": "Maids",
     "input": "KABCD",
     "name": "",
-    "images": [
-      "MBTL_Maids_KABCD.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -9141,13 +8825,8 @@
     "chara": "Maids",
     "input": "Kj[C]",
     "name": "",
-    "images": [
-      "MBTL_Maids_KjC_be.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -9178,13 +8857,8 @@
     "chara": "Maids",
     "input": "Kj214A",
     "name": "",
-    "images": [
-      "MBTL_Maids_Kj214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "460, 630 (951)",
     "guard": [
       ""
@@ -9215,13 +8889,8 @@
     "chara": "Maids",
     "input": "Kj214B",
     "name": "",
-    "images": [
-      "MBTL_Maids_Kj214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "460, 630 (951)",
     "guard": [
       ""
@@ -9252,13 +8921,8 @@
     "chara": "Maids",
     "input": "Kj214C",
     "name": "",
-    "images": [
-      "MBTL_Maids_Kj214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "(100+250*3)*4 (2011)",
     "guard": [
       ""
@@ -9289,13 +8953,8 @@
     "chara": "Maids",
     "input": "Kj4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Maids_Kairthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -9326,13 +8985,8 @@
     "chara": "Maids",
     "input": "Kj4BC",
     "name": "",
-    "images": [
-      "MBTL_Maids_Kj4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "[400, 570]*2 (1459)",
     "guard": [
       ""
@@ -9363,13 +9017,8 @@
     "chara": "Maids",
     "input": "KjA",
     "name": "",
-    "images": [
-      "MBTL_Maids_KjA.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 130,
     "guard": [
       ""
@@ -9400,13 +9049,8 @@
     "chara": "Maids",
     "input": "KjB",
     "name": "",
-    "images": [
-      "MBTL_Maids_KjB.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -9437,13 +9081,8 @@
     "chara": "Maids",
     "input": "KjC",
     "name": "",
-    "images": [
-      "MBTL_Maids_KjC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       ""
@@ -9474,13 +9113,8 @@
     "chara": "Maids",
     "input": "Krapid 2",
     "name": "",
-    "images": [
-      "MBTL_Maids_Krapid2.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -9511,13 +9145,8 @@
     "chara": "Maids",
     "input": "Krapid 3",
     "name": "",
-    "images": [
-      "MBTL_Maids_Krapid3.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -12607,13 +12236,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "214[B]",
     "name": "",
-    "images": [
-      "MBTL_Roa_214[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "480*3 (1170)",
     "guard": [
       ""
@@ -12644,13 +12268,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "214A",
     "name": "",
-    "images": [
-      "MBTL_Roa_214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -12681,13 +12300,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "214A~X",
     "name": "",
-    "images": [
-      "MBTL_Roa_214AX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -12718,13 +12332,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "214B",
     "name": "",
-    "images": [
-      "MBTL_Roa_214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -12755,13 +12364,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "214B/C~X",
     "name": "",
-    "images": [
-      "MBTL_Roa_214BCX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -12792,13 +12396,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "214C",
     "name": "",
-    "images": [
-      "MBTL_Roa_214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "440*8 (2105)",
     "guard": [
       ""
@@ -12829,13 +12428,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "236[B]",
     "name": "",
-    "images": [
-      "MBTL_Roa_236[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -12866,13 +12460,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "236A",
     "name": "",
-    "images": [
-      "MBTL_Roa_236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -12903,13 +12492,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "236B",
     "name": "",
-    "images": [
-      "MBTL_Roa_236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       ""
@@ -12940,13 +12524,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "236BC",
     "name": "",
-    "images": [
-      "MBTL_Roa_236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       ""
@@ -12977,13 +12556,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "236C",
     "name": "",
-    "images": [
-      "MBTL_Roa_236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "170, 102*19 (2108)",
     "guard": [
       ""
@@ -13015,12 +12589,9 @@
     "input": "2A",
     "name": "",
     "images": [
-      "MBTL_Roa_2A.png"
+      "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       "L"
@@ -13052,12 +12623,9 @@
     "input": "2B",
     "name": "",
     "images": [
-      "MBTL_Roa_2B.png"
+      "https://wiki.gbl.gg/images/d/d4/MBTL_Roa_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "L"
@@ -13089,12 +12657,9 @@
     "input": "2C",
     "name": "",
     "images": [
-      "MBTL_Roa_2C.png"
+      "https://wiki.gbl.gg/images/5/5c/MBTL_Roa_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -13125,13 +12690,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "2C~2C",
     "name": "",
-    "images": [
-      "MBTL_Roa_2C2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       "LH"
@@ -13162,13 +12722,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "3BC",
     "name": "",
-    "images": [
-      "MBTL_Roa_3BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "340*4 (1216)",
     "guard": [
       "LHA"
@@ -13199,13 +12754,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "3C",
     "name": "",
-    "images": [
-      "MBTL_Roa_3C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -13236,13 +12786,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Roa_throw.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -13273,13 +12818,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "4BC",
     "name": "",
-    "images": [
-      "MBTL_Roa_4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "480*3 (1309)",
     "guard": [
       ""
@@ -13311,12 +12851,9 @@
     "input": "5A",
     "name": "",
     "images": [
-      "MBTL_Roa_5A.png"
+      "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -13348,12 +12885,9 @@
     "input": "5B",
     "name": "",
     "images": [
-      "MBTL_Roa_5B.png"
+      "https://wiki.gbl.gg/images/e/ee/MBTL_Roa_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -13385,12 +12919,9 @@
     "input": "5C",
     "name": "",
     "images": [
-      "MBTL_Roa_5C.png"
+      "https://wiki.gbl.gg/images/c/ca/MBTL_Roa_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "420*2 (806)",
     "guard": [
       "LH",
@@ -13422,13 +12953,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "623A",
     "name": "",
-    "images": [
-      "MBTL_Roa_623A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       "LH"
@@ -13459,13 +12985,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "623B",
     "name": "",
-    "images": [
-      "MBTL_Roa_623B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "340*4, 450 (1544)",
     "guard": [
       "LH"
@@ -13496,13 +13017,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "623C",
     "name": "",
-    "images": [
-      "MBTL_Roa_623C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "300*6, 600 (2010)",
     "guard": [
       "LH"
@@ -13533,13 +13049,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "6BC",
     "name": "",
-    "images": [
-      "MBTL_Roa_6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "550*3 (1473)",
     "guard": [
       "LH"
@@ -13570,13 +13081,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "6C",
     "name": "",
-    "images": [
-      "MBTL_Roa_6C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "390*2 (744)",
     "guard": [
       "LHA"
@@ -13607,13 +13113,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "6C~C",
     "name": "",
-    "images": [
-      "MBTL_Roa_6CC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 460,
     "guard": [
       "LA"
@@ -13644,13 +13145,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "ABCD",
     "name": "",
-    "images": [
-      "MBTL_Roa_ABCD.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -13681,13 +13177,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "j.4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Roa_airthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -13718,13 +13209,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "j236A",
     "name": "",
-    "images": [
-      "MBTL_Roa_j236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -13755,13 +13241,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "j236B",
     "name": "",
-    "images": [
-      "MBTL_Roa_j236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "340*4 (1083)",
     "guard": [
       ""
@@ -13792,13 +13273,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "j236C",
     "name": "",
-    "images": [
-      "MBTL_Roa_j236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "450*4, 600 (1868)",
     "guard": [
       ""
@@ -13829,13 +13305,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "j6BC",
     "name": "",
-    "images": [
-      "MBTL_Roa_j6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "450*4 (1394)",
     "guard": [
       ""
@@ -13866,13 +13337,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "jA",
     "name": "",
-    "images": [
-      "MBTL_Roa_jA.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "HA"
@@ -13903,13 +13369,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "jB",
     "name": "",
-    "images": [
-      "MBTL_Roa_jB.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       "HA"
@@ -13940,13 +13401,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "jC",
     "name": "",
-    "images": [
-      "MBTL_Roa_jC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "HA"
@@ -13977,13 +13433,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "rapid2",
     "name": "",
-    "images": [
-      "MBTL_Roa_rapid2.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "230*2 (414)",
     "guard": [
       ""
@@ -14014,13 +13465,8 @@
     "chara": "Michael Roa Valdamjong",
     "input": "rapid3",
     "name": "",
-    "images": [
-      "MBTL_Roa_rapid3.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -14051,14 +13497,7 @@
     "chara": "Miyako Arima",
     "input": "214[A]",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_2A.png",
-      "https://wiki.gbl.gg/images/d/d4/MBTL_Roa_2B.png",
-      "https://wiki.gbl.gg/images/5/5c/MBTL_Roa_2C.png",
-      "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_5A.png",
-      "https://wiki.gbl.gg/images/e/ee/MBTL_Roa_5B.png",
-      "https://wiki.gbl.gg/images/c/ca/MBTL_Roa_5C.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1400,
     "guard": [
@@ -15746,13 +15185,8 @@
     "chara": "Noel",
     "input": "214A",
     "name": "",
-    "images": [
-      "MBTL_Noel_214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "640, 556 (1196)",
     "guard": [
       "LH"
@@ -15783,13 +15217,8 @@
     "chara": "Noel",
     "input": "214A~X",
     "name": "",
-    "images": [
-      "MBTL_Noel_214AX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -15820,13 +15249,8 @@
     "chara": "Noel",
     "input": "214B",
     "name": "",
-    "images": [
-      "MBTL_Noel_214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "680, 556 (1236)",
     "guard": [
       "LH"
@@ -15857,13 +15281,8 @@
     "chara": "Noel",
     "input": "214B~X",
     "name": "",
-    "images": [
-      "MBTL_Noel_214BX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "430*3 (1186)",
     "guard": [
       "LH"
@@ -15894,13 +15313,8 @@
     "chara": "Noel",
     "input": "214C",
     "name": "",
-    "images": [
-      "MBTL_Noel_214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "450*5, 600 (2340)",
     "guard": [
       "LH"
@@ -15931,13 +15345,8 @@
     "chara": "Noel",
     "input": "22[A]",
     "name": "",
-    "images": [
-      "MBTL_Noel_22[A].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1392)",
     "guard": [
       "H"
@@ -15969,12 +15378,9 @@
     "input": "22A",
     "name": "",
     "images": [
-      "MBTL_Noel_22A.png"
+      "https://wiki.gbl.gg/images/9/96/MBTL_Noel_22A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "520, 400*2 (1200)",
     "guard": [
       "LH"
@@ -16006,12 +15412,9 @@
     "input": "22B",
     "name": "",
     "images": [
-      "MBTL_Noel_22B.png"
+      "https://wiki.gbl.gg/images/f/f5/MBTL_Noel_22B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "440*3 (1200)",
     "guard": [
       "LH"
@@ -16043,12 +15446,9 @@
     "input": "22C",
     "name": "",
     "images": [
-      "MBTL_Noel_22C.png"
+      "https://wiki.gbl.gg/images/e/e4/MBTL_Noel_22C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "430*4 (1517)",
     "guard": [
       "LH"
@@ -16079,13 +15479,8 @@
     "chara": "Noel",
     "input": "236A",
     "name": "",
-    "images": [
-      "MBTL_Noel_236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -16116,13 +15511,8 @@
     "chara": "Noel",
     "input": "236B",
     "name": "",
-    "images": [
-      "MBTL_Noel_236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -16153,13 +15543,8 @@
     "chara": "Noel",
     "input": "236BC",
     "name": "",
-    "images": [
-      "MBTL_Noel_236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       ""
@@ -16190,13 +15575,8 @@
     "chara": "Noel",
     "input": "236C",
     "name": "",
-    "images": [
-      "MBTL_Noel_236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "880, 651 (1531)",
     "guard": [
       "LHA"
@@ -16227,13 +15607,8 @@
     "chara": "Noel",
     "input": "236X~X",
     "name": "",
-    "images": [
-      "MBTL_Noel_236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -16265,12 +15640,9 @@
     "input": "2A",
     "name": "",
     "images": [
-      "MBTL_Noel_2A.png"
+      "https://wiki.gbl.gg/images/6/61/MBTL_Noel_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "L"
@@ -16302,12 +15674,9 @@
     "input": "2B",
     "name": "",
     "images": [
-      "MBTL_Noel_2B.png"
+      "https://wiki.gbl.gg/images/0/09/MBTL_Noel_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "240*2 (468)",
     "guard": [
       "LH",
@@ -16340,12 +15709,9 @@
     "input": "2BC",
     "name": "",
     "images": [
-      "MBTL_Noel_2BC.png"
+      "https://wiki.gbl.gg/images/a/ad/MBTL_Noel_2BC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -16377,12 +15743,9 @@
     "input": "2C",
     "name": "",
     "images": [
-      "MBTL_Noel_2C.png"
+      "https://wiki.gbl.gg/images/9/9e/MBTL_Noel_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -16413,13 +15776,8 @@
     "chara": "Noel",
     "input": "3BC",
     "name": "",
-    "images": [
-      "MBTL_Noel_3BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "350+1200 (1394)",
     "guard": [
       "LH",
@@ -16451,13 +15809,8 @@
     "chara": "Noel",
     "input": "3C",
     "name": "",
-    "images": [
-      "MBTL_Noel_3C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -16489,12 +15842,9 @@
     "input": "4/6AD",
     "name": "",
     "images": [
-      "MBTL_Noel_throw.png"
+      "https://wiki.gbl.gg/images/5/50/MBTL_Noel_throw.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "300, 600*2 (1500)",
     "guard": [
       "U"
@@ -16525,13 +15875,8 @@
     "chara": "Noel",
     "input": "4BC",
     "name": "",
-    "images": [
-      "MBTL_Noel_4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "500*3 (1355)",
     "guard": [
       "LH"
@@ -16563,12 +15908,9 @@
     "input": "5A",
     "name": "",
     "images": [
-      "MBTL_Noel_5A.png"
+      "https://wiki.gbl.gg/images/d/d2/MBTL_Noel_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       "LH"
@@ -16600,12 +15942,9 @@
     "input": "5B",
     "name": "",
     "images": [
-      "MBTL_Noel_5B.png"
+      "https://wiki.gbl.gg/images/a/aa/MBTL_Noel_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "LH"
@@ -16637,12 +15976,9 @@
     "input": "5C",
     "name": "",
     "images": [
-      "MBTL_Noel_5C.png"
+      "https://wiki.gbl.gg/images/2/26/MBTL_Noel_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -16673,13 +16009,8 @@
     "chara": "Noel",
     "input": "623A",
     "name": "",
-    "images": [
-      "MBTL_Noel_623A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -16710,13 +16041,8 @@
     "chara": "Noel",
     "input": "623B",
     "name": "",
-    "images": [
-      "MBTL_Noel_623B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       "LH",
@@ -16748,13 +16074,8 @@
     "chara": "Noel",
     "input": "623C",
     "name": "",
-    "images": [
-      "MBTL_Noel_623C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "700*4 (2324)",
     "guard": [
       "LH"
@@ -16785,13 +16106,8 @@
     "chara": "Noel",
     "input": "6BC",
     "name": "",
-    "images": [
-      "MBTL_Noel_6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "700, 750 (1255)",
     "guard": [
       "LHA"
@@ -16823,12 +16139,9 @@
     "input": "6C",
     "name": "",
     "images": [
-      "MBTL_Noel_6C.png"
+      "https://wiki.gbl.gg/images/4/4d/MBTL_Noel_6C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -16860,12 +16173,9 @@
     "input": "ABCD",
     "name": "",
     "images": [
-      "MBTL_Noel_ABCD.png"
+      "https://wiki.gbl.gg/images/b/ba/MBTL_Noel_ABCD.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -16897,12 +16207,9 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [
-      "MBTL_Noel_airthrow.png"
+      "https://wiki.gbl.gg/images/1/19/MBTL_Noel_airthrow.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -16933,13 +16240,8 @@
     "chara": "Noel",
     "input": "j[C]",
     "name": "",
-    "images": [
-      "MBTL_Noel_j[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "HA"
@@ -16970,13 +16272,8 @@
     "chara": "Noel",
     "input": "j236A",
     "name": "",
-    "images": [
-      "MBTL_Noel_j236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -17007,13 +16304,8 @@
     "chara": "Noel",
     "input": "j236B",
     "name": "",
-    "images": [
-      "MBTL_Noel_j236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -17044,13 +16336,8 @@
     "chara": "Noel",
     "input": "j236C",
     "name": "",
-    "images": [
-      "MBTL_Noel_j236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "880+651 (1531)",
     "guard": [
       "LHA"
@@ -17081,13 +16368,8 @@
     "chara": "Noel",
     "input": "j6BC",
     "name": "",
-    "images": [
-      "MBTL_Noel_j6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       "LHA"
@@ -17119,12 +16401,9 @@
     "input": "jA",
     "name": "",
     "images": [
-      "MBTL_Noel_jA.png"
+      "https://wiki.gbl.gg/images/c/cf/MBTL_Noel_jA.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 130,
     "guard": [
       "HA"
@@ -17156,12 +16435,9 @@
     "input": "jB",
     "name": "",
     "images": [
-      "MBTL_Noel_jB.png"
+      "https://wiki.gbl.gg/images/9/96/MBTL_Noel_jB.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       "HA"
@@ -17193,12 +16469,9 @@
     "input": "jC",
     "name": "",
     "images": [
-      "MBTL_Noel_jC.png"
+      "https://wiki.gbl.gg/images/a/a9/MBTL_Noel_jC.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "HA"
@@ -17230,12 +16503,9 @@
     "input": "rapid2",
     "name": "",
     "images": [
-      "MBTL_Noel_rapid2.png"
+      "https://wiki.gbl.gg/images/c/c7/MBTL_Noel_rapid2.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "230*2 (414)",
     "guard": [
       "LH"
@@ -17267,12 +16537,9 @@
     "input": "rapid3",
     "name": "",
     "images": [
-      "MBTL_Noel_rapid3.png"
+      "https://wiki.gbl.gg/images/8/86/MBTL_Noel_rapid3.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -17303,13 +16570,8 @@
     "chara": "Red Arcueid",
     "input": "214A",
     "name": "",
-    "images": [
-      "MBTL_Warc_214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -17340,13 +16602,8 @@
     "chara": "Red Arcueid",
     "input": "214B",
     "name": "",
-    "images": [
-      "MBTL_Warc_214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "700, 650 (1174)",
     "guard": [
       ""
@@ -17377,13 +16634,8 @@
     "chara": "Red Arcueid",
     "input": "214C",
     "name": "",
-    "images": [
-      "MBTL_Warc_214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "950*3 (2089)",
     "guard": [
       ""
@@ -17414,13 +16666,8 @@
     "chara": "Red Arcueid",
     "input": "236A",
     "name": "",
-    "images": [
-      "MBTL_Warc_236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       ""
@@ -17451,13 +16698,8 @@
     "chara": "Red Arcueid",
     "input": "236B",
     "name": "",
-    "images": [
-      "MBTL_Warc_236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "400*4 (1388)",
     "guard": [
       ""
@@ -17488,13 +16730,8 @@
     "chara": "Red Arcueid",
     "input": "236BC",
     "name": "",
-    "images": [
-      "MBTL_Warc_236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       ""
@@ -17525,13 +16762,8 @@
     "chara": "Red Arcueid",
     "input": "236C",
     "name": "",
-    "images": [
-      "MBTL_Warc_236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "400*6 (1992)",
     "guard": [
       ""
@@ -17562,13 +16794,8 @@
     "chara": "Red Arcueid",
     "input": "2A",
     "name": "",
-    "images": [
-      "MBTL_Warc_2A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       ""
@@ -17599,13 +16826,8 @@
     "chara": "Red Arcueid",
     "input": "2B",
     "name": "",
-    "images": [
-      "MBTL_Warc_2B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       ""
@@ -17636,13 +16858,8 @@
     "chara": "Red Arcueid",
     "input": "2C",
     "name": "",
-    "images": [
-      "MBTL_Warc_2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       ""
@@ -17673,13 +16890,8 @@
     "chara": "Red Arcueid",
     "input": "2C~2C",
     "name": "",
-    "images": [
-      "MBTL_Warc_2C2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 780,
     "guard": [
       ""
@@ -17710,13 +16922,8 @@
     "chara": "Red Arcueid",
     "input": "3BC",
     "name": "",
-    "images": [
-      "MBTL_Warc_3BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -17747,13 +16954,8 @@
     "chara": "Red Arcueid",
     "input": "3C",
     "name": "",
-    "images": [
-      "MBTL_Warc_3C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -17784,13 +16986,8 @@
     "chara": "Red Arcueid",
     "input": "4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Warc_throw.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "300, 1000 (1300)",
     "guard": [
       ""
@@ -17821,13 +17018,8 @@
     "chara": "Red Arcueid",
     "input": "4BC",
     "name": "",
-    "images": [
-      "MBTL_Warc_4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "750*2 (1357)",
     "guard": [
       ""
@@ -17858,13 +17050,8 @@
     "chara": "Red Arcueid",
     "input": "5[B]",
     "name": "",
-    "images": [
-      "MBTL_Warc_5[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "400*2 (768)",
     "guard": [
       ""
@@ -17895,13 +17082,8 @@
     "chara": "Red Arcueid",
     "input": "5[C]",
     "name": "",
-    "images": [
-      "MBTL_Warc_5[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "550*2 (1045)",
     "guard": [
       ""
@@ -17932,13 +17114,8 @@
     "chara": "Red Arcueid",
     "input": "5A",
     "name": "",
-    "images": [
-      "MBTL_Warc_5A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       ""
@@ -17969,13 +17146,8 @@
     "chara": "Red Arcueid",
     "input": "5B",
     "name": "",
-    "images": [
-      "MBTL_Warc_5b.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       ""
@@ -18006,13 +17178,8 @@
     "chara": "Red Arcueid",
     "input": "5C",
     "name": "",
-    "images": [
-      "MBTL_Warc_5C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       ""
@@ -18043,13 +17210,8 @@
     "chara": "Red Arcueid",
     "input": "623[A]",
     "name": "",
-    "images": [
-      "MBTL_Warc_623[A].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18080,13 +17242,8 @@
     "chara": "Red Arcueid",
     "input": "623[B]",
     "name": "",
-    "images": [
-      "MBTL_Warc_623[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18117,13 +17274,8 @@
     "chara": "Red Arcueid",
     "input": "623A",
     "name": "",
-    "images": [
-      "MBTL_Warc_623A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18154,13 +17306,8 @@
     "chara": "Red Arcueid",
     "input": "623B",
     "name": "",
-    "images": [
-      "MBTL_Warc_623B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18191,13 +17338,8 @@
     "chara": "Red Arcueid",
     "input": "623C",
     "name": "",
-    "images": [
-      "MBTL_Warc_623C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1000, 1040 (2040)",
     "guard": [
       ""
@@ -18228,13 +17370,8 @@
     "chara": "Red Arcueid",
     "input": "6BC",
     "name": "",
-    "images": [
-      "MBTL_Warc_6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1409)",
     "guard": [
       ""
@@ -18265,13 +17402,8 @@
     "chara": "Red Arcueid",
     "input": "6C",
     "name": "",
-    "images": [
-      "MBTL_Warc_6C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -18302,13 +17434,8 @@
     "chara": "Red Arcueid",
     "input": "ABCD",
     "name": "",
-    "images": [
-      "MBTL_Warc_ABCD.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -18339,13 +17466,8 @@
     "chara": "Red Arcueid",
     "input": "j.4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Warc_airthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -18376,13 +17498,8 @@
     "chara": "Red Arcueid",
     "input": "j[C]",
     "name": "",
-    "images": [
-      "MBTL_Warc_j[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       ""
@@ -18413,13 +17530,8 @@
     "chara": "Red Arcueid",
     "input": "j214A",
     "name": "",
-    "images": [
-      "MBTL_Warc_j214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -18450,13 +17562,8 @@
     "chara": "Red Arcueid",
     "input": "j214B",
     "name": "",
-    "images": [
-      "MBTL_Warc_j214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -18487,13 +17594,8 @@
     "chara": "Red Arcueid",
     "input": "j214B/C~X",
     "name": "",
-    "images": [
-      "MBTL_Warc_j214BCX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       ""
@@ -18524,13 +17626,8 @@
     "chara": "Red Arcueid",
     "input": "j214C",
     "name": "",
-    "images": [
-      "MBTL_Warc_j214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "500*5 (2115)",
     "guard": [
       ""
@@ -18561,13 +17658,8 @@
     "chara": "Red Arcueid",
     "input": "j2C",
     "name": "",
-    "images": [
-      "MBTL_Warc_j2C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "260*6 (1332)",
     "guard": [
       ""
@@ -18598,13 +17690,8 @@
     "chara": "Red Arcueid",
     "input": "j4BC",
     "name": "",
-    "images": [
-      "MBTL_Warc_j4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1100+700 (1576)",
     "guard": [
       ""
@@ -18635,13 +17722,8 @@
     "chara": "Red Arcueid",
     "input": "jA",
     "name": "",
-    "images": [
-      "MBTL_Warc_jA.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -18672,13 +17754,8 @@
     "chara": "Red Arcueid",
     "input": "jB",
     "name": "",
-    "images": [
-      "MBTL_Warc_jB.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "240*2 (470)",
     "guard": [
       ""
@@ -18709,13 +17786,8 @@
     "chara": "Red Arcueid",
     "input": "jC",
     "name": "",
-    "images": [
-      "MBTL_Warc_jC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       ""
@@ -18746,13 +17818,8 @@
     "chara": "Red Arcueid",
     "input": "rapid2",
     "name": "",
-    "images": [
-      "MBTL_Warc_rapid2.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -18783,13 +17850,8 @@
     "chara": "Red Arcueid",
     "input": "rapid3",
     "name": "",
-    "images": [
-      "MBTL_Warc_rapid3.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -18820,13 +17882,8 @@
     "chara": "Saber",
     "input": "214[A]",
     "name": "",
-    "images": [
-      "MBTL_Saber_214[A].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18857,13 +17914,8 @@
     "chara": "Saber",
     "input": "214[B]",
     "name": "",
-    "images": [
-      "MBTL_Saber_214[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "",
     "guard": [
       ""
@@ -18894,13 +17946,8 @@
     "chara": "Saber",
     "input": "214A",
     "name": "",
-    "images": [
-      "MBTL_Saber_214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       "HL"
@@ -18931,13 +17978,8 @@
     "chara": "Saber",
     "input": "214B",
     "name": "",
-    "images": [
-      "MBTL_Saber_214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       "L"
@@ -18968,13 +18010,8 @@
     "chara": "Saber",
     "input": "214BC",
     "name": "",
-    "images": [
-      "MBTL_Saber_214BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3400,
     "guard": [
       ""
@@ -19005,13 +18042,8 @@
     "chara": "Saber",
     "input": "214C",
     "name": "",
-    "images": [
-      "MBTL_Saber_214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1900,
     "guard": [
       "HL"
@@ -19042,13 +18074,8 @@
     "chara": "Saber",
     "input": "22C",
     "name": "",
-    "images": [
-      "MBTL_Saber_22C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "430*5 (1602)",
     "guard": [
       "HL"
@@ -19079,13 +18106,8 @@
     "chara": "Saber",
     "input": "236A",
     "name": "",
-    "images": [
-      "MBTL_Saber_236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "HL"
@@ -19116,13 +18138,8 @@
     "chara": "Saber",
     "input": "236B",
     "name": "",
-    "images": [
-      "MBTL_Saber_236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "HL"
@@ -19153,13 +18170,8 @@
     "chara": "Saber",
     "input": "236BC",
     "name": "",
-    "images": [
-      "MBTL_Saber_236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       "HL"
@@ -19190,13 +18202,8 @@
     "chara": "Saber",
     "input": "236C",
     "name": "",
-    "images": [
-      "MBTL_Saber_236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "530*4 (1870)",
     "guard": [
       "HL"
@@ -19227,13 +18234,8 @@
     "chara": "Saber",
     "input": "236X~4X",
     "name": "",
-    "images": [
-      "MBTL_Saber_236X4X.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "L"
@@ -19264,13 +18266,8 @@
     "chara": "Saber",
     "input": "236X~X",
     "name": "",
-    "images": [
-      "MBTL_Saber_236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -19301,13 +18298,8 @@
     "chara": "Saber",
     "input": "236X~X~4X",
     "name": "",
-    "images": [
-      "MBTL_Saber_236XX4X.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "H"
@@ -19338,13 +18330,8 @@
     "chara": "Saber",
     "input": "236X~X~X",
     "name": "",
-    "images": [
-      "MBTL_Saber_236XXX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       "HL"
@@ -19376,12 +18363,9 @@
     "input": "2A",
     "name": "",
     "images": [
-      "MBTL_Saber_2A.png"
+      "https://wiki.gbl.gg/images/4/44/MBTL_Saber_2A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "L"
@@ -19413,12 +18397,9 @@
     "input": "2B",
     "name": "",
     "images": [
-      "MBTL_Saber_2B.png"
+      "https://wiki.gbl.gg/images/6/62/MBTL_Saber_2B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "HL"
@@ -19450,12 +18431,9 @@
     "input": "2C",
     "name": "",
     "images": [
-      "MBTL_Saber_2C.png"
+      "https://wiki.gbl.gg/images/9/96/MBTL_Saber_2C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -19486,13 +18464,8 @@
     "chara": "Saber",
     "input": "3BC",
     "name": "",
-    "images": [
-      "MBTL_Saber_3BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1409)",
     "guard": [
       "HL"
@@ -19524,13 +18497,8 @@
     "chara": "Saber",
     "input": "3C",
     "name": "",
-    "images": [
-      "MBTL_Saber_3C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "HL"
@@ -19563,12 +18531,9 @@
     "input": "4/6AD",
     "name": "",
     "images": [
-      "MBTL_Saber_throw.png"
+      "https://wiki.gbl.gg/images/b/b2/MBTL_Saber_throw.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -19599,13 +18564,8 @@
     "chara": "Saber",
     "input": "4BC",
     "name": "",
-    "images": [
-      "MBTL_Saber_4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "HA"
@@ -19636,13 +18596,8 @@
     "chara": "Saber",
     "input": "5[C]",
     "name": "",
-    "images": [
-      "MBTL_Saber_5[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 990,
     "guard": [
       "HL"
@@ -19676,12 +18631,9 @@
     "input": "5A",
     "name": "",
     "images": [
-      "MBTL_Saber_5A.png"
+      "https://wiki.gbl.gg/images/2/23/MBTL_Saber_5A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       "HL"
@@ -19716,12 +18668,9 @@
     "input": "5B",
     "name": "",
     "images": [
-      "MBTL_Saber_5B.png"
+      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_5B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "HL"
@@ -19755,12 +18704,9 @@
     "input": "5C",
     "name": "",
     "images": [
-      "MBTL_Saber_5C.png"
+      "https://wiki.gbl.gg/images/c/c5/MBTL_Saber_5C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "HL"
@@ -19793,13 +18739,8 @@
     "chara": "Saber",
     "input": "623A",
     "name": "",
-    "images": [
-      "MBTL_Saber_623A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "HL"
@@ -19831,13 +18772,8 @@
     "chara": "Saber",
     "input": "623B",
     "name": "",
-    "images": [
-      "MBTL_Saber_623B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "HL"
@@ -19869,13 +18805,8 @@
     "chara": "Saber",
     "input": "623C",
     "name": "",
-    "images": [
-      "MBTL_Saber_623C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "370*6 (1841)",
     "guard": [
       "HL"
@@ -19906,13 +18837,8 @@
     "chara": "Saber",
     "input": "6BC",
     "name": "",
-    "images": [
-      "MBTL_Saber_6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "750*2 (1357)",
     "guard": [
       "HL"
@@ -19944,12 +18870,9 @@
     "input": "6C",
     "name": "",
     "images": [
-      "MBTL_Saber_6C.png"
+      "https://wiki.gbl.gg/images/8/85/MBTL_Saber_6C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "HL"
@@ -19982,12 +18905,9 @@
     "input": "ABCD",
     "name": "",
     "images": [
-      "MBTL_Saber_ABCD.png"
+      "https://wiki.gbl.gg/images/e/e5/MBTL_Saber_ABCD.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "4800 [4800~6960 in BH]",
     "guard": [
       "LH"
@@ -20019,12 +18939,9 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [
-      "MBTL_Saber_airthrow.png"
+      "https://wiki.gbl.gg/images/a/aa/MBTL_Saber_airthrow.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -20055,13 +18972,8 @@
     "chara": "Saber",
     "input": "j[C]",
     "name": "",
-    "images": [
-      "MBTL_Saber_j[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "HA"
@@ -20095,12 +19007,9 @@
     "input": "j236A",
     "name": "",
     "images": [
-      "MBTL_Saber_j236A.png"
+      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_j236A.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "340, 470*2 (1153)",
     "guard": [
       "HLA"
@@ -20132,12 +19041,9 @@
     "input": "j236B",
     "name": "",
     "images": [
-      "MBTL_Saber_j236B.png"
+      "https://wiki.gbl.gg/images/a/af/MBTL_Saber_j236B.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "340*4 (1216)",
     "guard": [
       "HLA"
@@ -20169,12 +19075,9 @@
     "input": "j236C",
     "name": "",
     "images": [
-      "MBTL_Saber_j236C.png"
+      "https://wiki.gbl.gg/images/c/c6/MBTL_Saber_j236C.png"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "hitboxes": [],
     "damage": "600, 500*5 (2590)",
     "guard": [
       "HLA"
@@ -20205,13 +19108,8 @@
     "chara": "Saber",
     "input": "j6BC",
     "name": "",
-    "images": [
-      "MBTL_Saber_j6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "380*4 (1359)",
     "guard": [
       "HLA"
@@ -20242,13 +19140,8 @@
     "chara": "Saber",
     "input": "jA",
     "name": "",
-    "images": [
-      "MBTL_Saber_jA.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "HA"
@@ -20282,13 +19175,8 @@
     "chara": "Saber",
     "input": "jB",
     "name": "",
-    "images": [
-      "MBTL_Saber_jB.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       "HA"
@@ -20321,13 +19209,8 @@
     "chara": "Saber",
     "input": "jC",
     "name": "",
-    "images": [
-      "MBTL_Saber_jC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "HA"
@@ -20360,13 +19243,8 @@
     "chara": "Saber",
     "input": "rapid2",
     "name": "",
-    "images": [
-      "MBTL_Saber_rapid2.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "120*4 (408)",
     "guard": [
       "HL"
@@ -20399,13 +19277,8 @@
     "chara": "Saber",
     "input": "rapid3",
     "name": "",
-    "images": [
-      "MBTL_Saber_rapid3.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -20436,40 +19309,7 @@
     "chara": "Shiki Tohno",
     "input": "214A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/96/MBTL_Noel_22A.png",
-      "https://wiki.gbl.gg/images/f/f5/MBTL_Noel_22B.png",
-      "https://wiki.gbl.gg/images/e/e4/MBTL_Noel_22C.png",
-      "https://wiki.gbl.gg/images/6/61/MBTL_Noel_2A.png",
-      "https://wiki.gbl.gg/images/0/09/MBTL_Noel_2B.png",
-      "https://wiki.gbl.gg/images/a/ad/MBTL_Noel_2BC.png",
-      "https://wiki.gbl.gg/images/9/9e/MBTL_Noel_2C.png",
-      "https://wiki.gbl.gg/images/5/50/MBTL_Noel_throw.png",
-      "https://wiki.gbl.gg/images/d/d2/MBTL_Noel_5A.png",
-      "https://wiki.gbl.gg/images/a/aa/MBTL_Noel_5B.png",
-      "https://wiki.gbl.gg/images/2/26/MBTL_Noel_5C.png",
-      "https://wiki.gbl.gg/images/4/4d/MBTL_Noel_6C.png",
-      "https://wiki.gbl.gg/images/b/ba/MBTL_Noel_ABCD.png",
-      "https://wiki.gbl.gg/images/1/19/MBTL_Noel_airthrow.png",
-      "https://wiki.gbl.gg/images/c/cf/MBTL_Noel_jA.png",
-      "https://wiki.gbl.gg/images/9/96/MBTL_Noel_jB.png",
-      "https://wiki.gbl.gg/images/a/a9/MBTL_Noel_jC.png",
-      "https://wiki.gbl.gg/images/c/c7/MBTL_Noel_rapid2.png",
-      "https://wiki.gbl.gg/images/8/86/MBTL_Noel_rapid3.png",
-      "https://wiki.gbl.gg/images/4/44/MBTL_Saber_2A.png",
-      "https://wiki.gbl.gg/images/6/62/MBTL_Saber_2B.png",
-      "https://wiki.gbl.gg/images/9/96/MBTL_Saber_2C.png",
-      "https://wiki.gbl.gg/images/b/b2/MBTL_Saber_throw.png",
-      "https://wiki.gbl.gg/images/2/23/MBTL_Saber_5A.png",
-      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_5B.png",
-      "https://wiki.gbl.gg/images/c/c5/MBTL_Saber_5C.png",
-      "https://wiki.gbl.gg/images/8/85/MBTL_Saber_6C.png",
-      "https://wiki.gbl.gg/images/e/e5/MBTL_Saber_ABCD.png",
-      "https://wiki.gbl.gg/images/a/aa/MBTL_Saber_airthrow.png",
-      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_j236A.png",
-      "https://wiki.gbl.gg/images/a/af/MBTL_Saber_j236B.png",
-      "https://wiki.gbl.gg/images/c/c6/MBTL_Saber_j236C.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -21864,13 +20704,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214[B]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       "LH"
@@ -21901,13 +20736,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "L"
@@ -21938,13 +20768,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -21975,13 +20800,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "400, 300*5 (1894)",
     "guard": [
       "LH"
@@ -22012,13 +20832,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "550*2 (1100)",
     "guard": [
       "LH"
@@ -22049,13 +20864,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214X~X~4X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214XX4X.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "500, 450*3 (1640)",
     "guard": [
       "U"
@@ -22086,13 +20896,8 @@
     "chara": "Vlov Arkhangel",
     "input": "214X~X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_214XXX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LH"
@@ -22123,13 +20928,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F22A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -22160,13 +20960,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I22A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "LHA"
@@ -22197,13 +20992,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F22B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "L"
@@ -22234,13 +21024,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I22B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "L"
@@ -22271,13 +21056,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F22C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1200*2 (2016)",
     "guard": [
       ""
@@ -22308,13 +21088,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I22C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1200*2 (2016)",
     "guard": [
       "LA"
@@ -22345,50 +21120,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F22XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
-    "damage": 900,
-    "guard": [
-      "LA"
-    ],
-    "cancel": [
-      ""
-    ],
-    "property": [
-      ""
-    ],
-    "cost": [
-      ""
-    ],
-    "attribute": [
-      ""
-    ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": 0,
-    "invul": "",
-    "minDamage": "",
-    "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22X~X"
-  },
-  {
-    "chara": "Vlov Arkhangel",
-    "input": "22X~X",
-    "name": "",
-    "images": [
-      "MBTL_Vlov_F22XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "LA"
@@ -22419,13 +21152,40 @@
     "chara": "Vlov Arkhangel",
     "input": "22X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I22XX.png"
+    "images": [],
+    "hitboxes": [],
+    "damage": 900,
+    "guard": [
+      "LA"
     ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
+    "cancel": [
+      ""
     ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": 0,
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22X~X"
+  },
+  {
+    "chara": "Vlov Arkhangel",
+    "input": "22X~X",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "LA"
@@ -22456,13 +21216,8 @@
     "chara": "Vlov Arkhangel",
     "input": "22X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I22XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "LA"
@@ -22493,13 +21248,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -22530,13 +21280,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1253)",
     "guard": [
       "LHA"
@@ -22567,13 +21312,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LHA"
@@ -22604,13 +21344,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1253)",
     "guard": [
       "LHA"
@@ -22641,13 +21376,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_f236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       "LHA"
@@ -22678,13 +21408,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_i236BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 3500,
     "guard": [
       "LHA"
@@ -22715,13 +21440,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1000*3 (2350)",
     "guard": [
       "LHA"
@@ -22752,13 +21472,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "450*7 (2258)",
     "guard": [
       "LHA"
@@ -22789,13 +21504,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236X~[A]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F236X[A].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "750*2 (1387)",
     "guard": [
       "LHA"
@@ -22826,13 +21536,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236X~[A]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I236X[A].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*5 (1819)",
     "guard": [
       "LHA"
@@ -22863,13 +21568,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236X~[B]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_f236X[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "750*2 (1387)",
     "guard": [
       "LHA"
@@ -22900,13 +21600,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236X~[B]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_i236X[B].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*5 (1819)",
     "guard": [
       ""
@@ -22937,13 +21632,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LHA"
@@ -22974,13 +21664,8 @@
     "chara": "Vlov Arkhangel",
     "input": "236X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1253)",
     "guard": [
       "LHA"
@@ -23083,13 +21768,8 @@
     "chara": "Vlov Arkhangel",
     "input": "2BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F2BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       "LHA"
@@ -23120,13 +21800,8 @@
     "chara": "Vlov Arkhangel",
     "input": "2BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I2BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1400,
     "guard": [
       "LHA"
@@ -23225,13 +21900,8 @@
     "chara": "Vlov Arkhangel",
     "input": "4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Vlov_throw.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "800+700 (1500)",
     "guard": [
       "U"
@@ -23262,13 +21932,8 @@
     "chara": "Vlov Arkhangel",
     "input": "4BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_4BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "750*2 (1357)",
     "guard": [
       "LH"
@@ -23371,13 +22036,8 @@
     "chara": "Vlov Arkhangel",
     "input": "5C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_5C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 680,
     "guard": [
       "LH"
@@ -23408,13 +22068,8 @@
     "chara": "Vlov Arkhangel",
     "input": "6[C]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_6[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 950,
     "guard": [
       "H"
@@ -23445,13 +22100,8 @@
     "chara": "Vlov Arkhangel",
     "input": "6BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_F6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "1100*2 (1793)",
     "guard": [
       "LHA"
@@ -23482,13 +22132,8 @@
     "chara": "Vlov Arkhangel",
     "input": "6BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_I6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*6 (2053)",
     "guard": [
       "LHA"
@@ -23587,13 +22232,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j.4/6AD",
     "name": "",
-    "images": [
-      "MBTL_Vlov_airthrow.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "U"
@@ -23624,13 +22264,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j[C]",
     "name": "",
-    "images": [
-      "MBTL_Vlov_j[C].png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "HA"
@@ -23661,13 +22296,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Fj236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LHA"
@@ -23698,13 +22328,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236A",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Ij236A.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1253)",
     "guard": [
       "LHA"
@@ -23735,13 +22360,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Fj236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LHA"
@@ -23772,13 +22392,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236B",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Ij236B.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1253)",
     "guard": [
       "LHA"
@@ -23809,13 +22424,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Fj236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "800*3 (1880)",
     "guard": [
       "LHA"
@@ -23846,13 +22456,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236C",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Ij236C.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "430*7 (2156)",
     "guard": [
       "LHA"
@@ -23883,13 +22488,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Fj236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LHA"
@@ -23920,13 +22520,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j236X~X",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Ij236XX.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*3 (1253)",
     "guard": [
       "LHA"
@@ -23957,13 +22552,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j6BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Fj6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "900*2 (1467)",
     "guard": [
       "LHA"
@@ -23994,13 +22584,8 @@
     "chara": "Vlov Arkhangel",
     "input": "j6BC",
     "name": "",
-    "images": [
-      "MBTL_Vlov_Ij6BC.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "520*6 (2053)",
     "guard": [
       "LHA"
@@ -24139,13 +22724,8 @@
     "chara": "Vlov Arkhangel",
     "input": "rapid2",
     "name": "",
-    "images": [
-      "MBTL_Vlov_rapid2.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "220*2 (407)",
     "guard": [
       "LH"
@@ -24176,13 +22756,8 @@
     "chara": "Vlov Arkhangel",
     "input": "rapid3",
     "name": "",
-    "images": [
-      "MBTL_Vlov_rapid3.png"
-    ],
-    "hitboxes": [
-      "placeholder.png",
-      " placeholder.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       "LH"

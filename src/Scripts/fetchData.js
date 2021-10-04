@@ -68,27 +68,26 @@ const fetchImage = async (fetchedData) => {
     
 
     var hitBoxList = fetchedData[i].hitboxes;
-    if (hitBoxList[0].replace(" ", "") == "placeholder.png") {
-      continue;
-    }
-    console.log(`Fetching HitBox: ${hitBoxList[0].replace(" ", "")}`);
-    let fetchedHitBox = await fetch(`https://wiki.gbl.gg/api.php?action=query&format=json&prop=imageinfo&titles=File:${hitBoxList[0].replace(" ", "")}&iiprop=url`)
-      .then(response => response.json())
-      .catch((err) => {
-        // console.log(err);
-        console.log(`Error in procuring information from: ${hitBoxList[0]}`)
-      });
-    try {
-      if (Object.keys(fetchedHitBox.query.pages) != "-1") {
-        let pages = fetchedHitBox.query.pages;
-        let pageKey = Object.keys(pages);
-        let keyNumber = pageKey[0];
-        let url = pages[keyNumber].imageinfo[0].url;
-        console.log(`Fetched HitBox: ${url}`)
-        tempHitBoxList.push(url)
+    if (hitBoxList[0].replace(" ", "") != "placeholder.png") {      
+      console.log(`Fetching HitBox: ${hitBoxList[0].replace(" ", "")}`);
+      let fetchedHitBox = await fetch(`https://wiki.gbl.gg/api.php?action=query&format=json&prop=imageinfo&titles=File:${hitBoxList[0].replace(" ", "")}&iiprop=url`)
+        .then(response => response.json())
+        .catch((err) => {
+          // console.log(err);
+          console.log(`Error in procuring information from: ${hitBoxList[0]}`)
+        });
+      try {
+        if (Object.keys(fetchedHitBox.query.pages) != "-1") {
+          let pages = fetchedHitBox.query.pages;
+          let pageKey = Object.keys(pages);
+          let keyNumber = pageKey[0];
+          let url = pages[keyNumber].imageinfo[0].url;
+          console.log(`Fetched HitBox: ${url}`)
+          tempHitBoxList.push(url)
+        }
+      } catch {
+        console.log("Catched error for when API call for fetchHitBox fails")
       }
-    } catch {
-      console.log("Catched error for when API call for fetchHitBox fails")
     }
     
 
