@@ -53,7 +53,8 @@ const inputParser = (args) => {
     let outputString = shortHandArgs.shift();
     let outputMove = shortHandArgs.join(' ');
     outputArgs.push(outputString);
-    outputArgs.push(outputMove)
+    outputArgs.push(outputMove);
+    console.log(`Output arguments: \n1st Output: ${outputArgs[0]}\n2nd Output: ${outputArgs[1]}`);
     return outputArgs;
   }
 
