@@ -21,9 +21,11 @@ The bot is public, feel free to add it into your own server via [invite link](ht
 ![Ciel 5A](https://i.imgur.com/qFrmLX0.png)
 
 `!f ciel 214bca`
+
 ![Image to be added when image is included in the database]
 
 `!f tohno 5a`
+
 ![Tohno 5A](https://i.imgur.com/XuTsqey.png)
 
 
