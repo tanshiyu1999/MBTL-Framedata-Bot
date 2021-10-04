@@ -31,9 +31,8 @@ const makeFields = (moveObj) => {
     }
   }
 
-  console.log(dataOutput)
+  // console.log(dataOutput)
   // console.log(imageOutput)
-
 
   return {dataOutput, imageOutput}
 }

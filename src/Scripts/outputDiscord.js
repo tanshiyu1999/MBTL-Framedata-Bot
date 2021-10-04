@@ -22,6 +22,7 @@ const outputDiscord = (moveList, message) => {
     .setFooter("Data provided by Mizuumi wiki", "https://wiki.gbl.gg/mizulogo.png?1fe5d")
   // console.log(imageOutput)
 
+
   let printHitbox = false;
   imageOutput.forEach(imageObj => {
     if (imageObj.name == "hitboxes") {
@@ -34,6 +35,7 @@ const outputDiscord = (moveList, message) => {
   if (printHitbox) {
     for (let i = 0; i < imageOutput.length; i++) {
       if (imageOutput[i].name == "hitboxes") {
+        console.log(imageOutput[i].value)
         output.setThumbnail(imageOutput[i].value)
       }
     }
@@ -44,11 +46,6 @@ const outputDiscord = (moveList, message) => {
       }
     }
   }
-
-
-
-
-
 
 
   message.channel.send({embeds:[output]});
