@@ -5,19 +5,53 @@ const dupNameDifferentiator = require("./dupNameDifferentiator.js")
 
 // searchMoves will do a absolute search first.
 const searchMoves = (moveObj, move) => {
-  move = move.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+  move = move.replaceAll(".", "")
+  move = move.replaceAll(/B\/C/gi, "[BC]")
+  move = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
   // Generating the Regex 
-  let regex = `^[ \\.\\~]?[${move[0]}][ \\.\\~]?`;
+  let regex = `^[\\.\\~]?[${move[0]}][ \\.\\~]?`;
   for (let i = 1; i < move.length; i++) {
     if (i == 1) {
       regex = regex + "[ \\.\\~]?";
     }
-    if (move[i] == ' ' || move[i] == '.') {
+    if (move[i] == ' ') {
       continue;
     }
     regex = regex + move.substring(i , i + 1) + "[ \\.\\~]?";
   }
+
+  // Converts A B C into [AX] [BX] [CX] in order to match moves like Ciel's	236X~214X
+  regex = regex.replaceAll(/A/gi,'[AX]').replaceAll(/B/gi,'[BX]').replaceAll(/C/gi,'[CX]');
   let moveRegex = new RegExp(regex, 'i');
+
+
+  // If move contains B/C, match with 
+  if (moveObj['input'].includes("B/C")) {
+    let bString = moveObj['input'].replaceAll("B/C", "B");
+    let cString = moveObj['input'].replaceAll("B/C", "C");
+    if (bString.match(moveRegex) || cString.match(moveRegex)) {
+      return moveObj;
+    }
+  }
+
+  // If move contains A/C, match with 
+  if (moveObj['input'].includes("A/C")) {
+    let aString = moveObj['input'].replaceAll("A/C", "A");
+    let cString = moveObj['input'].replaceAll("A/C", "C");
+    if (aString.match(moveRegex) || cString.match(moveRegex)) {
+      return moveObj;
+    }
+  }
+
+  // If move contains A/B, match with 
+  if (moveObj['input'].includes("A/B")) {
+    let aString = moveObj['input'].replaceAll("A/B", "A");
+    let bString = moveObj['input'].replaceAll("A/B", "B");
+    if (aString.match(moveRegex) || bString.match(moveRegex)) {
+      return moveObj;
+    }
+  }
+
   
   if (moveObj['input'].match(moveRegex) || moveObj['name'].match(moveRegex)) {
     console.log(`Regex Match: ${moveObj['chara']}'s ${moveObj['input']}`)
