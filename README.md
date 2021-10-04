@@ -22,7 +22,7 @@ The bot is public, feel free to add it into your own server via [invite link](ht
 
 `!f ciel 214bca`
 
-![Image to be added when image is included in the database]
+![Ciel 214BCA](https://i.imgur.com/64TEzTh.png)
 
 `!f tohno 5a`
 
