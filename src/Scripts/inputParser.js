@@ -49,11 +49,7 @@ const inputParser = (args) => {
   let tempArgs = [...args]
 
   let shortHandArgs = charNameShorthandParser(tempArgs);
-  console.log(shortHandArgs)
-  console.log(args)
   if (shortHandArgs != args) {
-    console.log("hello")
-    console.log(shortHandArgs)
     let outputString = shortHandArgs.shift();
     let outputMove = shortHandArgs.join(' ');
     outputArgs.push(outputString);
