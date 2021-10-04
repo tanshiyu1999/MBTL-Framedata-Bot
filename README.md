@@ -28,4 +28,13 @@ The bot is public, feel free to add it into your own server via [invite link](ht
 
 ![Tohno 5A](https://i.imgur.com/XuTsqey.png)
 
+# Credits
+This bot was made possible by the Team over at [Mizuumi](https://wiki.gbl.gg/w/Main_Page) for creating the API and providing the data and images.
+
+I also want to thank Tarkus Lee and SageVarq from the Mizuumi Re-ACT Discord server for pointing me towards the API.
+
+Finally, I would like to thank movildima on discord who have answered my queries with regards to access to mediawiki's API, and some tips on querying the API.
+
+This project would not be possible without you and I am greatful!
+
 
