@@ -12,7 +12,7 @@ const makeFields = (moveObj) => {
       continue;
     } else {
       if (Array.isArray(moveObj[keys[i]])) {
-        tempObj.value = moveObj[keys[i]][0];
+        tempObj.value = moveObj[keys[i]].join(", ");
       } else {
         tempObj.value = moveObj[keys[i]].toString();
       }
@@ -31,7 +31,7 @@ const makeFields = (moveObj) => {
     }
   }
 
-  // console.log(dataOutput)
+  console.log(dataOutput)
   // console.log(imageOutput)
 
 
