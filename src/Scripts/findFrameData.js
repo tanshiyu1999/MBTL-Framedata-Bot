@@ -10,7 +10,6 @@ const searchMoves = (moveObj, move) => {
   move = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'); 
   move = move.replaceAll(/B\/C/gi, "[BC]") // do not escape the []
   // Generating the Regex 
-  console.log(move)
   let regex = `^[\\.\\~]?[${move[0]}][ \\.\\~]?`;
   for (let i = 1; i < move.length; i++) {
     if (i == 1) {
@@ -21,7 +20,6 @@ const searchMoves = (moveObj, move) => {
     }
     regex = regex + move.substring(i , i + 1) + "[ \\.\\~]?";
   }
-  console.log(regex)
 
   // Converts A B C into [AX] [BX] [CX] in order to match moves like Ciel's	236X~214X
   regex = regex.replaceAll(/A/gi,'[AX]').replaceAll(/B/gi,'[BX]').replaceAll(/C/gi,'[CX]');
