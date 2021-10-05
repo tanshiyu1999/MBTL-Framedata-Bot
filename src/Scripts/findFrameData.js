@@ -5,7 +5,7 @@ const dupNameDifferentiator = require("./dupNameDifferentiator.js")
 
 // searchMoves will do a absolute search first.
 const searchMoves = (moveObj, move) => {
-  move = move.replaceAll(".", "")
+  move = move.replaceAll(/[\+\.]/g, "")
   move = move.replaceAll(/B\/C/gi, "[BC]")
   move = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
   // Generating the Regex 
