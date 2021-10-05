@@ -1,3 +1,4 @@
+const { arrayBuffer } = require("stream/consumers");
 const frameDataBase = require("../Data/frameDataBase.json")
 const charNameShorthandParser = require("./charNameShorthandParser.js")
 
@@ -20,7 +21,7 @@ const splitNameParser = (tempName, nameList) => {
 }
 
 const absoluteNameFinder = (tempName, nameList) => {
-  // 
+  
   nameList = splitNameParser(tempName, nameList)
   tempName = tempName.replace(/[-[\]{}()*+?.,\\^$|#]/g, '\\$&');
 
@@ -62,14 +63,16 @@ const inputParser = (args) => {
   let tempArgs = [...args]
   // If shorthand name is used, it will return a shortHandArgs. If not, it will return an unaltered tempArgs.
   let shortHandArgs = charNameShorthandParser(tempArgs);
+
   // If shorthand is used, if statement returns true
   // This will return output of [charactername, charactermove]
-  if (shortHandArgs != args) {
+  if (shortHandArgs.join("") != args.join("")) {
+    console.log("Shorthand Found.")
     let outputString = shortHandArgs.shift();
     let outputMove = shortHandArgs.join(' ');
     outputArgs.push(outputString);
     outputArgs.push(outputMove);
-    console.log(`Output arguments: \n1st Output: ${outputArgs[0]}\n2nd Output: ${outputArgs[1]}`);
+    // console.log(`Output arguments: \n1st Output: ${outputArgs[0]}\n2nd Output: ${outputArgs[1]}`);
     return outputArgs;
   }
 
@@ -106,6 +109,15 @@ const inputParser = (args) => {
       } else {
         outputString = outputString + " " + args[i]
       }
+
+      // If all character name matches with argument
+      if (i === args.length - 1) {
+        outputArgs.push(outputString);
+        outputArgs.push(undefined);
+        return outputArgs;
+      }
+
+
       continue;
     } else {
       // When the regex and absolute search does not return anything, it means the previous argument are character name and the current input is not
@@ -118,7 +130,7 @@ const inputParser = (args) => {
       break;
     }
   }
-  console.log(`Output arguments: \n1st Output: ${outputArgs[0]}\n2nd Output: ${outputArgs[1]}`);
+
   return outputArgs;
 }
 

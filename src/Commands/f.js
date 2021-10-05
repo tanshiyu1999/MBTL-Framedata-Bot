@@ -14,11 +14,19 @@ module.exports = new Command({
   async run(message, args, client) {
     console.log(`Initial Input Argument: ${args}`)
     let parsedArgs = inputParser(args);
+    console.log(`Output arguments: \n1st Output: ${parsedArgs[0]}\n2nd Output: ${parsedArgs[1]}`);
     let moveList;
 
-    if (parsedArgs[0]) {
+    if (parsedArgs[0] && parsedArgs[1]) {
       // console.log(parsedArgs)
       moveList = await searchData(parsedArgs[0], parsedArgs[1]);
+    } else if (parsedArgs[0]) {
+      // character name is found. Check through all the characters and search for 1 specific name. Then output the character.
+      console.log("Only Character Name Found")
+      return;
+    } else if (parsedArgs[1]) {
+      console.log("Only Move Name Found")
+      return;
     } else {
       // Will look through inputs and stuff in future patch
       console.log(`Cannot find ${message.content}`);
