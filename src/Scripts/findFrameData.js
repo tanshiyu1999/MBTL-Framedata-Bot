@@ -5,25 +5,28 @@ const dupNameDifferentiator = require("./dupNameDifferentiator.js")
 
 // searchMoves will do a absolute search first.
 const searchMoves = (moveObj, move) => {
-  move = move.replaceAll(/[\+\.]/g, "")
-  move = move.replaceAll(/B\/C/gi, "[BC]")
-  move = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+  // removed all the problematic regex, app should not crash
+  move = move.replaceAll(/[\+\.\*\(\)]/g, "")
+  move = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'); 
+  move = move.replaceAll(/B\/C/gi, "[BC]") // do not escape the []
   // Generating the Regex 
+  console.log(move)
   let regex = `^[\\.\\~]?[${move[0]}][ \\.\\~]?`;
   for (let i = 1; i < move.length; i++) {
     if (i == 1) {
-      regex = regex + "[ \\.\\~]?";
+      regex = regex + "[ \\.\\~]?"; // Do not escape this []
     }
     if (move[i] == ' ') {
       continue;
     }
     regex = regex + move.substring(i , i + 1) + "[ \\.\\~]?";
   }
+  console.log(regex)
 
   // Converts A B C into [AX] [BX] [CX] in order to match moves like Ciel's	236X~214X
   regex = regex.replaceAll(/A/gi,'[AX]').replaceAll(/B/gi,'[BX]').replaceAll(/C/gi,'[CX]');
-  
 
+  // regex = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
 
   // If move contains B/C, enables B || C to match with B/C
   if (moveObj['input'].includes("B/C")) {
