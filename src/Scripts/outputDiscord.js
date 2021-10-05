@@ -3,12 +3,18 @@ const FindFrameData = require("./findFrameData.js")
 const Discord = require("discord.js")
 const {makeFields, makeSelectableFields} = require("./makeFields.js")
 
+
+// This function is called from f.js
 const outputDiscord = (moveList, message) => {
   const output = new Discord.MessageEmbed();
 
+  // moveList should only have 1 object if outputDiscord method is called from Commands/f.js
   let moveObj = moveList[0];
 
+  // makeFields will create the fields to be inputted into addFields
   const {dataOutput, imageOutput} = makeFields(moveObj);
+
+  // Setting up the output for Discord, with the necessary data.
   output
     .setAuthor(
       moveObj['chara'],
@@ -23,6 +29,8 @@ const outputDiscord = (moveList, message) => {
   // console.log(imageOutput)
 
 
+  // This will check if there is a Hitbox image in the imageOutput  returned from makeFields function
+  // If yes, printHitbox becomes positive
   let printHitbox = false;
   imageOutput.forEach(imageObj => {
     if (imageObj.name == "hitboxes") {
@@ -32,6 +40,7 @@ const outputDiscord = (moveList, message) => {
     }
   })
 
+  // If printHitbox is true, it will print the hitbox, if not, it will print the no hitbox image.
   if (printHitbox) {
     for (let i = 0; i < imageOutput.length; i++) {
       if (imageOutput[i].name == "hitboxes") {
@@ -47,9 +56,12 @@ const outputDiscord = (moveList, message) => {
     }
   }
 
-
+  // This sends the message into the Discord channel itself.
   message.channel.send({embeds:[output]});
   
 }
 
 module.exports = outputDiscord;
+
+// This generates the discord bot output if only 1 moveObj is returned.
+

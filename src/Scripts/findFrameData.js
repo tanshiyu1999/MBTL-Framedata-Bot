@@ -25,7 +25,7 @@ const searchMoves = (moveObj, move) => {
   
 
 
-  // If move contains B/C, match with 
+  // If move contains B/C, enables B || C to match with B/C
   if (moveObj['input'].includes("B/C")) {
     regex = regex + "$";
     let moveRegex = new RegExp(regex, 'i');
@@ -35,7 +35,6 @@ const searchMoves = (moveObj, move) => {
       return moveObj;
     }
   }
-
   // If move contains A/C, match with 
   if (moveObj['input'].includes("A/C")) {
     regex = regex + "$";
@@ -46,7 +45,6 @@ const searchMoves = (moveObj, move) => {
       return moveObj;
     }
   }
-
   // If move contains A/B, match with 
   if (moveObj['input'].includes("A/B")) {
     regex = regex + "$";
