@@ -35,6 +35,6 @@ I also want to thank Tarkus Lee and SageVarq from the Mizuumi Re-ACT Discord ser
 
 Finally, I would like to thank movildima on discord who have answered my queries with regards to access to mediawiki's API, and some tips on querying the API.
 
-This project would not be possible without you and I am grateful!
+This project would not be possible without you, thank you.
 
 
