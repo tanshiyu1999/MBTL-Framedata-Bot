@@ -12,15 +12,15 @@ const searchMoves = (moveObj, move) => {
   // Generating the Regex 
   let regex = `^[\\.\\~]?[${move[0]}][ \\.\\~]?`;
   for (let i = 1; i < move.length; i++) {
-    if (i == 1) {
-      regex = regex + "[ \\.\\~]?"; // Do not escape this []
+    if (i == 0) {
+      continue;
     }
-    if (move[i] == ' ') {
+    if (move[i] == ' ' || move[i] == '\\') {
       continue;
     }
     regex = regex + move.substring(i , i + 1) + "[ \\.\\~]?";
+    
   }
-
   // Converts A B C into [AX] [BX] [CX] in order to match moves like Ciel's	236X~214X
   regex = regex.replaceAll(/A/gi,'[AX]').replaceAll(/B/gi,'[BX]').replaceAll(/C/gi,'[CX]');
 

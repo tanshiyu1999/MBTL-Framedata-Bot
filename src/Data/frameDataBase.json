@@ -1188,7 +1188,9 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/6/69/MBTL_Akiha_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
       ""
@@ -1795,8 +1797,12 @@
     "chara": "Arcueid Brunestud",
     "input": "2A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/6/6c/MBTL_Arcueid_2A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/6/68/MBTL_Arcueid_2A_hb.png"
+    ],
     "damage": 150,
     "guard": [
       "L"
@@ -1827,8 +1833,12 @@
     "chara": "Arcueid Brunestud",
     "input": "2B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c5/MBTL_Arcueid_2B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/72/MBTL_Arcueid_2B_hb.png"
+    ],
     "damage": 420,
     "guard": [
       "L"
@@ -1891,8 +1901,12 @@
     "chara": "Arcueid Brunestud",
     "input": "2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a3/MBTL_Arcueid_2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/ef/MBTL_Arcueid_2C_hb.png"
+    ],
     "damage": 620,
     "guard": [
       "L"
@@ -1955,8 +1969,12 @@
     "chara": "Arcueid Brunestud",
     "input": "3C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/b0/MBTL_Arcueid_3C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a4/MBTL_Arcueid_3C_hb.png"
+    ],
     "damage": 700,
     "guard": [
       ""
@@ -2083,8 +2101,12 @@
     "chara": "Arcueid Brunestud",
     "input": "4C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c5/MBTL_Arcueid_4C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/3/36/MBTL_Arcueid_4C_hb.png"
+    ],
     "damage": "500*2 (950)",
     "guard": [
       "LH"
@@ -2138,7 +2160,7 @@
     "recovery": 24,
     "overall": 56,
     "frameAdv": -11,
-    "invul": "",
+    "invul": "Clash 16-28",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Arcueid_Brunestud#5[B]"
@@ -2170,7 +2192,7 @@
     "recovery": 29,
     "overall": 69,
     "frameAdv": "",
-    "invul": "",
+    "invul": "Clash 20-36",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Arcueid_Brunestud#5[C]"
@@ -2179,8 +2201,12 @@
     "chara": "Arcueid Brunestud",
     "input": "5A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d7/MBTL_Arcueid_5A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/22/MBTL_Arcueid_5A_hb.png"
+    ],
     "damage": 180,
     "guard": [
       "LH"
@@ -2211,8 +2237,12 @@
     "chara": "Arcueid Brunestud",
     "input": "5B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a9/MBTL_Arcueid_5B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a1/MBTL_Arcueid_5B_hb.png"
+    ],
     "damage": 480,
     "guard": [
       "LH"
@@ -2243,8 +2273,12 @@
     "chara": "Arcueid Brunestud",
     "input": "5C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/ef/MBTL_Arcueid_5C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/6/6e/MBTL_Arcueid_5C_hb.png"
+    ],
     "damage": 610,
     "guard": [
       "LH"
@@ -2627,8 +2661,12 @@
     "chara": "Arcueid Brunestud",
     "input": "j2B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/93/MBTL_Arcueid_j2B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/d/db/MBTL_Arcueid_j2B_hb.png"
+    ],
     "damage": 600,
     "guard": [
       "LHA"
@@ -2691,8 +2729,12 @@
     "chara": "Arcueid Brunestud",
     "input": "j2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a0/MBTL_Arcueid_j2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/1/18/MBTL_Arcueid_j2C_hb.png"
+    ],
     "damage": "400*2 (764)",
     "guard": [
       "LHA"
@@ -2755,8 +2797,12 @@
     "chara": "Arcueid Brunestud",
     "input": "jA",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/b2/MBTL_Arcueid_jA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/c/ce/MBTL_Arcueid_jA_hb.png"
+    ],
     "damage": 140,
     "guard": [
       ""
@@ -2787,8 +2833,12 @@
     "chara": "Arcueid Brunestud",
     "input": "jB",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/8/80/MBTL_Arcueid_jB.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/0/05/MBTL_Arcueid_jB_hb.png"
+    ],
     "damage": "240*2 (468)",
     "guard": [
       ""
@@ -2819,8 +2869,12 @@
     "chara": "Arcueid Brunestud",
     "input": "jC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/b2/MBTL_Arcueid_jC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/c/c4/MBTL_Arcueid_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
       ""
@@ -2851,8 +2905,12 @@
     "chara": "Arcueid Brunestud",
     "input": "rapid 2",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/ea/MBTL_Arcueid_rapid2.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/d/d3/MBTL_Arcueid_rapid2_hb.png"
+    ],
     "damage": 400,
     "guard": [
       ""
@@ -2883,8 +2941,12 @@
     "chara": "Arcueid Brunestud",
     "input": "rapid 3",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d2/MBTL_Arcueid_rapid3.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/0/02/MBTL_Arcueid_rapid3_hb.png"
+    ],
     "damage": 700,
     "guard": [
       ""
@@ -2947,8 +3009,12 @@
     "chara": "Ciel",
     "input": "214A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/ed/MBTL_Ciel_214A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/1/1e/MBTL_Ciel_214A_hb.png"
+    ],
     "damage": 1000,
     "guard": [
       "LH"
@@ -2979,8 +3045,12 @@
     "chara": "Ciel",
     "input": "214B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/6/60/MBTL_Ciel_214B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/95/MBTL_Ciel_214B_hb.png"
+    ],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3011,8 +3081,12 @@
     "chara": "Ciel",
     "input": "214B/C~A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a4/MBTL_Ciel_214BCA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/22/MBTL_Ciel_214BCA_hb.png"
+    ],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3043,8 +3117,12 @@
     "chara": "Ciel",
     "input": "214B/C~B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c4/MBTL_Ciel_214BCB.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a0/MBTL_Ciel_214BCB_hb.png"
+    ],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3075,8 +3153,12 @@
     "chara": "Ciel",
     "input": "214B/C~X~A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/45/MBTL_Ciel_214BCXA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/79/MBTL_Ciel_214BCXA_hb.png"
+    ],
     "damage": 700,
     "guard": [
       "LH"
@@ -3107,8 +3189,12 @@
     "chara": "Ciel",
     "input": "214B/C~X~B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/3/31/MBTL_Ciel_214BCXB.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/94/MBTL_Ciel_214BCXB_hb.png"
+    ],
     "damage": 1000,
     "guard": [
       "LH"
@@ -3139,8 +3225,12 @@
     "chara": "Ciel",
     "input": "214C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a0/MBTL_Ciel_214C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/74/MBTL_Ciel_214C_hb.png"
+    ],
     "damage": "280*12 (2077)",
     "guard": [
       "LH"
@@ -3171,8 +3261,12 @@
     "chara": "Ciel",
     "input": "22A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/2/26/MBTL_Ciel_22A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/5/59/MBTL_Ciel_22A_hb.png"
+    ],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -3203,7 +3297,9 @@
     "chara": "Ciel",
     "input": "22B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/1/1e/MBTL_Ciel_22B.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/d/db/MBTL_Ciel_22B_hb.png"
     ],
@@ -3237,7 +3333,9 @@
     "chara": "Ciel",
     "input": "22C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/1/1d/MBTL_Ciel_22C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/4/49/MBTL_Ciel_22C_hb.png"
     ],
@@ -3271,8 +3369,12 @@
     "chara": "Ciel",
     "input": "236A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/71/MBTL_Ciel_236A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/91/MBTL_Ciel_236A_hb.png"
+    ],
     "damage": "",
     "guard": [
       ""
@@ -3303,8 +3405,12 @@
     "chara": "Ciel",
     "input": "236B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/bf/MBTL_Ciel_236B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/d/d0/MBTL_Ciel_236B_hb.png"
+    ],
     "damage": "",
     "guard": [
       ""
@@ -3335,7 +3441,9 @@
     "chara": "Ciel",
     "input": "236BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/6/6f/MBTL_Ciel_236BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/d/df/MBTL_Ciel_236BC_hb.png"
     ],
@@ -3435,8 +3543,12 @@
     "chara": "Ciel",
     "input": "236X~A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c8/MBTL_Ciel_236XA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/9f/MBTL_Ciel_236XA_hb.png"
+    ],
     "damage": "",
     "guard": [
       ""
@@ -3467,8 +3579,12 @@
     "chara": "Ciel",
     "input": "236X~B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a8/MBTL_Ciel_236XB.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/7c/MBTL_Ciel_236XB_hb.png"
+    ],
     "damage": "640*2 (1196)",
     "guard": [
       "LH"
@@ -3499,8 +3615,12 @@
     "chara": "Ciel",
     "input": "236X~C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/75/MBTL_Ciel_236XC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/24/MBTL_Ciel_236XC_hb.png"
+    ],
     "damage": 1200,
     "guard": [
       "U"
@@ -3608,7 +3728,9 @@
     "chara": "Ciel",
     "input": "2BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/2/20/MBTL_Ciel_2BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/9/95/MBTL_Ciel_2BC_hb.png"
     ],
@@ -3681,7 +3803,9 @@
     "chara": "Ciel",
     "input": "3BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/6/6b/MBTL_Ciel_3BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/d/d2/MBTL_Ciel_3BC_hb.png"
     ],
@@ -3715,7 +3839,9 @@
     "chara": "Ciel",
     "input": "3C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/bb/MBTL_Ciel_3C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/0/0b/MBTL_Ciel_3C_hb.png"
     ],
@@ -3750,7 +3876,9 @@
     "chara": "Ciel",
     "input": "4/6AD",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/9d/MBTL_Ciel_throw.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/2/2e/MBTL_Ciel_throw_hb.png"
     ],
@@ -3964,7 +4092,9 @@
     "chara": "Ciel",
     "input": "5C~4C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a5/MBTL_Ciel_5C4C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/6/65/MBTL_Ciel_5C4C_hb.png"
     ],
@@ -4000,7 +4130,9 @@
     "chara": "Ciel",
     "input": "623A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/4b/MBTL_Ciel_623A.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/9/91/MBTL_Ciel_623A_hb.png"
     ],
@@ -4034,7 +4166,9 @@
     "chara": "Ciel",
     "input": "623B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/8/86/MBTL_Ciel_623B.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/4/4b/MBTL_Ciel_623B_hb.png"
     ],
@@ -4068,7 +4202,9 @@
     "chara": "Ciel",
     "input": "623C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/97/MBTL_Ciel_623C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/bc/MBTL_Ciel_623C_hb.png"
     ],
@@ -4102,8 +4238,12 @@
     "chara": "Ciel",
     "input": "6BC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/79/MBTL_Ciel_6BC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/5/58/MBTL_Ciel_6BC_hb.png"
+    ],
     "damage": "640*2 (1196)",
     "guard": [
       "H"
@@ -4134,7 +4274,9 @@
     "chara": "Ciel",
     "input": "6C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/f/fc/MBTL_Ciel_6C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/0/07/MBTL_Ciel_6C_hb.png"
     ],
@@ -4205,8 +4347,12 @@
     "chara": "Ciel",
     "input": "j214A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/ae/MBTL_Ciel_j214A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/ee/MBTL_Ciel_j214A_hb.png"
+    ],
     "damage": 800,
     "guard": [
       "LH"
@@ -4237,8 +4383,12 @@
     "chara": "Ciel",
     "input": "j214B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/91/MBTL_Ciel_j214B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/70/MBTL_Ciel_j214B_hb.png"
+    ],
     "damage": 800,
     "guard": [
       "LH"
@@ -4269,8 +4419,12 @@
     "chara": "Ciel",
     "input": "j214B/C~X",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/7c/MBTL_Ciel_j214BCX.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/21/MBTL_Ciel_j214BCX_hb.png"
+    ],
     "damage": "500*2 (946~1045)",
     "guard": [
       "LH"
@@ -4301,8 +4455,12 @@
     "chara": "Ciel",
     "input": "j214B/C~X~X",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c1/MBTL_Ciel_j214BCXX.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/78/MBTL_Ciel_j214BCXX_hb.png"
+    ],
     "damage": "500*3 (1365)",
     "guard": [
       "LH"
@@ -4333,8 +4491,12 @@
     "chara": "Ciel",
     "input": "j214C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/1/1e/MBTL_Ciel_j214C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/91/MBTL_Ciel_j214C_hb.png"
+    ],
     "damage": "300*9 (1854)",
     "guard": [
       "LH"
@@ -4469,7 +4631,9 @@
     "chara": "Ciel",
     "input": "j236A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/98/MBTL_Ciel_j236A.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/0/04/MBTL_Ciel_j236A_hb.png"
     ],
@@ -4503,7 +4667,9 @@
     "chara": "Ciel",
     "input": "j236B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/0c/MBTL_Ciel_j236B.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/e/ed/MBTL_Ciel_j236B_hb.png"
     ],
@@ -4537,7 +4703,9 @@
     "chara": "Ciel",
     "input": "j236C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/e4/MBTL_Ciel_j236C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/f/f5/MBTL_Ciel_j236C_hb.png"
     ],
@@ -4604,7 +4772,9 @@
     "chara": "Ciel",
     "input": "j4/6AD",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/f/f8/MBTL_Ciel_airthrow.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/0/08/MBTL_Ciel_airthrow_hb.png"
     ],
@@ -4819,7 +4989,9 @@
     "chara": "Ciel",
     "input": "rapid 2",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d3/MBTL_Ciel_rapid2.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/3/35/MBTL_Ciel_rapid2_hb.png"
     ],
@@ -4854,7 +5026,9 @@
     "chara": "Ciel",
     "input": "rapid 3",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/ef/MBTL_Ciel_rapid3.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/3/3e/MBTL_Ciel_rapid3_hb.png"
     ],
@@ -5147,7 +5321,7 @@
     "name": "",
     "images": [],
     "hitboxes": [],
-    "damage": "220*6 (1186)",
+    "damage": "150*9 (1186)",
     "guard": [
       ""
     ],
@@ -6298,7 +6472,9 @@
     "input": "jC",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/ac/MBTL_Hisui_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
       ""
@@ -6393,7 +6569,9 @@
     "chara": "Maids",
     "input": "22D",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/dc/MBTL_Maids_22D.png"
+    ],
     "hitboxes": [],
     "damage": "",
     "guard": [
@@ -9177,7 +9355,9 @@
     "chara": "Kohaku",
     "input": "214A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/2/2f/MBTL_Kohaku_214A.png"
+    ],
     "hitboxes": [],
     "damage": "",
     "guard": [
@@ -9273,7 +9453,9 @@
     "chara": "Kohaku",
     "input": "214X~X",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a0/MBTL_Kohaku_214XX.png"
+    ],
     "hitboxes": [],
     "damage": "460, 630 (951)",
     "guard": [
@@ -9569,7 +9751,9 @@
     "chara": "Kohaku",
     "input": "236BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/0f/MBTL_Kohaku_236BC.png"
+    ],
     "hitboxes": [],
     "damage": 3500,
     "guard": [
@@ -9862,8 +10046,12 @@
     "chara": "Kohaku",
     "input": "3C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/5f/MBTL_Kohaku_3C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/7a/MBTL_Kohaku_3C_hb.png"
+    ],
     "damage": 700,
     "guard": [
       "LH"
@@ -9899,7 +10087,9 @@
     "images": [
       "https://wiki.gbl.gg/images/8/8d/MBTL_Kohaku_throw.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/8/8d/MBTL_Kohaku_throw_hb.png"
+    ],
     "damage": 1500,
     "guard": [
       "U"
@@ -9930,7 +10120,9 @@
     "chara": "Kohaku",
     "input": "4BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/a0/MBTL_Kohaku_214XX.png"
+    ],
     "hitboxes": [],
     "damage": "[400, 570] * 2 (1431)",
     "guard": [
@@ -10222,7 +10414,9 @@
     "chara": "Kohaku",
     "input": "j214A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/2/2f/MBTL_Kohaku_214A.png"
+    ],
     "hitboxes": [],
     "damage": "460, 630 (951)",
     "guard": [
@@ -10254,7 +10448,9 @@
     "chara": "Kohaku",
     "input": "j214B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d8/MBTL_Kohaku_j214B.png"
+    ],
     "hitboxes": [],
     "damage": "460, 630 (951)",
     "guard": [
@@ -10321,7 +10517,9 @@
     "images": [
       "https://wiki.gbl.gg/images/0/0f/MBTL_Kohaku_airthrow.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/f/fb/MBTL_Kohaku_airthrow_hb.png"
+    ],
     "damage": 1200,
     "guard": [
       "U"
@@ -10384,8 +10582,12 @@
     "chara": "Kohaku",
     "input": "jA",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/75/MBTL_Kohaku_jA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/2c/MBTL_Kohaku_jA_hb.png"
+    ],
     "damage": 130,
     "guard": [
       "HA"
@@ -10421,8 +10623,12 @@
     "chara": "Kohaku",
     "input": "jB",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cd/MBTL_Kohaku_jB.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/3/3e/MBTL_Kohaku_jB_hb.png"
+    ],
     "damage": 400,
     "guard": [
       "HA"
@@ -10458,8 +10664,12 @@
     "chara": "Kohaku",
     "input": "jC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/5b/MBTL_Kohaku_jC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/7d/MBTL_Kohaku_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
       "HA"
@@ -10495,8 +10705,12 @@
     "chara": "Kohaku",
     "input": "rapid 2",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/8/8e/MBTL_Kohaku_rapid2.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/91/MBTL_Kohaku_rapid2_hb.png"
+    ],
     "damage": 400,
     "guard": [
       "LH"
@@ -10590,8 +10804,8 @@
       ""
     ],
     "startup": 24,
-    "active": 4,
-    "recovery": 23,
+    "active": 5,
+    "recovery": 22,
     "overall": 50,
     "frameAdv": -10,
     "invul": "Super Armor",
@@ -10785,10 +10999,11 @@
     ],
     "damage": 1200,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
-      ""
+      "EX",
+      " MD"
     ],
     "property": [
       ""
@@ -10800,11 +11015,11 @@
       ""
     ],
     "startup": 10,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 4,
+    "recovery": 24,
+    "overall": 37,
     "frameAdv": 1,
-    "invul": "",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#22A"
@@ -10821,10 +11036,11 @@
     ],
     "damage": 1200,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
-      ""
+      "EX",
+      " MD"
     ],
     "property": [
       ""
@@ -10836,11 +11052,11 @@
       ""
     ],
     "startup": 10,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 4,
+    "recovery": 42,
+    "overall": 55,
     "frameAdv": -3,
-    "invul": "",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#22B"
@@ -10857,7 +11073,7 @@
     ],
     "damage": "920*3 (2308)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -10872,11 +11088,11 @@
       ""
     ],
     "startup": "",
-    "active": "",
+    "active": 8,
     "recovery": "",
-    "overall": "",
+    "overall": 56,
     "frameAdv": -3,
-    "invul": "",
+    "invul": "15 All",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#22C"
@@ -11307,9 +11523,9 @@
       ""
     ],
     "startup": 10,
-    "active": 5,
-    "recovery": 22,
-    "overall": 33,
+    "active": 4,
+    "recovery": 23,
+    "overall": 36,
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -11380,7 +11596,7 @@
     "active": 3,
     "recovery": 24,
     "overall": 38,
-    "frameAdv": -12,
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -11434,7 +11650,7 @@
     ],
     "damage": 1400,
     "guard": [
-      ""
+      "U"
     ],
     "cancel": [
       ""
@@ -11448,12 +11664,12 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 23,
+    "active": 13,
+    "recovery": 21,
+    "overall": 56,
     "frameAdv": "-",
-    "invul": "",
+    "invul": "18-36 Throw",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#4BC"
@@ -11485,9 +11701,9 @@
       ""
     ],
     "startup": 28,
-    "active": 8,
-    "recovery": 22,
-    "overall": 57,
+    "active": 4,
+    "recovery": 27,
+    "overall": 58,
     "frameAdv": "N/A",
     "invul": "Super Armor",
     "minDamage": "",
@@ -11602,8 +11818,8 @@
       ""
     ],
     "startup": 9,
-    "active": 4,
-    "recovery": 26,
+    "active": 8,
+    "recovery": 22,
     "overall": 38,
     "frameAdv": -13,
     "invul": "",
@@ -11870,10 +12086,11 @@
     ],
     "damage": "690*2 (1283)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
-      ""
+      "EX",
+      " MD"
     ],
     "property": [
       ""
@@ -11885,9 +12102,9 @@
       ""
     ],
     "startup": 7,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 5,
+    "recovery": 28,
+    "overall": 39,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -11904,7 +12121,7 @@
     ],
     "damage": "710*2 (1313)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -11919,9 +12136,9 @@
       ""
     ],
     "startup": 8,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "active": 5,
+    "recovery": 28,
+    "overall": 40,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -11940,7 +12157,7 @@
     ],
     "damage": "640*7 (2132)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -11954,10 +12171,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
+    "startup": 7,
+    "active": "2(2)16",
     "recovery": "",
-    "overall": "",
+    "overall": 41,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -12153,9 +12370,7 @@
     "images": [
       "https://wiki.gbl.gg/images/1/12/MBTL_Kouma_jC.png"
     ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/0a/MBTL_Kouma_jC_Hitbox.png"
-    ],
+    "hitboxes": [],
     "damage": 650,
     "guard": [
       "HA"
@@ -12177,8 +12392,8 @@
     ],
     "startup": 11,
     "active": 6,
-    "recovery": 21,
-    "overall": 36,
+    "recovery": 22,
+    "overall": 38,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -12247,10 +12462,10 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 12,
+    "active": 3,
+    "recovery": 24,
+    "overall": 38,
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -12715,7 +12930,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "2C~2C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/55/MBTL_Roa_2C2C.png"
+    ],
     "hitboxes": [],
     "damage": 740,
     "guard": [
@@ -13362,7 +13579,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "jA",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d6/MBTL_Roa_jA.png"
+    ],
     "hitboxes": [],
     "damage": 140,
     "guard": [
@@ -13394,7 +13613,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "jB",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d5/MBTL_Roa_jB.png"
+    ],
     "hitboxes": [],
     "damage": 400,
     "guard": [
@@ -13426,7 +13647,9 @@
     "chara": "Michael Roa Valdamjong",
     "input": "jC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/1/10/MBTL_Roa_jC.png"
+    ],
     "hitboxes": [],
     "damage": 560,
     "guard": [
@@ -13586,7 +13809,9 @@
     "chara": "Miyako Arima",
     "input": "214A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c8/MBTL_Miyako_214A.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/1/16/MBTL_Miyako_214A_hb.png"
     ],
@@ -13620,7 +13845,9 @@
     "chara": "Miyako Arima",
     "input": "214B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c8/MBTL_Miyako_214A.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/1/16/MBTL_Miyako_214A_hb.png"
     ],
@@ -13654,7 +13881,9 @@
     "chara": "Miyako Arima",
     "input": "214C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/0b/MBTL_Miyako_214C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/5/57/MBTL_Miyako_214C_hb.png"
     ],
@@ -13904,7 +14133,9 @@
     "chara": "Miyako Arima",
     "input": "236BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/05/MBTL_Miyako_236BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/9/94/MBTL_Miyako_236BC_hb.png"
     ],
@@ -14262,7 +14493,9 @@
     "chara": "Miyako Arima",
     "input": "3BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/07/MBTL_Miyako_3BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/2/2b/MBTL_Miyako_3BC_hb.png"
     ],
@@ -14368,7 +14601,9 @@
     "chara": "Miyako Arima",
     "input": "4BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/43/MBTL_Miyako_4BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/7/7c/MBTL_Miyako_4BC_hb.png"
     ],
@@ -14510,7 +14745,9 @@
     "chara": "Miyako Arima",
     "input": "623A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/2/28/MBTL_Miyako_623A.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/c/cc/MBTL_Miyako_623A_hb.png"
     ],
@@ -14544,7 +14781,9 @@
     "chara": "Miyako Arima",
     "input": "623B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/dc/MBTL_Miyako_623B.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/e/ee/MBTL_Miyako_623B_hb.png"
     ],
@@ -14578,7 +14817,9 @@
     "chara": "Miyako Arima",
     "input": "623C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/03/MBTL_Miyako_623C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/0/08/MBTL_Miyako_623C_hb.png"
     ],
@@ -14822,7 +15063,9 @@
     "chara": "Miyako Arima",
     "input": "j236A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cf/MBTL_Miyako_j236X.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/bd/MBTL_Miyako_j236X_hb.png"
     ],
@@ -14856,7 +15099,9 @@
     "chara": "Miyako Arima",
     "input": "j236B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cf/MBTL_Miyako_j236X.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/bd/MBTL_Miyako_j236X_hb.png"
     ],
@@ -14890,7 +15135,9 @@
     "chara": "Miyako Arima",
     "input": "j236C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cf/MBTL_Miyako_j236X.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/bd/MBTL_Miyako_j236X_hb.png"
     ],
@@ -14996,7 +15243,9 @@
     "chara": "Miyako Arima",
     "input": "j6BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/4e/MBTL_Miyako_j6BC.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/1/15/MBTL_Miyako_j6BC_hb.png"
     ],
@@ -15210,7 +15459,9 @@
     "chara": "Noel",
     "input": "214A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/7c/MBTL_Noel_214A.png"
+    ],
     "hitboxes": [],
     "damage": "640, 556 (1196)",
     "guard": [
@@ -15801,7 +16052,9 @@
     "chara": "Noel",
     "input": "3BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/56/MBTL_Noel_3BC.png"
+    ],
     "hitboxes": [],
     "damage": "350+1200 (1394)",
     "guard": [
@@ -15834,7 +16087,9 @@
     "chara": "Noel",
     "input": "3C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/4f/MBTL_Noel_3C.png"
+    ],
     "hitboxes": [],
     "damage": 700,
     "guard": [
@@ -15900,7 +16155,9 @@
     "chara": "Noel",
     "input": "4BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/92/MBTL_Noel_4BC.png"
+    ],
     "hitboxes": [],
     "damage": "500*3 (1355)",
     "guard": [
@@ -16034,7 +16291,9 @@
     "chara": "Noel",
     "input": "623A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/f/fd/MBTL_Noel_623A.png"
+    ],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -16066,7 +16325,9 @@
     "chara": "Noel",
     "input": "623B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/2/27/MBTL_Noel_623B.png"
+    ],
     "hitboxes": [],
     "damage": 1100,
     "guard": [
@@ -16099,7 +16360,9 @@
     "chara": "Noel",
     "input": "623C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/08/MBTL_Noel_623C.png"
+    ],
     "hitboxes": [],
     "damage": "700*4 (2324)",
     "guard": [
@@ -18387,10 +18650,10 @@
     "chara": "Saber",
     "input": "2A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/4/44/MBTL_Saber_2A.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/e2/MBTL_Saber_2A_hb.png"
     ],
-    "hitboxes": [],
     "damage": 180,
     "guard": [
       "L"
@@ -18421,10 +18684,10 @@
     "chara": "Saber",
     "input": "2B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/6/62/MBTL_Saber_2B.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/0/07/MBTL_Saber_2B_hb.png"
     ],
-    "hitboxes": [],
     "damage": 420,
     "guard": [
       "HL"
@@ -18455,10 +18718,10 @@
     "chara": "Saber",
     "input": "2C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/96/MBTL_Saber_2C.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/73/MBTL_Saber_2C_hb.png"
     ],
-    "hitboxes": [],
     "damage": 620,
     "guard": [
       "L"
@@ -18555,10 +18818,10 @@
     "chara": "Saber",
     "input": "4/6AD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/b/b2/MBTL_Saber_throw.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/3/3b/MBTL_Saber_throw_hb.png"
     ],
-    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -18655,10 +18918,10 @@
     "chara": "Saber",
     "input": "5A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/23/MBTL_Saber_5A.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/b5/MBTL_Saber_5A_hb.png"
     ],
-    "hitboxes": [],
     "damage": 160,
     "guard": [
       "HL"
@@ -18692,10 +18955,10 @@
     "chara": "Saber",
     "input": "5B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_5B.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/8/86/MBTL_Saber_5B_hb.png"
     ],
-    "hitboxes": [],
     "damage": 480,
     "guard": [
       "HL"
@@ -18728,10 +18991,10 @@
     "chara": "Saber",
     "input": "5C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/c5/MBTL_Saber_5C.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/b0/MBTL_Saber_5C_hb.png"
     ],
-    "hitboxes": [],
     "damage": 610,
     "guard": [
       "HL"
@@ -18894,10 +19157,10 @@
     "chara": "Saber",
     "input": "6C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/8/85/MBTL_Saber_6C.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/ba/MBTL_Saber_6C_hb.png"
     ],
-    "hitboxes": [],
     "damage": 700,
     "guard": [
       "HL"
@@ -18929,10 +19192,10 @@
     "chara": "Saber",
     "input": "ABCD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/e/e5/MBTL_Saber_ABCD.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/21/MBTL_Saber_ABCD_hb.png"
     ],
-    "hitboxes": [],
     "damage": "4800 [4800~6960 in BH]",
     "guard": [
       "LH"
@@ -18963,10 +19226,10 @@
     "chara": "Saber",
     "input": "j.4/6AD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/a/aa/MBTL_Saber_airthrow.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/c/cb/MBTL_Saber_airthrow_hb.png"
     ],
-    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -19031,10 +19294,10 @@
     "chara": "Saber",
     "input": "j236A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_j236A.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/c/cb/MBTL_Saber_j236A_hb.png"
     ],
-    "hitboxes": [],
     "damage": "340, 470*2 (1153)",
     "guard": [
       "HLA"
@@ -19065,10 +19328,10 @@
     "chara": "Saber",
     "input": "j236B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/a/af/MBTL_Saber_j236B.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/bf/MBTL_Saber_j236B_hb.png"
     ],
-    "hitboxes": [],
     "damage": "340*4 (1216)",
     "guard": [
       "HLA"
@@ -19099,10 +19362,10 @@
     "chara": "Saber",
     "input": "j236C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/c6/MBTL_Saber_j236C.png"
+    "images": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/1/12/MBTL_Saber_j236C_hb.png"
     ],
-    "hitboxes": [],
     "damage": "600, 500*5 (2590)",
     "guard": [
       "HLA"
@@ -19166,7 +19429,9 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a1/MBTL_Saber_jA_hb.png"
+    ],
     "damage": 140,
     "guard": [
       "HA"
@@ -19201,7 +19466,9 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/8/82/MBTL_Saber_jB_hb.png"
+    ],
     "damage": 400,
     "guard": [
       "HA"
@@ -19578,7 +19845,7 @@
       ""
     ],
     "cost": [
-      ""
+      "3 Magic Circuit"
     ],
     "attribute": [
       ""
@@ -19676,7 +19943,7 @@
       ""
     ],
     "cost": [
-      ""
+      "3 Magic Circuit"
     ],
     "attribute": [
       ""
@@ -19727,8 +19994,12 @@
     "chara": "Shiki Tohno",
     "input": "2A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/3/33/MBTL_Tohno_2A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/b9/MBTL_Tohno_2A_hb.png"
+    ],
     "damage": 150,
     "guard": [
       "L"
@@ -19817,7 +20088,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -19836,8 +20107,12 @@
     "chara": "Shiki Tohno",
     "input": "2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c3/MBTL_Tohno_2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/2/20/MBTL_Tohno_2C_hb.png"
+    ],
     "damage": 620,
     "guard": [
       "L"
@@ -19888,7 +20163,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20021,7 +20296,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20072,8 +20347,12 @@
     "chara": "Shiki Tohno",
     "input": "5A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d8/MBTL_Tohno_5A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/b4/MBTL_Tohno_5A_hb.png"
+    ],
     "damage": 180,
     "guard": [
       "LH"
@@ -20110,8 +20389,12 @@
     "chara": "Shiki Tohno",
     "input": "5B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/98/MBTL_Tohno_5b.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/f/f4/MBTL_Tohno_5b_hb.png"
+    ],
     "damage": 480,
     "guard": [
       "LH"
@@ -20147,8 +20430,12 @@
     "chara": "Shiki Tohno",
     "input": "5C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/9e/MBTL_Tohno_5c.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/91/MBTL_Tohno_5c_hb.png"
+    ],
     "damage": 680,
     "guard": [
       "LH"
@@ -20296,7 +20583,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20328,7 +20615,7 @@
       ""
     ],
     "cost": [
-      ""
+      "4 Magic Circuit"
     ],
     "attribute": [
       ""
@@ -20529,7 +20816,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20548,8 +20835,12 @@
     "chara": "Shiki Tohno",
     "input": "jA",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/8/89/MBTL_Tohno_jA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/8/84/MBTL_Tohno_jA_hb.png"
+    ],
     "damage": 140,
     "guard": [
       "H"
@@ -20622,8 +20913,12 @@
     "chara": "Shiki Tohno",
     "input": "jC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/1/1d/MBTL_Tohno_jC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/4/49/MBTL_Tohno_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
       "H"
@@ -21167,7 +21462,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": 0,
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -21199,7 +21494,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -6,
+    "frameAdv": 0,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -21857,8 +22152,12 @@
     "chara": "Vlov Arkhangel",
     "input": "2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/55/MBTL_Vlov_2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/3/31/MBTL_Vlov_2C_hb.png"
+    ],
     "damage": 680,
     "guard": [
       "L"
