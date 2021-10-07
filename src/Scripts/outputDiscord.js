@@ -44,7 +44,7 @@ const outputDiscord = (moveList, message) => {
   if (printHitbox) {
     for (let i = 0; i < imageOutput.length; i++) {
       if (imageOutput[i].name == "hitboxes") {
-        console.log(imageOutput[i].value)
+        // console.log(imageOutput[i].value)
         output.setThumbnail(imageOutput[i].value)
       }
     }
