@@ -4,7 +4,7 @@ const charNameShorthandParser = (args) => {
     args.shift();
     args.unshift("Arcueid Brunestud")
     return args;
-  } else if (args[0].match("^rarc$") || args[0].match("^redarc$")) {
+  } else if (args[0].match(/^rarc$/i) || args[0].match(/^redarc$/i)) {
     args.shift();
     args.unshift("Red Arcueid")
     return args;
