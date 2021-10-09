@@ -1,6 +1,6 @@
-const frameDataBase = require("../Data/frameDataBase.json")
 
 const dupNameDifferentiator = (name, characterData) => {
+  const frameDataBase = require("../Data/frameDataBase.json")
   // \b at start of regex to ensure that we start searching fron the front of the word 
   let regex = "\\b"
   for (let i= 0; i < name.length; i++) {
@@ -23,20 +23,35 @@ const dupNameDifferentiator = (name, characterData) => {
     }
   });
 
+  // Will filter Dup names when matched with multiple things.
   if (matchedNames.length > 1) {
+    // Arc and Red Arc 
     if (matchedNames.includes('Arcueid Brunestud') && (matchedNames.includes('Red Arcueid'))) {
       console.log("Arcueid Brunestud & Red Arcueid Both Found, Removing Red Arcueid");
       matchedNames = matchedNames.filter(name => (name != "Red Arcueid"));
     }
-    // Kohaku & Hisui will be done when Mizuumi finishes with their database finalization
+    // Kohaku & Hisui and Hisui
+    if (matchedNames.includes('Hisui') && (matchedNames.includes('Hisui & Kohaku'))) {
+      console.log("Hisui & Hisui & Kohaku Both Found, Hisui & Kohaku");
+      matchedNames = matchedNames.filter(name => (name != "Hisui & Kohaku"));
+    }
+    // Kohaku & Hisui and Kohaku
+    if (matchedNames.includes('Kohaku') && (matchedNames.includes('Hisui & Kohaku'))) {
+      console.log("Kohaku & Hisui & Kohaku Both Found, Hisui & Kohaku");
+      matchedNames = matchedNames.filter(name => (name != "Hisui & Kohaku"));
+    }
+
   }
 
+  // for all the matchedName, create a list of regex like /^name$/i
   let searchNameList = matchedNames.map(name => {
     let regex = `^${name}$`
     let searchRealNameList = new RegExp(regex, 'i');
     return searchRealNameList
   })
 
+
+  
   let moveObjs = [];
   // To populate moveObjs, which contains Objects where the Object's 'chara' property matches with the searchName regex
   for (let i = 0; i < characterData.length; i++) {

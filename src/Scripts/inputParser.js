@@ -1,5 +1,4 @@
 const { arrayBuffer } = require("stream/consumers");
-const frameDataBase = require("../Data/frameDataBase.json")
 const charNameShorthandParser = require("./charNameShorthandParser.js")
 
 // Split name parser returns an array with the shortened name.
@@ -57,6 +56,7 @@ const regexNameFinder = (tempName, nameList) => {
 // Function is used in input parser
 // Will return an array with 2 elements [charactername, charactermove]
 const inputParser = (args) => {
+  const frameDataBase = require("../Data/frameDataBase.json")
   let outputArgs = [];
 
   // Create a temporary argument to be used as input for charNameShorthandParser

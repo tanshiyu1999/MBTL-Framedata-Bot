@@ -1977,7 +1977,7 @@
     ],
     "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -2805,7 +2805,7 @@
     ],
     "damage": 140,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -2819,7 +2819,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2841,7 +2841,7 @@
     ],
     "damage": "240*2 (468)",
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -2855,7 +2855,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2877,7 +2877,7 @@
     ],
     "damage": 560,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -2891,7 +2891,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 7,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2977,8 +2977,12 @@
     "chara": "Ciel",
     "input": "214[A]",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/b3/MBTL_Ciel_214A_be.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/8/8d/MBTL_Ciel_214A_be_hb.png"
+    ],
     "damage": "640, 467 (1107)",
     "guard": [
       "LH"
@@ -3477,7 +3481,9 @@
     "chara": "Ciel",
     "input": "236C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/8/8e/MBTL_Ciel_236C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/1/13/MBTL_Ciel_236C_hb.png"
     ],
@@ -3511,8 +3517,12 @@
     "chara": "Ciel",
     "input": "236X~214X",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/ce/MBTL_Ciel_236X214X.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/5/58/MBTL_Ciel_236X214X_hb.png"
+    ],
     "damage": "500*3 (1165~1285) [550*2 (946)]",
     "guard": [
       "LHA"
@@ -3912,8 +3922,12 @@
     "chara": "Ciel",
     "input": "4BC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cb/MBTL_Ciel_4BC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/d/db/MBTL_Ciel_4BC_hb.png"
+    ],
     "damage": "450*4 (1327)",
     "guard": [
       "LH"
@@ -4527,7 +4541,9 @@
     "chara": "Ciel",
     "input": "j22A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d8/MBTL_Ciel_j.22A.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/f/ff/MBTL_Ciel_j.22A_hb.png"
     ],
@@ -4562,7 +4578,9 @@
     "chara": "Ciel",
     "input": "j22B",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/53/MBTL_Ciel_j22B.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/a/a5/MBTL_Ciel_j22B_hb.png"
     ],
@@ -4597,7 +4615,9 @@
     "chara": "Ciel",
     "input": "j22C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/3/34/MBTL_Ciel_j22C.png"
+    ],
     "hitboxes": [
       "https://wiki.gbl.gg/images/a/a1/MBTL_Ciel_j22C_hb.png"
     ],
@@ -4740,7 +4760,9 @@
     "input": "j2BC",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/4/4d/MBTL_Ciel_j2BC_hb.png"
+    ],
     "damage": "640*2 (1196)",
     "guard": [
       "EX",
@@ -4808,9 +4830,13 @@
     "chara": "Ciel",
     "input": "j4BC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
-    "damage": 1315,
+    "images": [
+      "https://wiki.gbl.gg/images/c/c0/MBTL_Ciel_j4BC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a1/MBTL_Ciel_j4BC_hb.png"
+    ],
+    "damage": "(500*3) 1395",
     "guard": [
       "LH"
     ],
@@ -4840,7 +4866,9 @@
     "chara": "Ciel",
     "input": "j6BC",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/9/9f/MBTL_Ciel_j6BC.png"
+    ],
     "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
@@ -5067,7 +5095,7 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5081,11 +5109,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5099,7 +5127,7 @@
     "hitboxes": [],
     "damage": "700*2 (1309)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5113,11 +5141,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 19,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -3,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5131,7 +5159,7 @@
     "hitboxes": [],
     "damage": "500*5 (2155)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5149,7 +5177,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5163,7 +5191,7 @@
     "hitboxes": [],
     "damage": 1400,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5177,7 +5205,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 86,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -5195,7 +5223,7 @@
     "hitboxes": [],
     "damage": 1400,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5209,7 +5237,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 86,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -5227,7 +5255,7 @@
     "hitboxes": [],
     "damage": "600, 960*3 (1877)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5245,7 +5273,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -3,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5259,7 +5287,7 @@
     "hitboxes": [],
     "damage": "400*9, 700 (4300)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5291,7 +5319,7 @@
     "hitboxes": [],
     "damage": "220*6 (1186)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5305,11 +5333,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 8,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5323,7 +5351,7 @@
     "hitboxes": [],
     "damage": "150*9 (1186)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5337,11 +5365,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 15,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5355,7 +5383,7 @@
     "hitboxes": [],
     "damage": "700*5 (3500)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5387,7 +5415,7 @@
     "hitboxes": [],
     "damage": "160*9, 580 (1796)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5405,7 +5433,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5419,7 +5447,7 @@
     "hitboxes": [],
     "damage": 900,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5437,7 +5465,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5451,7 +5479,7 @@
     "hitboxes": [],
     "damage": 140,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -5465,11 +5493,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5483,7 +5511,7 @@
     "hitboxes": [],
     "damage": 420,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5497,11 +5525,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 7,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -3,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5515,7 +5543,7 @@
     "hitboxes": [],
     "damage": "400, 1400 (1800)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5529,11 +5557,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 14,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5547,7 +5575,7 @@
     "hitboxes": [],
     "damage": 590,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -5561,11 +5589,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -9,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5579,7 +5607,7 @@
     "hitboxes": [],
     "damage": 1100,
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5593,7 +5621,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 8,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -5611,7 +5639,7 @@
     "hitboxes": [],
     "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5625,11 +5653,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5707,7 +5735,7 @@
     "hitboxes": [],
     "damage": 100,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5721,11 +5749,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 13,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -5,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5739,7 +5767,7 @@
     "hitboxes": [],
     "damage": "600*3 (1572)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5753,11 +5781,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 0,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5771,7 +5799,7 @@
     "hitboxes": [],
     "damage": "430*3 (1186)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5785,11 +5813,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 24,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5803,7 +5831,7 @@
     "hitboxes": [],
     "damage": 160,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5817,11 +5845,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5835,7 +5863,7 @@
     "hitboxes": [],
     "damage": 420,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5849,11 +5877,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5867,7 +5895,7 @@
     "hitboxes": [],
     "damage": "420*2 (806)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -5881,11 +5909,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -8,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5899,7 +5927,7 @@
     "hitboxes": [],
     "damage": 800,
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5913,11 +5941,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 17,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5931,7 +5959,7 @@
     "hitboxes": [],
     "damage": 800,
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5945,7 +5973,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 8,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -5963,7 +5991,7 @@
     "hitboxes": [],
     "damage": "550*4 (1627)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -5981,7 +6009,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 25,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -5995,7 +6023,7 @@
     "hitboxes": [],
     "damage": "175*9 (1324)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6009,11 +6037,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -6027,7 +6055,7 @@
     "hitboxes": [],
     "damage": 440,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6041,11 +6069,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -6059,7 +6087,7 @@
     "hitboxes": [],
     "damage": "440 (774)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6077,7 +6105,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -6091,7 +6119,7 @@
     "hitboxes": [],
     "damage": "1200 (1590)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6109,7 +6137,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -6123,7 +6151,7 @@
     "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6155,7 +6183,7 @@
     "hitboxes": [],
     "damage": 900,
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -6169,7 +6197,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 21,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6187,7 +6215,7 @@
     "hitboxes": [],
     "damage": "200*7 (1232)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -6201,7 +6229,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6219,7 +6247,7 @@
     "hitboxes": [],
     "damage": "200*7 (1232)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -6233,7 +6261,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 18,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6251,7 +6279,7 @@
     "hitboxes": [],
     "damage": "350*7 (2092)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -6283,7 +6311,7 @@
     "hitboxes": [],
     "damage": 780,
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -6297,7 +6325,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6347,7 +6375,7 @@
     "hitboxes": [],
     "damage": "210*7 (1291)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -6361,7 +6389,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6379,7 +6407,7 @@
     "hitboxes": [],
     "damage": 130,
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -6393,7 +6421,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6411,7 +6439,7 @@
     "hitboxes": [],
     "damage": 380,
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -6425,7 +6453,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6443,7 +6471,7 @@
     "hitboxes": [],
     "damage": "480 (754)",
     "guard": [
-      ""
+      "LHA"
     ],
     "cancel": [
       ""
@@ -6477,7 +6505,7 @@
     ],
     "damage": 560,
     "guard": [
-      ""
+      "HA"
     ],
     "cancel": [
       ""
@@ -6491,7 +6519,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -6509,7 +6537,7 @@
     "hitboxes": [],
     "damage": 400,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6527,7 +6555,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -6541,7 +6569,7 @@
     "hitboxes": [],
     "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -6559,14 +6587,14 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui#rapid_3"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "22D",
     "name": "",
     "images": [
@@ -6597,10 +6625,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#22D"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#22D"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H214A",
     "name": "",
     "images": [],
@@ -6629,10 +6657,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H214A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H214A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H214B",
     "name": "",
     "images": [],
@@ -6661,10 +6689,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H214B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H214B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H214C",
     "name": "",
     "images": [],
@@ -6693,10 +6721,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H214C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H214C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H22A",
     "name": "",
     "images": [],
@@ -6725,10 +6753,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H22A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H22A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H22B",
     "name": "",
     "images": [],
@@ -6757,10 +6785,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H22B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H22B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H22C",
     "name": "",
     "images": [],
@@ -6789,10 +6817,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H22C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H22C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H236[BC]",
     "name": "",
     "images": [],
@@ -6821,10 +6849,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H236[BC]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H236[BC]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H236A",
     "name": "",
     "images": [],
@@ -6853,10 +6881,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H236A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H236A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H236B",
     "name": "",
     "images": [],
@@ -6885,10 +6913,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H236B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H236B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H236BC",
     "name": "",
     "images": [],
@@ -6917,10 +6945,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H236BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H236BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H236C",
     "name": "",
     "images": [],
@@ -6949,10 +6977,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H236C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H236C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H236X~X",
     "name": "",
     "images": [],
@@ -6981,10 +7009,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H236X~X"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H236X~X"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H2A",
     "name": "",
     "images": [],
@@ -7013,10 +7041,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H2A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H2A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H2B",
     "name": "",
     "images": [],
@@ -7045,10 +7073,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H2B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H2B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H2BC",
     "name": "",
     "images": [],
@@ -7077,10 +7105,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H2BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H2BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H2C",
     "name": "",
     "images": [],
@@ -7109,10 +7137,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H2C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H2C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H3BC",
     "name": "",
     "images": [],
@@ -7141,10 +7169,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H3BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H3BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H3C",
     "name": "",
     "images": [],
@@ -7173,10 +7201,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H3C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H3C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H4[B]",
     "name": "",
     "images": [],
@@ -7205,10 +7233,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H4[B]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H4[B]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H4/6AD",
     "name": "",
     "images": [],
@@ -7237,10 +7265,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H4/6AD"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H4/6AD"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H4B",
     "name": "",
     "images": [],
@@ -7269,10 +7297,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H4B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H4B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H4BC",
     "name": "",
     "images": [],
@@ -7301,10 +7329,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H4BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H4BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H5[C]",
     "name": "",
     "images": [],
@@ -7333,10 +7361,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H5[C]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H5[C]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H5A",
     "name": "",
     "images": [],
@@ -7365,10 +7393,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H5A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H5A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H5B",
     "name": "",
     "images": [],
@@ -7397,10 +7425,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H5B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H5B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H5C",
     "name": "",
     "images": [],
@@ -7429,10 +7457,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H5C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H5C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H623A",
     "name": "",
     "images": [],
@@ -7461,10 +7489,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H623A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H623A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H623B",
     "name": "",
     "images": [],
@@ -7493,10 +7521,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H623B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H623B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H623C",
     "name": "",
     "images": [],
@@ -7525,10 +7553,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H623C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H623C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H6BC",
     "name": "",
     "images": [],
@@ -7557,10 +7585,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H6BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H6BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H6C",
     "name": "",
     "images": [],
@@ -7589,10 +7617,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H6C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H6C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H6C~C",
     "name": "",
     "images": [],
@@ -7621,10 +7649,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H6C~C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H6C~C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "H6C~C~C",
     "name": "",
     "images": [],
@@ -7653,10 +7681,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#H6C~C~C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#H6C~C~C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "HABCD",
     "name": "",
     "images": [],
@@ -7685,10 +7713,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#HABCD"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#HABCD"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj[C]",
     "name": "",
     "images": [],
@@ -7717,10 +7745,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj[C]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj[C]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj236A",
     "name": "",
     "images": [],
@@ -7749,10 +7777,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj236A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj236A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj236B",
     "name": "",
     "images": [],
@@ -7781,10 +7809,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj236B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj236B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj236C",
     "name": "",
     "images": [],
@@ -7813,10 +7841,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj236C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj236C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj2C",
     "name": "",
     "images": [],
@@ -7845,10 +7873,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj2C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj2C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj4/6AD",
     "name": "",
     "images": [],
@@ -7877,10 +7905,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj4/6AD"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj4/6AD"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hj6BC",
     "name": "",
     "images": [],
@@ -7909,10 +7937,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hj6BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hj6BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "HjA",
     "name": "",
     "images": [],
@@ -7941,10 +7969,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#HjA"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#HjA"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "HjB",
     "name": "",
     "images": [],
@@ -7973,10 +8001,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#HjB"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#HjB"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "HjB~j2B",
     "name": "",
     "images": [],
@@ -8005,10 +8033,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#HjB~j2B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#HjB~j2B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "HjC",
     "name": "",
     "images": [],
@@ -8037,10 +8065,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#HjC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#HjC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hrapid 2",
     "name": "",
     "images": [],
@@ -8069,10 +8097,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hrapid_2"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hrapid_2"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Hrapid 3",
     "name": "",
     "images": [],
@@ -8101,10 +8129,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Hrapid_3"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Hrapid_3"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K214A",
     "name": "",
     "images": [],
@@ -8133,10 +8161,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K214A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K214A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K214B",
     "name": "",
     "images": [],
@@ -8165,10 +8193,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K214B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K214B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K214C",
     "name": "",
     "images": [],
@@ -8197,10 +8225,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K214C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K214C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K22A",
     "name": "",
     "images": [],
@@ -8229,10 +8257,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K22A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K22A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K22B",
     "name": "",
     "images": [],
@@ -8261,10 +8289,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K22B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K22B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K22C",
     "name": "",
     "images": [],
@@ -8293,10 +8321,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K22C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K22C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236[A]",
     "name": "",
     "images": [],
@@ -8325,10 +8353,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236[A]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236[A]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236[BC]",
     "name": "",
     "images": [],
@@ -8357,10 +8385,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236[BC]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236[BC]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236A",
     "name": "",
     "images": [],
@@ -8389,10 +8417,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236B",
     "name": "",
     "images": [],
@@ -8421,10 +8449,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236B",
     "name": "",
     "images": [],
@@ -8453,10 +8481,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236BC",
     "name": "",
     "images": [],
@@ -8485,10 +8513,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236C",
     "name": "",
     "images": [],
@@ -8517,10 +8545,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K236X~X",
     "name": "",
     "images": [],
@@ -8549,10 +8577,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K236X~X"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K236X~X"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K2A",
     "name": "",
     "images": [],
@@ -8581,10 +8609,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K2A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K2A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K2B",
     "name": "",
     "images": [],
@@ -8613,10 +8641,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K2B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K2B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K2BC",
     "name": "",
     "images": [],
@@ -8645,10 +8673,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K2BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K2BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K2C",
     "name": "",
     "images": [],
@@ -8677,10 +8705,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K2C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K2C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K2C~2C",
     "name": "",
     "images": [],
@@ -8709,10 +8737,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K2C~2C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K2C~2C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K3C",
     "name": "",
     "images": [],
@@ -8741,10 +8769,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K3C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K3C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K4/6AD",
     "name": "",
     "images": [],
@@ -8773,10 +8801,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K4/6AD"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K4/6AD"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K4BC",
     "name": "",
     "images": [],
@@ -8805,10 +8833,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K4BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K4BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K5A",
     "name": "",
     "images": [],
@@ -8837,10 +8865,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K5A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K5A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K5B",
     "name": "",
     "images": [],
@@ -8869,10 +8897,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K5B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K5B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K5C",
     "name": "",
     "images": [],
@@ -8901,10 +8929,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K5C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K5C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K6BC",
     "name": "",
     "images": [],
@@ -8933,10 +8961,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K6BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K6BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "K6C",
     "name": "",
     "images": [],
@@ -8965,10 +8993,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#K6C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#K6C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "KABCD",
     "name": "",
     "images": [],
@@ -8997,10 +9025,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#KABCD"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#KABCD"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Kj[C]",
     "name": "",
     "images": [],
@@ -9029,10 +9057,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Kj[C]"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Kj[C]"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Kj214A",
     "name": "",
     "images": [],
@@ -9061,10 +9089,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Kj214A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Kj214A"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Kj214B",
     "name": "",
     "images": [],
@@ -9093,10 +9121,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Kj214B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Kj214B"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Kj214C",
     "name": "",
     "images": [],
@@ -9125,10 +9153,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Kj214C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Kj214C"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Kj4/6AD",
     "name": "",
     "images": [],
@@ -9157,10 +9185,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Kj4/6AD"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Kj4/6AD"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Kj4BC",
     "name": "",
     "images": [],
@@ -9189,10 +9217,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Kj4BC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Kj4BC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "KjA",
     "name": "",
     "images": [],
@@ -9221,10 +9249,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#KjA"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#KjA"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "KjB",
     "name": "",
     "images": [],
@@ -9253,10 +9281,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#KjB"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#KjB"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "KjC",
     "name": "",
     "images": [],
@@ -9285,10 +9313,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#KjC"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#KjC"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Krapid 2",
     "name": "",
     "images": [],
@@ -9317,10 +9345,10 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Krapid_2"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Krapid_2"
   },
   {
-    "chara": "Maids",
+    "chara": "Hisui & Kohaku",
     "input": "Krapid 3",
     "name": "",
     "images": [],
@@ -9349,7 +9377,7 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Maids#Krapid_3"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui_&_Kohaku#Krapid_3"
   },
   {
     "chara": "Kohaku",
@@ -10895,7 +10923,7 @@
     ],
     "damage": 2300,
     "guard": [
-      ""
+      "U"
     ],
     "cancel": [
       ""
@@ -10909,12 +10937,12 @@
     "attribute": [
       ""
     ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": "2+3",
+    "active": 2,
+    "recovery": 32,
+    "overall": 38,
     "frameAdv": "-",
-    "invul": "",
+    "invul": "1-6 All",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#214C"
@@ -12831,7 +12859,9 @@
     "images": [
       "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_2A.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a2/MBTL_Roa_2A_hb.png"
+    ],
     "damage": 150,
     "guard": [
       "L"
@@ -12865,7 +12895,9 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d4/MBTL_Roa_2B.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/93/MBTL_Roa_2B_hb.png"
+    ],
     "damage": 420,
     "guard": [
       "L"
@@ -12899,7 +12931,9 @@
     "images": [
       "https://wiki.gbl.gg/images/5/5c/MBTL_Roa_2C.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/be/MBTL_Roa_2C_hb.png"
+    ],
     "damage": 620,
     "guard": [
       "L"
@@ -12933,7 +12967,9 @@
     "images": [
       "https://wiki.gbl.gg/images/5/55/MBTL_Roa_2C2C.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/c/c1/MBTL_Roa_2C2C_hb.png"
+    ],
     "damage": 740,
     "guard": [
       "LH"
@@ -12997,7 +13033,9 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/9c/MBTL_Roa_3C_hb.png"
+    ],
     "damage": 700,
     "guard": [
       ""
@@ -13095,7 +13133,9 @@
     "images": [
       "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_5A.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/8/85/MBTL_Roa_5A_hb.png"
+    ],
     "damage": 180,
     "guard": [
       "LH"
@@ -13129,7 +13169,9 @@
     "images": [
       "https://wiki.gbl.gg/images/e/ee/MBTL_Roa_5B.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/b9/MBTL_Roa_5B_hb.png"
+    ],
     "damage": 480,
     "guard": [
       "LH"
@@ -13163,7 +13205,9 @@
     "images": [
       "https://wiki.gbl.gg/images/c/ca/MBTL_Roa_5C.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/1/17/MBTL_Roa_5C_hb.png"
+    ],
     "damage": "420*2 (806)",
     "guard": [
       "LH",
@@ -13324,7 +13368,9 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/7e/MBTL_Roa_6C_hb.png"
+    ],
     "damage": "390*2 (744)",
     "guard": [
       "LHA"
@@ -13356,7 +13402,9 @@
     "input": "6C~C",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/5/5f/MBTL_Roa_6CC_hb.png"
+    ],
     "damage": 460,
     "guard": [
       "LA"
@@ -13582,7 +13630,9 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d6/MBTL_Roa_jA.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/bf/MBTL_Roa_jA_hb.png"
+    ],
     "damage": 140,
     "guard": [
       "HA"
@@ -13616,7 +13666,9 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d5/MBTL_Roa_jB.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/b/b3/MBTL_Roa_jB_hb.png"
+    ],
     "damage": 400,
     "guard": [
       "HA"
@@ -13650,7 +13702,9 @@
     "images": [
       "https://wiki.gbl.gg/images/1/10/MBTL_Roa_jC.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/e6/MBTL_Roa_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
       "HA"
@@ -13682,7 +13736,9 @@
     "input": "rapid2",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/1/19/MBTL_Roa_rapid2_hb.png"
+    ],
     "damage": "230*2 (414)",
     "guard": [
       ""
@@ -13714,7 +13770,9 @@
     "input": "rapid3",
     "name": "",
     "images": [],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/9c/MBTL_Roa_3C_hb.png"
+    ],
     "damage": 700,
     "guard": [
       ""
@@ -13763,11 +13821,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 28,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13795,11 +13853,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 36,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 0,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13831,11 +13889,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 20,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13867,11 +13925,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 28,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 0,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13907,7 +13965,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13975,11 +14033,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 16,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14011,11 +14069,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 27,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 9,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14051,7 +14109,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14083,11 +14141,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -8,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14119,11 +14177,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 23,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14195,7 +14253,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14231,7 +14289,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -8,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14267,7 +14325,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -14,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14303,7 +14361,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14339,7 +14397,7 @@
     "active": 2,
     "recovery": 11,
     "overall": 17,
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14375,7 +14433,7 @@
     "active": 5,
     "recovery": 16,
     "overall": 28,
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14407,11 +14465,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 13,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14447,7 +14505,7 @@
     "active": 5,
     "recovery": 18,
     "overall": 30,
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14483,7 +14541,7 @@
     "active": 2,
     "recovery": 19,
     "overall": 34,
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14515,7 +14573,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 8,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -14551,11 +14609,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -5,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14623,11 +14681,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 20,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 0,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14663,7 +14721,7 @@
     "active": 2,
     "recovery": 11,
     "overall": 17,
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14699,7 +14757,7 @@
     "active": 4,
     "recovery": 17,
     "overall": 27,
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14735,7 +14793,7 @@
     "active": 6,
     "recovery": 18,
     "overall": 32,
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14767,11 +14825,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -28,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14803,11 +14861,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 22,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -11,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14843,7 +14901,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -33,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14909,11 +14967,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15085,11 +15143,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15121,11 +15179,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 14,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -18,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15161,7 +15219,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -16,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15229,11 +15287,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 16,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15265,7 +15323,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 14,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -15413,7 +15471,7 @@
     "active": 3,
     "recovery": 23,
     "overall": 34,
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15449,7 +15507,7 @@
     "active": 3,
     "recovery": 19,
     "overall": 32,
-    "frameAdv": "",
+    "frameAdv": -5,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -16862,7 +16920,7 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -16876,11 +16934,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 13,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -16894,7 +16952,7 @@
     "hitboxes": [],
     "damage": "700, 650 (1174)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -16908,11 +16966,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 13,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -16926,7 +16984,7 @@
     "hitboxes": [],
     "damage": "950*3 (2089)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -16944,7 +17002,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -16958,7 +17016,7 @@
     "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -16972,11 +17030,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -16990,7 +17048,7 @@
     "hitboxes": [],
     "damage": "400*4 (1388)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17004,11 +17062,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 21,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -3,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17054,13 +17112,14 @@
     "hitboxes": [],
     "damage": "400*6 (1992)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
     ],
     "property": [
-      ""
+      "Invincible",
+      " EX"
     ],
     "cost": [
       ""
@@ -17072,7 +17131,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -34,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17082,11 +17141,15 @@
     "chara": "Red Arcueid",
     "input": "2A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/3/3a/MBTL_Warc_2A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/d/d1/MBTL_Warc_2A_hb.png"
+    ],
     "damage": 150,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -17100,11 +17163,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17114,11 +17177,15 @@
     "chara": "Red Arcueid",
     "input": "2B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/e/e4/MBTL_Warc_2B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/f/fe/MBTL_Warc_2B_hb.png"
+    ],
     "damage": 420,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -17132,11 +17199,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 7,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17146,11 +17213,15 @@
     "chara": "Red Arcueid",
     "input": "2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/f/f6/MBTL_Warc_2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/0/0f/MBTL_Warc_2C_hb.png"
+    ],
     "damage": 620,
     "guard": [
-      ""
+      "L"
     ],
     "cancel": [
       ""
@@ -17164,11 +17235,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 8,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17182,7 +17253,7 @@
     "hitboxes": [],
     "damage": 780,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17200,7 +17271,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17246,13 +17317,13 @@
     "hitboxes": [],
     "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
     ],
     "property": [
-      ""
+      "Launcher"
     ],
     "cost": [
       ""
@@ -17260,11 +17331,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17278,7 +17349,7 @@
     "hitboxes": [],
     "damage": "300, 1000 (1300)",
     "guard": [
-      ""
+      "N/A"
     ],
     "cancel": [
       ""
@@ -17292,7 +17363,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 4,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17310,7 +17381,7 @@
     "hitboxes": [],
     "damage": "750*2 (1357)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17324,11 +17395,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17342,13 +17413,13 @@
     "hitboxes": [],
     "damage": "400*2 (768)",
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
     ],
     "property": [
-      ""
+      "Armor"
     ],
     "cost": [
       ""
@@ -17356,11 +17427,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 29,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17374,13 +17445,13 @@
     "hitboxes": [],
     "damage": "550*2 (1045)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
     ],
     "property": [
-      ""
+      "Armor"
     ],
     "cost": [
       ""
@@ -17388,11 +17459,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 21,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -8,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17402,11 +17473,15 @@
     "chara": "Red Arcueid",
     "input": "5A",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/03/MBTL_Warc_5A.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/9d/MBTL_Warc_5A_hb.png"
+    ],
     "damage": 180,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17420,11 +17495,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17434,11 +17509,15 @@
     "chara": "Red Arcueid",
     "input": "5B",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c3/MBTL_Warc_5B.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/af/MBTL_Warc_5B_hb.png"
+    ],
     "damage": 480,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17452,11 +17531,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17466,11 +17545,15 @@
     "chara": "Red Arcueid",
     "input": "5C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cd/MBTL_Warc_5C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/e2/MBTL_Warc_5C_hb.png"
+    ],
     "damage": 610,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17484,11 +17567,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17630,13 +17713,14 @@
     "hitboxes": [],
     "damage": "1000, 1040 (2040)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
-      ""
+      "No"
     ],
     "property": [
-      ""
+      "Invincible",
+      " EX"
     ],
     "cost": [
       ""
@@ -17648,7 +17732,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -5,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17662,10 +17746,10 @@
     "hitboxes": [],
     "damage": "520*3 (1409)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
-      ""
+      "Jump cancellable"
     ],
     "property": [
       ""
@@ -17676,7 +17760,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 7,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17694,7 +17778,7 @@
     "hitboxes": [],
     "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17708,11 +17792,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 23,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17790,7 +17874,7 @@
     "hitboxes": [],
     "damage": 900,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -17804,7 +17888,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 20,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17822,7 +17906,7 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17836,7 +17920,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 8,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17854,7 +17938,7 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17868,7 +17952,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 18,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17886,7 +17970,7 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17918,13 +18002,13 @@
     "hitboxes": [],
     "damage": "500*5 (2115)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
     ],
     "property": [
-      ""
+      "EX"
     ],
     "cost": [
       ""
@@ -17950,13 +18034,13 @@
     "hitboxes": [],
     "damage": "260*6 (1332)",
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
     ],
     "property": [
-      ""
+      "Armor"
     ],
     "cost": [
       ""
@@ -17964,7 +18048,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17982,7 +18066,7 @@
     "hitboxes": [],
     "damage": "1100+700 (1576)",
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -17996,7 +18080,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -18010,11 +18094,15 @@
     "chara": "Red Arcueid",
     "input": "jA",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/b/bf/MBTL_Warc_jA.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/e3/MBTL_Warc_jA_hb.png"
+    ],
     "damage": 140,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -18028,7 +18116,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -18042,11 +18130,15 @@
     "chara": "Red Arcueid",
     "input": "jB",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/cd/MBTL_Warc_jB.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/a3/MBTL_Warc_jB_hb.png"
+    ],
     "damage": "240*2 (470)",
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -18060,7 +18152,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 5,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -18074,11 +18166,15 @@
     "chara": "Red Arcueid",
     "input": "jC",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/41/MBTL_Warc_jC.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/f/fc/MBTL_Warc_jC_hb.png"
+    ],
     "damage": 560,
     "guard": [
-      ""
+      "H"
     ],
     "cancel": [
       ""
@@ -18092,7 +18188,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -18110,7 +18206,7 @@
     "hitboxes": [],
     "damage": 400,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -18128,7 +18224,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -10,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -18142,7 +18238,7 @@
     "hitboxes": [],
     "damage": 700,
     "guard": [
-      ""
+      "LH"
     ],
     "cancel": [
       ""
@@ -18160,7 +18256,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -21526,7 +21622,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -1,
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -21558,7 +21654,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -7,
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -22360,7 +22456,9 @@
     "chara": "Vlov Arkhangel",
     "input": "5C",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/0/05/MBTL_Vlov_5C.png"
+    ],
     "hitboxes": [],
     "damage": 680,
     "guard": [

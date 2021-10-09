@@ -120,7 +120,7 @@ const fetchData = async () => {
   if (fetchedData) {
     for (let i = 0; i < fetchedData.length; i++) {
       if (fetchedData[i]['chara'] == "Hisui &amp; Kohaku") {
-        fetchedData[i]['chara'] = "Maids";
+        fetchedData[i]['chara'] = "Hisui & Kohaku";
       }
     }
 

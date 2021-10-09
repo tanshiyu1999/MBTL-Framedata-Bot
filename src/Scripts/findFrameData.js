@@ -1,4 +1,3 @@
-const frameDataBase = require("../Data/frameDataBase.json")
 const dupNameDifferentiator = require("./dupNameDifferentiator.js")
 
 
@@ -10,7 +9,8 @@ const searchMoves = (moveObj, move) => {
   move = move.replaceAll(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'); 
   move = move.replaceAll(/B\/C/gi, "[BC]") // do not escape the []
   // Generating the Regex 
-  let regex = `^[\\.\\~]?[${move[0]}][ \\.\\~]?`;
+  let regex = `^[\\.\\~]?${move[0]}[ \\.\\~]?`;
+
   for (let i = 1; i < move.length; i++) {
     if (i == 0) {
       continue;
@@ -56,6 +56,24 @@ const searchMoves = (moveObj, move) => {
       return moveObj;
     }
   }
+  
+  // If move contains 4/6, like grab mores. Replace 4/6 with 4 and 6
+  // Allows AD to match with 4/6AD as well
+  if (moveObj['input'].includes("4/6")) {
+    regex = regex + "$";
+    let moveRegex = new RegExp(regex, 'i');
+    let aString = moveObj['input'].replaceAll("4/6", "4");
+    let bString = moveObj['input'].replaceAll("4/6", "6");
+    if (aString.match(moveRegex) || bString.match(moveRegex)) {
+      return moveObj;
+    }
+    let noDirectionString = moveObj['input'].replaceAll("4/6", "");
+    if (noDirectionString.match(moveRegex)) {
+      return moveObj
+    }
+  }
+
+
 
   let moveRegex = new RegExp(regex, 'i');
   
@@ -87,6 +105,7 @@ const searchAbsoluteMoves = (moveObj, move) => {
 
 // Search data will search through all the character data and return found matches
 const searchData = async (name, move) => {
+  const frameDataBase = require("../Data/frameDataBase.json")
   let characterData = frameDataBase;
   
   let moveObjs = dupNameDifferentiator(name, characterData)
