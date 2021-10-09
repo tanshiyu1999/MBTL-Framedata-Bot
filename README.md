@@ -1,4 +1,4 @@
-# MMTL FrameData Discord Bot
+# MBTL FrameData Discord Bot
 This is a framedata discord bot for French Bread's fighting game: Melty Blood Type Lumina.
 
 The bot is public, feel free to add it into your own server via [invite link](https://discord.com/api/oauth2/authorize?client_id=893058566854946836&permissions=534723820608&scope=bot).
@@ -35,6 +35,6 @@ I also want to thank Tarkus Lee and SageVarq from the Mizuumi Re-ACT Discord ser
 
 Finally, I would like to thank movildima on discord who have answered my queries with regards to access to mediawiki's API, and some tips on querying the API.
 
-This project would not be possible without you and I am grateful!
+This project would not be possible without you, thank you.
 
 
