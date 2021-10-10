@@ -1285,7 +1285,9 @@
     "chara": "Arcueid Brunestud",
     "input": "214A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/7/71/MBTL_Arcueid_214A.png"
+    ],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -1303,11 +1305,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 16,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1335,11 +1337,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 16,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 3,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1371,7 +1373,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1381,7 +1383,9 @@
     "chara": "Arcueid Brunestud",
     "input": "22A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c3/MBTL_Arcueid_22A.png"
+    ],
     "hitboxes": [],
     "damage": "550*2 (1039)",
     "guard": [
@@ -1399,11 +1403,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -15,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1431,11 +1435,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 6,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -26,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1467,7 +1471,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -44,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1499,7 +1503,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -11,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1531,7 +1535,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1559,10 +1563,10 @@
     "attribute": [
       ""
     ],
-    "startup": 25,
-    "active": "",
-    "recovery": "",
-    "overall": "",
+    "startup": 24,
+    "active": 4,
+    "recovery": 15,
+    "overall": 42,
     "frameAdv": 4,
     "invul": "",
     "minDamage": "",
@@ -1573,7 +1577,9 @@
     "chara": "Arcueid Brunestud",
     "input": "236A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/d/d3/MBTL_Arcueid_236A.png"
+    ],
     "hitboxes": [],
     "damage": "500*2 (945)",
     "guard": [
@@ -1591,10 +1597,10 @@
     "attribute": [
       ""
     ],
-    "startup": 24,
-    "active": 4,
-    "recovery": 15,
-    "overall": 42,
+    "startup": 13,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -1623,11 +1629,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1691,7 +1697,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -12,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1701,7 +1707,9 @@
     "chara": "Arcueid Brunestud",
     "input": "236X~X",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/1/1c/MBTL_Arcueid_236XX.png"
+    ],
     "hitboxes": [],
     "damage": "450*2 (850)",
     "guard": [
@@ -1723,7 +1731,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -9,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1755,7 +1763,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -9,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1787,7 +1795,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -11,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1887,7 +1895,7 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 7,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -1955,11 +1963,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 27,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -3,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1991,7 +1999,7 @@
     "attribute": [
       ""
     ],
-    "startup": 13,
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2087,11 +2095,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 17,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -2259,7 +2267,7 @@
     "attribute": [
       ""
     ],
-    "startup": 10,
+    "startup": 9,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2295,7 +2303,7 @@
     "attribute": [
       ""
     ],
-    "startup": 11,
+    "startup": 10,
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2309,7 +2317,9 @@
     "chara": "Arcueid Brunestud",
     "input": "623A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c3/MBTL_Arcueid_623A.png"
+    ],
     "hitboxes": [],
     "damage": 1100,
     "guard": [
@@ -2327,11 +2337,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 11,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -2359,11 +2369,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 22,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": 0,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -2395,7 +2405,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -2427,7 +2437,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -6,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -2455,11 +2465,11 @@
     "attribute": [
       ""
     ],
-    "startup": "",
+    "startup": 12,
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "",
+    "frameAdv": -2,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -2501,7 +2511,9 @@
     "chara": "Arcueid Brunestud",
     "input": "j22A",
     "name": "",
-    "images": [],
+    "images": [
+      "https://wiki.gbl.gg/images/c/c3/MBTL_Arcueid_22A.png"
+    ],
     "hitboxes": [],
     "damage": "400*3 (1104)",
     "guard": [
@@ -17249,8 +17261,12 @@
     "chara": "Red Arcueid",
     "input": "2C~2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/4b/MBTL_Warc_2C_2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/ae/MBTL_Warc_2C_2C_hb.png"
+    ],
     "damage": 780,
     "guard": [
       "LH"
@@ -17313,8 +17329,12 @@
     "chara": "Red Arcueid",
     "input": "3C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/6/60/MBTL_Warc_3C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/e/e9/MBTL_Warc_3C_hb.png"
+    ],
     "damage": 700,
     "guard": [
       "LH"
@@ -17774,8 +17794,12 @@
     "chara": "Red Arcueid",
     "input": "6C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/5/52/MBTL_Warc_6C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/5/57/MBTL_Warc_6C_hb.png"
+    ],
     "damage": 700,
     "guard": [
       "LH"
@@ -17964,7 +17988,7 @@
   },
   {
     "chara": "Red Arcueid",
-    "input": "j214B/C~X",
+    "input": "j214B~B",
     "name": "",
     "images": [],
     "hitboxes": [],
@@ -17992,7 +18016,7 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#j.214B/C~X"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#j.214B~B"
   },
   {
     "chara": "Red Arcueid",
@@ -18030,8 +18054,12 @@
     "chara": "Red Arcueid",
     "input": "j2C",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/a/ae/MBTL_Warc_j2C.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/7c/MBTL_Warc_j2C_hb.png"
+    ],
     "damage": "260*6 (1332)",
     "guard": [
       "H"
@@ -18202,8 +18230,12 @@
     "chara": "Red Arcueid",
     "input": "rapid2",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/4/4f/MBTL_Warc_rapid2.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/9/9d/MBTL_Warc_rapid2_hb.png"
+    ],
     "damage": 400,
     "guard": [
       "LH"
@@ -18234,8 +18266,12 @@
     "chara": "Red Arcueid",
     "input": "rapid3",
     "name": "",
-    "images": [],
-    "hitboxes": [],
+    "images": [
+      "https://wiki.gbl.gg/images/f/fc/MBTL_Warc_rapid3.png"
+    ],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/7/72/MBTL_Warc_rapid3_hb.png"
+    ],
     "damage": 700,
     "guard": [
       "LH"
