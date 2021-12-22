@@ -195,9 +195,7 @@
     "chara": "Akiha Tohno",
     "input": "236A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/6/6a/MBTL_Akiha_236A.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "320*4 (1280)",
     "guard": [
@@ -293,9 +291,7 @@
     "chara": "Akiha Tohno",
     "input": "236C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/1/1e/MBTL_Akiha_236C.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "600, 510*4 (2640)",
     "guard": [
@@ -327,12 +323,8 @@
     "chara": "Akiha Tohno",
     "input": "2A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/b/b1/MBTL_Akiha_2A.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/9e/MBTL_Akiha_2A_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 150,
     "guard": [
       ""
@@ -350,9 +342,9 @@
       ""
     ],
     "startup": 5,
-    "active": 2,
-    "recovery": 11,
-    "overall": 17,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -363,12 +355,8 @@
     "chara": "Akiha Tohno",
     "input": "2B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/6/6c/MBTL_Akiha_2B.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/2/20/MBTL_Akiha_2B_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       ""
@@ -431,12 +419,8 @@
     "chara": "Akiha Tohno",
     "input": "2C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/97/MBTL_Akiha_2C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/d/d5/MBTL_Akiha_2C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 620,
     "guard": [
       ""
@@ -596,9 +580,7 @@
     "input": "5[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/4/49/MBTL_Akiha_5B_be_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "290*3 (870)",
     "guard": [
       ""
@@ -620,7 +602,7 @@
     "recovery": "",
     "overall": "",
     "frameAdv": -5,
-    "invul": "Clash 12-20",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Akiha_Tohno#5[B]"
@@ -629,12 +611,8 @@
     "chara": "Akiha Tohno",
     "input": "5A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/1/19/MBTL_Akiha_5A.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/ce/MBTL_Akiha_5A_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 180,
     "guard": [
       "LH"
@@ -653,8 +631,8 @@
     ],
     "startup": 5,
     "active": 2,
-    "recovery": 11,
-    "overall": 17,
+    "recovery": 14,
+    "overall": 20,
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -665,12 +643,8 @@
     "chara": "Akiha Tohno",
     "input": "5B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/f/f7/MBTL_Akiha_5B.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/b/be/MBTL_Akiha_5B_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 480,
     "guard": [
       "LH"
@@ -701,12 +675,8 @@
     "chara": "Akiha Tohno",
     "input": "5C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/4/47/MBTL_Akiha_5C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/1/15/MBTL_Akiha_5C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 610,
     "guard": [
       "LH"
@@ -819,7 +789,7 @@
     "attribute": [
       ""
     ],
-    "startup": "4+3",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -897,12 +867,8 @@
     "chara": "Akiha Tohno",
     "input": "6C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/28/MBTL_Akiha_6C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/7/77/MBTL_Akiha_6C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 740,
     "guard": [
       ""
@@ -988,7 +954,7 @@
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "Clash 16-19",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Akiha_Tohno#j.[C]"
@@ -1157,12 +1123,8 @@
     "chara": "Akiha Tohno",
     "input": "jA",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/7/77/MBTL_Akiha_jA.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/2/24/MBTL_Akiha_jA_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       ""
@@ -1193,12 +1155,8 @@
     "chara": "Akiha Tohno",
     "input": "jB",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/5/5f/MBTL_Akiha_jB.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/5/57/MBTL_Akiha_jB_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -1229,9 +1187,7 @@
     "chara": "Akiha Tohno",
     "input": "jC",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/1/19/MBTL_Akiha_jC.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/6/69/MBTL_Akiha_jC_hb.png"
     ],
@@ -1265,12 +1221,8 @@
     "chara": "Akiha Tohno",
     "input": "rapid 2",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/f/f2/MBTL_Akiha_rapid2.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/9e/MBTL_Akiha_rapid2_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       ""
@@ -1339,11 +1291,10 @@
     "hitboxes": [],
     "damage": 1200,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -1358,7 +1309,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "-4 ~ 0",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1372,11 +1323,10 @@
     "hitboxes": [],
     "damage": "700, 850 (1442)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "MD",
-      " EX"
+      ""
     ],
     "property": [
       ""
@@ -1405,26 +1355,25 @@
     "hitboxes": [],
     "damage": "1200, 320*2, 576 (2384)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "MD",
-      " EX"
+      ""
     ],
     "property": [
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
     ],
-    "startup": "8-11f depending on distance",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "-1, -5(airborne)",
+    "frameAdv": -1,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1440,10 +1389,10 @@
     "hitboxes": [],
     "damage": "550*2 (1039)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "(MD)"
+      ""
     ],
     "property": [
       ""
@@ -1472,10 +1421,10 @@
     "hitboxes": [],
     "damage": "350*4 (1235)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "(MD)"
+      ""
     ],
     "property": [
       ""
@@ -1504,21 +1453,21 @@
     "hitboxes": [],
     "damage": "300*8 (1998)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "(MD)"
+      ""
     ],
     "property": [
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
     ],
-    "startup": "4+1",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -1536,7 +1485,7 @@
     "hitboxes": [],
     "damage": 1500,
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
       ""
@@ -1545,7 +1494,7 @@
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
@@ -1568,7 +1517,7 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
       ""
@@ -1666,7 +1615,7 @@
     "hitboxes": [],
     "damage": "500*2 (945)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
@@ -1694,13 +1643,11 @@
     "chara": "Arcueid Brunestud",
     "input": "236BC",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/93/MBTL_Arcueid_236BC.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 3500,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
@@ -1718,7 +1665,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -35,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -1732,21 +1679,21 @@
     "hitboxes": [],
     "damage": "320*11 (2568)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
     ],
-    "startup": "4+6",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -1766,11 +1713,10 @@
     "hitboxes": [],
     "damage": "450*2 (850)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "MD",
-      " EX"
+      ""
     ],
     "property": [
       ""
@@ -1799,7 +1745,7 @@
     "hitboxes": [],
     "damage": 1200,
     "guard": [
-      "H"
+      ""
     ],
     "cancel": [
       ""
@@ -1831,11 +1777,10 @@
     "hitboxes": [],
     "damage": 1300,
     "guard": [
-      "L"
+      ""
     ],
     "cancel": [
-      "MD",
-      " EX"
+      ""
     ],
     "property": [
       ""
@@ -1936,12 +1881,10 @@
     "hitboxes": [],
     "damage": "470*3 (1282)",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "J",
-      " EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2006,11 +1949,10 @@
     "hitboxes": [],
     "damage": 1200,
     "guard": [
-      "HA"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2071,12 +2013,8 @@
     "chara": "Arcueid Brunestud",
     "input": "4/6AD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/8/8d/MBTL_Arcueid_throw.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/d/d9/MBTL_Arcueid_throw_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -2093,7 +2031,7 @@
     "attribute": [
       ""
     ],
-    "startup": 4,
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2107,9 +2045,7 @@
     "chara": "Arcueid Brunestud",
     "input": "4/6AD~2",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/a/a0/MBTL_Arcueid_altthrow.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1500,
     "guard": [
@@ -2143,13 +2079,12 @@
     "name": "",
     "images": [],
     "hitboxes": [],
-    "damage": "LH",
+    "damage": "",
     "guard": [
       ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2217,12 +2152,7 @@
       "H"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -2290,13 +2220,7 @@
       "LH"
     ],
     "cancel": [
-      "SE",
-      " N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -2332,12 +2256,7 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -2373,12 +2292,7 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -2409,11 +2323,10 @@
     "hitboxes": [],
     "damage": 1100,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2442,11 +2355,10 @@
     "hitboxes": [],
     "damage": "450*3 (1228)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2475,21 +2387,21 @@
     "hitboxes": [],
     "damage": "270*8 (1855)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
     ],
-    "startup": "4+7",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2507,7 +2419,7 @@
     "hitboxes": [],
     "damage": 1200,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
@@ -2539,11 +2451,10 @@
     "hitboxes": [],
     "damage": "650*3 (1702)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2568,12 +2479,8 @@
     "chara": "Arcueid Brunestud",
     "input": "ABCD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/5/53/MBTL_Arcueid_ABCD.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/1/1b/MBTL_Arcueid_ABCD_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -2610,11 +2517,10 @@
     "hitboxes": [],
     "damage": "400*3 (1104)",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "MD",
-      " EX"
+      ""
     ],
     "property": [
       ""
@@ -2643,11 +2549,10 @@
     "hitboxes": [],
     "damage": "350*4 (1235)",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "MD",
-      " EX"
+      ""
     ],
     "property": [
       ""
@@ -2676,21 +2581,21 @@
     "hitboxes": [],
     "damage": "270*9 (1968)",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
     ],
-    "startup": "4+1",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2708,7 +2613,7 @@
     "hitboxes": [],
     "damage": "",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
       ""
@@ -2717,12 +2622,12 @@
       ""
     ],
     "cost": [
-      "100%"
+      ""
     ],
     "attribute": [
       ""
     ],
-    "startup": "4+7",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -2740,7 +2645,7 @@
     "hitboxes": [],
     "damage": "",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
       ""
@@ -2808,12 +2713,10 @@
     "hitboxes": [],
     "damage": "350*4 (1252)",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "J",
-      " EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -2839,10 +2742,10 @@
     "input": "j2C",
     "name": "",
     "images": [
-      "https://wiki.gbl.gg/images/e/e4/MBTL_Arcueid_j2C1.png"
+      "https://wiki.gbl.gg/images/a/a0/MBTL_Arcueid_j2C.png"
     ],
     "hitboxes": [
-      "https://wiki.gbl.gg/images/5/59/MBTL_Arcueid_j2C1_hb.png"
+      "https://wiki.gbl.gg/images/1/18/MBTL_Arcueid_j2C_hb.png"
     ],
     "damage": "400*2 (764)",
     "guard": [
@@ -2874,12 +2777,8 @@
     "chara": "Arcueid Brunestud",
     "input": "j4/6AD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/7/77/MBTL_Arcueid_airthrow.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/07/MBTL_Arcueid_airthrow_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -3026,13 +2925,10 @@
     ],
     "damage": 400,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "SP",
-      " CH",
-      " EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -3047,7 +2943,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -10,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -3199,7 +3095,7 @@
   },
   {
     "chara": "Ciel",
-    "input": "214B~A",
+    "input": "214B/C~A",
     "name": "",
     "images": [
       "https://wiki.gbl.gg/images/a/a4/MBTL_Ciel_214BCA.png"
@@ -3231,11 +3127,11 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B~A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B/C~A"
   },
   {
     "chara": "Ciel",
-    "input": "214B~B",
+    "input": "214B/C~B",
     "name": "",
     "images": [
       "https://wiki.gbl.gg/images/c/c4/MBTL_Ciel_214BCB.png"
@@ -3267,11 +3163,11 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B~B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B/C~B"
   },
   {
     "chara": "Ciel",
-    "input": "214B~X~A",
+    "input": "214B/C~X~A",
     "name": "",
     "images": [
       "https://wiki.gbl.gg/images/4/45/MBTL_Ciel_214BCXA.png"
@@ -3299,15 +3195,15 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "-4 ~ +3",
+    "frameAdv": -4,
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B~X~A"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B/C~X~A"
   },
   {
     "chara": "Ciel",
-    "input": "214B~X~B",
+    "input": "214B/C~X~B",
     "name": "",
     "images": [
       "https://wiki.gbl.gg/images/3/31/MBTL_Ciel_214BCXB.png"
@@ -3339,7 +3235,7 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B~X~B"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#214B/C~X~B"
   },
   {
     "chara": "Ciel",
@@ -3404,9 +3300,9 @@
       ""
     ],
     "startup": 7,
-    "active": 6,
-    "recovery": 33,
-    "overall": 45,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -14,
     "invul": "",
     "minDamage": "",
@@ -3440,9 +3336,9 @@
       ""
     ],
     "startup": 7,
-    "active": 6,
-    "recovery": 41,
-    "overall": 53,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -22,
     "invul": "",
     "minDamage": "",
@@ -3513,7 +3409,7 @@
     ],
     "startup": "",
     "active": "",
-    "recovery": "117 (no followup input)",
+    "recovery": "",
     "overall": "",
     "frameAdv": "N/A",
     "invul": "",
@@ -3549,7 +3445,7 @@
     ],
     "startup": "",
     "active": "",
-    "recovery": "74 (no followup input)",
+    "recovery": "",
     "overall": "",
     "frameAdv": "N/A",
     "invul": "",
@@ -3587,7 +3483,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -10,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -3621,7 +3517,7 @@
     ],
     "startup": 12,
     "active": "",
-    "recovery": 39,
+    "recovery": "",
     "overall": "",
     "frameAdv": -20,
     "invul": "",
@@ -3765,8 +3661,8 @@
       ""
     ],
     "startup": "",
-    "active": 7,
-    "recovery": 27,
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": "N/A",
     "invul": "",
@@ -3803,9 +3699,9 @@
       ""
     ],
     "startup": 5,
-    "active": 2,
-    "recovery": 10,
-    "overall": 16,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -3841,9 +3737,9 @@
       ""
     ],
     "startup": 8,
-    "active": 6,
-    "recovery": 19,
-    "overall": 32,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -3916,9 +3812,9 @@
       ""
     ],
     "startup": 8,
-    "active": 4,
-    "recovery": 24,
-    "overall": 35,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -3989,9 +3885,9 @@
       ""
     ],
     "startup": 12,
-    "active": 3,
-    "recovery": 27,
-    "overall": 41,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -12,
     "invul": "",
     "minDamage": "",
@@ -4095,11 +3991,11 @@
       ""
     ],
     "startup": 18,
-    "active": 4,
-    "recovery": 25,
-    "overall": 46,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -11,
-    "invul": "Clash 13-17",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#5[C]"
@@ -4133,9 +4029,9 @@
       ""
     ],
     "startup": 5,
-    "active": 2,
-    "recovery": 12,
-    "overall": 18,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -4171,9 +4067,9 @@
       ""
     ],
     "startup": 7,
-    "active": 4,
-    "recovery": 18,
-    "overall": 28,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -4209,9 +4105,9 @@
       ""
     ],
     "startup": 10,
-    "active": 4,
-    "recovery": 25,
-    "overall": 38,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -11,
     "invul": "",
     "minDamage": "",
@@ -4283,9 +4179,9 @@
       ""
     ],
     "startup": 11,
-    "active": 5,
-    "recovery": 18,
-    "overall": 33,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -4319,9 +4215,9 @@
       ""
     ],
     "startup": 14,
-    "active": 5,
-    "recovery": 21,
-    "overall": 39,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -7,
     "invul": "",
     "minDamage": "",
@@ -4355,8 +4251,8 @@
       ""
     ],
     "startup": "",
-    "active": 5,
-    "recovery": 18,
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": -3,
     "invul": "",
@@ -4428,9 +4324,9 @@
       ""
     ],
     "startup": 13,
-    "active": 1,
-    "recovery": 26,
-    "overall": 39,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -4547,7 +4443,7 @@
   },
   {
     "chara": "Ciel",
-    "input": "j214B~X",
+    "input": "j214B/C~X",
     "name": "",
     "images": [
       "https://wiki.gbl.gg/images/7/7c/MBTL_Ciel_j214BCX.png"
@@ -4579,11 +4475,11 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#j.214B~X"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#j.214B/C~X"
   },
   {
     "chara": "Ciel",
-    "input": "j214B~X~X",
+    "input": "j214B/C~X~X",
     "name": "",
     "images": [
       "https://wiki.gbl.gg/images/c/c1/MBTL_Ciel_j214BCXX.png"
@@ -4615,7 +4511,7 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#j.214B~X~X"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Ciel#j.214B/C~X~X"
   },
   {
     "chara": "Ciel",
@@ -5042,7 +4938,7 @@
       ""
     ],
     "startup": 5,
-    "active": 7,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -5081,7 +4977,7 @@
       ""
     ],
     "startup": 7,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -5120,7 +5016,7 @@
       ""
     ],
     "startup": 8,
-    "active": 5,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -5156,9 +5052,9 @@
     "attribute": [
       ""
     ],
-    "startup": "8, 10",
-    "active": "3, 3",
-    "recovery": "27 (after 2nd hit)",
+    "startup": "",
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": -10,
     "invul": "",
@@ -5432,9 +5328,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/7/73/MBTL_Hisui_236A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "220*6 (1186)",
     "guard": [
       "LH"
@@ -5530,9 +5424,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/3/3c/MBTL_Hisui_236C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "160*9, 580 (1796)",
     "guard": [
       "LH"
@@ -5564,9 +5456,7 @@
     "input": "236X~X",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/3/3b/MBTL_Hisui_236XX_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "LH"
@@ -5598,9 +5488,7 @@
     "input": "2A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/d/da/MBTL_Hisui_2A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 140,
     "guard": [
       "L"
@@ -5632,9 +5520,7 @@
     "input": "2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/f/f0/MBTL_Hisui_2B_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "LH"
@@ -5666,9 +5552,7 @@
     "input": "2BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/b/be/MBTL_Hisui_2BC_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "400, 1400 (1800)",
     "guard": [
       "LH"
@@ -5700,9 +5584,7 @@
     "input": "2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/01/MBTL_Hisui_2C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 590,
     "guard": [
       "L"
@@ -5766,9 +5648,7 @@
     "input": "3C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/8/82/MBTL_Hisui_3C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -5832,9 +5712,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/d/dd/MBTL_Hisui_throw_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 1500,
     "guard": [
       ""
@@ -5952,7 +5830,7 @@
     "recovery": "",
     "overall": "",
     "frameAdv": -10,
-    "invul": "Clash 18-23",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui#5[C]"
@@ -5962,9 +5840,7 @@
     "input": "5A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/a/a3/MBTL_Hisui_5A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 160,
     "guard": [
       "LH"
@@ -5996,9 +5872,7 @@
     "input": "5B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/06/MBTL_Hisui_5B_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 420,
     "guard": [
       "LH"
@@ -6030,9 +5904,7 @@
     "input": "5C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/0e/MBTL_Hisui_5C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "420*2 (806)",
     "guard": [
       "LH"
@@ -6160,9 +6032,7 @@
     "input": "6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/a/ac/MBTL_Hisui_6BC_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "175*9 (1324)",
     "guard": [
       "LH"
@@ -6194,9 +6064,7 @@
     "input": "6C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/c3/MBTL_Hisui_6C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 440,
     "guard": [
       "LH"
@@ -6228,9 +6096,7 @@
     "input": "6C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/9d/MBTL_Hisui_6CC_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "440 (774)",
     "guard": [
       "LH"
@@ -6262,9 +6128,7 @@
     "input": "6C~C~C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/e/ed/MBTL_Hisui_6CCC_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "1200 (1590)",
     "guard": [
       "LH"
@@ -6345,12 +6209,12 @@
     "attribute": [
       ""
     ],
-    "startup": 20,
+    "startup": 21,
     "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "Clash 16-19",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Hisui#j.[C]"
@@ -6360,9 +6224,7 @@
     "input": "j236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/1/1d/MBTL_Hisui_j236A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "200*7 (1232)",
     "guard": [
       "LHA"
@@ -6458,9 +6320,7 @@
     "input": "j2C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/0d/MBTL_Hisui_j2C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 780,
     "guard": [
       "LHA"
@@ -6492,9 +6352,7 @@
     "input": "j4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/96/MBTL_Hisui_airthrow_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -6558,9 +6416,7 @@
     "input": "jA",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/9f/MBTL_Hisui_jA_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 130,
     "guard": [
       "HA"
@@ -6592,9 +6448,7 @@
     "input": "jB",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/c2/MBTL_Hisui_jB_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 380,
     "guard": [
       "HA"
@@ -6626,9 +6480,7 @@
     "input": "jB~j2B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/95/MBTL_Hisui_jB2B_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "480 (754)",
     "guard": [
       "LHA"
@@ -6694,9 +6546,7 @@
     "input": "rapid 2",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/2/22/MBTL_Hisui_rapid2_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 400,
     "guard": [
       "LH"
@@ -9680,9 +9530,7 @@
     "images": [
       "https://wiki.gbl.gg/images/d/d1/MBTL_Kohaku_22A.png"
     ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/b/b7/MBTL_Kohaku_22A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "330*6 (1640)",
     "guard": [
       "LHA"
@@ -9716,9 +9564,7 @@
     "images": [
       "https://wiki.gbl.gg/images/1/17/MBTL_Kohaku_22B.png"
     ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/4/44/MBTL_Kohaku_22B_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "180*10 (1553)",
     "guard": [
       "LHA"
@@ -9752,9 +9598,7 @@
     "images": [
       "https://wiki.gbl.gg/images/e/eb/MBTL_Kohaku_22C.png"
     ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/b/b3/MBTL_Kohaku_22C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "590*4 (1781)",
     "guard": [
       "LHA"
@@ -9806,7 +9650,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 21,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -9817,9 +9661,7 @@
     "chara": "Kohaku",
     "input": "236[B]",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/6/64/MBTL_Kohaku_236B_be.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1400,
     "guard": [
@@ -9838,7 +9680,7 @@
       ""
     ],
     "startup": 21,
-    "active": 1,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -9,
@@ -9883,9 +9725,7 @@
     "chara": "Kohaku",
     "input": "236A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/4/49/MBTL_Kohaku_236A.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -9905,7 +9745,7 @@
       ""
     ],
     "startup": 10,
-    "active": 1,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -4,
@@ -9918,9 +9758,7 @@
     "chara": "Kohaku",
     "input": "236B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/3/37/MBTL_Kohaku_236B.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -9940,7 +9778,7 @@
       ""
     ],
     "startup": 10,
-    "active": 1,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -11,
@@ -9977,7 +9815,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -12,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -10006,7 +9844,7 @@
       ""
     ],
     "startup": "",
-    "active": 6,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -11,
@@ -10080,9 +9918,9 @@
       ""
     ],
     "startup": 5,
-    "active": 2,
-    "recovery": 11,
-    "overall": 17,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -10122,9 +9960,9 @@
       ""
     ],
     "startup": 8,
-    "active": "2, 7",
-    "recovery": 10,
-    "overall": 32,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -10199,9 +10037,9 @@
       ""
     ],
     "startup": 9,
-    "active": 4,
-    "recovery": 26,
-    "overall": 32,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -13,
     "invul": "",
     "minDamage": "",
@@ -10234,10 +10072,10 @@
     "attribute": [
       ""
     ],
-    "startup": 13,
-    "active": 3,
-    "recovery": 23,
-    "overall": 38,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -10273,9 +10111,9 @@
       ""
     ],
     "startup": 12,
-    "active": 3,
-    "recovery": 25,
-    "overall": 39,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -11,
     "invul": "",
     "minDamage": "",
@@ -10386,9 +10224,9 @@
       ""
     ],
     "startup": 5,
-    "active": 2,
-    "recovery": 11,
-    "overall": 17,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -10427,9 +10265,9 @@
       ""
     ],
     "startup": 9,
-    "active": 5,
-    "recovery": 16,
-    "overall": 29,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -10468,9 +10306,9 @@
       ""
     ],
     "startup": 8,
-    "active": "4, 8",
-    "recovery": 23,
-    "overall": 48,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -8,
     "invul": "",
     "minDamage": "",
@@ -10481,9 +10319,7 @@
     "chara": "Kohaku",
     "input": "6BC",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/3/36/MBTL_Kohaku_6BC.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "500*3 (1355)",
     "guard": [
@@ -10502,9 +10338,9 @@
       ""
     ],
     "startup": 10,
-    "active": 6,
-    "recovery": 23,
-    "overall": 38,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -10515,12 +10351,8 @@
     "chara": "Kohaku",
     "input": "6C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/26/MBTL_Kohaku_6C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/e/e4/MBTL_Kohaku_6C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -10540,9 +10372,9 @@
       ""
     ],
     "startup": 10,
-    "active": 3,
-    "recovery": 22,
-    "overall": 34,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -8,
     "invul": "",
     "minDamage": "",
@@ -10575,7 +10407,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -14,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -10609,11 +10441,11 @@
       ""
     ],
     "startup": 20,
-    "active": 5,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "Clash 16-19",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kohaku#j.[C]"
@@ -10818,7 +10650,7 @@
       ""
     ],
     "startup": 5,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -10859,7 +10691,7 @@
       ""
     ],
     "startup": 9,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -10900,7 +10732,7 @@
       ""
     ],
     "startup": 10,
-    "active": 5,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -10938,10 +10770,10 @@
     "attribute": [
       ""
     ],
-    "startup": 9,
-    "active": 3,
-    "recovery": 23,
-    "overall": 34,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -10972,10 +10804,10 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
-    "active": 3,
-    "recovery": 25,
-    "overall": 39,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -11,
     "invul": "",
     "minDamage": "",
@@ -11016,7 +10848,7 @@
     "recovery": 22,
     "overall": 50,
     "frameAdv": -10,
-    "invul": "15-24 Armor",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#2[C]"
@@ -11088,7 +10920,7 @@
     "recovery": 23,
     "overall": 45,
     "frameAdv": "-",
-    "invul": "1-22 Throw, 9-23 Armor",
+    "invul": "1-23 Throw",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#214B"
@@ -11227,7 +11059,7 @@
     "recovery": 24,
     "overall": 37,
     "frameAdv": 1,
-    "invul": "8-17 Armor",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#22A"
@@ -11264,7 +11096,7 @@
     "recovery": 42,
     "overall": 55,
     "frameAdv": -3,
-    "invul": "8-37 Armor",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#22B"
@@ -11295,12 +11127,12 @@
     "attribute": [
       ""
     ],
-    "startup": "4+20",
+    "startup": "",
     "active": 8,
     "recovery": "",
     "overall": 56,
     "frameAdv": -3,
-    "invul": "1-12 All, 13-276 Armor",
+    "invul": "15 All",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#22C"
@@ -11387,7 +11219,7 @@
     ],
     "damage": 3500,
     "guard": [
-      "U"
+      ""
     ],
     "cancel": [
       ""
@@ -11401,12 +11233,12 @@
     "attribute": [
       ""
     ],
-    "startup": "5+0",
-    "active": 15,
+    "startup": "",
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "1-20 All",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#236BC"
@@ -11677,8 +11509,7 @@
     ],
     "damage": "700, 600 (1228)",
     "guard": [
-      "LH",
-      " HA"
+      ""
     ],
     "cancel": [
       ""
@@ -11693,11 +11524,11 @@
       ""
     ],
     "startup": 11,
-    "active": "4 (30) 6",
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -2,
-    "invul": "9-38 Armor",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#2BC"
@@ -11751,7 +11582,7 @@
     "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       "J"
@@ -11766,7 +11597,7 @@
       ""
     ],
     "startup": 7,
-    "active": "6 (4) 3",
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -11914,7 +11745,7 @@
     "recovery": 27,
     "overall": 58,
     "frameAdv": "N/A",
-    "invul": "18-28 Armor",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#5[C]"
@@ -12278,7 +12109,7 @@
     "recovery": 22,
     "overall": 47,
     "frameAdv": "",
-    "invul": "15-20 Armor",
+    "invul": "Super Armor",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Kouma_Kishima#j.[C]"
@@ -12736,9 +12567,9 @@
       ""
     ],
     "startup": 12,
-    "active": 10,
-    "recovery": 17,
-    "overall": 38,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -12767,10 +12598,10 @@
     "attribute": [
       ""
     ],
-    "startup": 11,
-    "active": 3,
-    "recovery": 28,
-    "overall": 41,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -8,
     "invul": "",
     "minDamage": "",
@@ -12831,10 +12662,10 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
-    "active": 3,
-    "recovery": 26,
-    "overall": 40,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -12898,7 +12729,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 36,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -12945,7 +12776,7 @@
     "hitboxes": [],
     "damage": 1400,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
@@ -12959,10 +12790,10 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
-    "active": 8,
-    "recovery": 23,
-    "overall": 42,
+    "startup": 20,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "-4 ~ +3",
     "invul": "",
     "minDamage": "",
@@ -12992,9 +12823,9 @@
       ""
     ],
     "startup": "1+8",
-    "active": 3,
-    "recovery": 29,
-    "overall": 40,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -13200,9 +13031,9 @@
       ""
     ],
     "startup": 7,
-    "active": 14,
-    "recovery": 25,
-    "overall": 45,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -13213,15 +13044,13 @@
     "chara": "Michael Roa Valdamjong",
     "input": "3C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/9b/MBTL_Roa_3C.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/9/9c/MBTL_Roa_3C_hb.png"
     ],
     "damage": 700,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
@@ -13236,9 +13065,9 @@
       ""
     ],
     "startup": 12,
-    "active": 3,
-    "recovery": 23,
-    "overall": 37,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -13267,10 +13096,10 @@
     "attribute": [
       ""
     ],
-    "startup": 4,
-    "active": 3,
-    "recovery": 19,
-    "overall": 26,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -13300,9 +13129,9 @@
       ""
     ],
     "startup": 18,
-    "active": 4,
-    "recovery": 14,
-    "overall": 35,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -3,
     "invul": "",
     "minDamage": "",
@@ -13536,10 +13365,10 @@
     "attribute": [
       ""
     ],
-    "startup": 13,
-    "active": 9,
-    "recovery": 21,
-    "overall": 42,
+    "startup": 15,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "-9 ~ -3",
     "invul": "",
     "minDamage": "",
@@ -13636,10 +13465,10 @@
     "attribute": [
       ""
     ],
-    "startup": "1+19",
-    "active": 4,
-    "recovery": 27,
-    "overall": 50,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -13668,8 +13497,8 @@
     "attribute": [
       ""
     ],
-    "startup": 1,
-    "active": 3,
+    "startup": "",
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -13701,10 +13530,10 @@
       ""
     ],
     "startup": 8,
-    "active": 6,
+    "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "-7 (TK) ~ -2 (lowest)",
+    "frameAdv": "-7 (TK)",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13733,10 +13562,10 @@
       ""
     ],
     "startup": 19,
-    "active": 14,
+    "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "+2 (TK) ~ +7 (lowest)",
+    "frameAdv": "+2 (TK)",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13764,11 +13593,11 @@
     "attribute": [
       ""
     ],
-    "startup": "4+4",
-    "active": 14,
+    "startup": "4+2",
+    "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "+2 (TK) ~ +7 (lowest)",
+    "frameAdv": "+2 (TK)",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13797,10 +13626,10 @@
       ""
     ],
     "startup": 9,
-    "active": 14,
+    "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "+2 (TK) ~ +7 (lowest)",
+    "frameAdv": "+2 (TK)",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -13938,10 +13767,10 @@
     "attribute": [
       ""
     ],
-    "startup": 8,
-    "active": 4,
-    "recovery": 25,
-    "overall": 36,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -13952,9 +13781,7 @@
     "chara": "Michael Roa Valdamjong",
     "input": "rapid3",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/9b/MBTL_Roa_3C.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/9/9c/MBTL_Roa_3C_hb.png"
     ],
@@ -13974,10 +13801,10 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
-    "active": 3,
-    "recovery": 23,
-    "overall": 37,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -13992,27 +13819,26 @@
     "hitboxes": [],
     "damage": 1400,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 28,
-    "active": 6,
-    "recovery": 13,
-    "overall": 46,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -2,
-    "invul": "Armor 16-28",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#214[A]"
@@ -14025,27 +13851,26 @@
     "hitboxes": [],
     "damage": 1400,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 36,
-    "active": 6,
-    "recovery": 11,
-    "overall": 52,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": 0,
-    "invul": "Armor 18-36",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#214[B]"
@@ -14062,25 +13887,24 @@
     ],
     "damage": 1250,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 20,
-    "active": 6,
-    "recovery": 13,
-    "overall": 38,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -14099,25 +13923,24 @@
     ],
     "damage": 1250,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 28,
-    "active": 6,
-    "recovery": 11,
-    "overall": 44,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": 0,
     "invul": "",
     "minDamage": "",
@@ -14136,30 +13959,26 @@
     ],
     "damage": "1350*2 (2403)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "AD",
-      " MD"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Launch",
-      " Wall Bounce",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+2",
-    "active": "7(3)6",
-    "recovery": 17,
-    "overall": 38,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
-    "invul": "Armor 5-16",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#214C"
@@ -14176,27 +13995,24 @@
     ],
     "damage": 1800,
     "guard": [
-      "U"
+      ""
     ],
     "cancel": [
-      "AD",
-      " MD"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Launch",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+22",
-    "active": 2,
-    "recovery": 42,
-    "overall": 69,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -14215,26 +14031,24 @@
     ],
     "damage": 1000,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 16,
-    "active": 5,
-    "recovery": 18,
-    "overall": 38,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": 2,
     "invul": "",
     "minDamage": "",
@@ -14253,25 +14067,24 @@
     ],
     "damage": 1000,
     "guard": [
-      "L"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 27,
-    "active": 5,
-    "recovery": 11,
-    "overall": 42,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": 9,
     "invul": "",
     "minDamage": "",
@@ -14290,27 +14103,24 @@
     ],
     "damage": 1600,
     "guard": [
-      "L"
+      ""
     ],
     "cancel": [
-      "AD",
-      " MD"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Launch",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+6",
-    "active": 2,
-    "recovery": 29,
-    "overall": 40,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -14329,12 +14139,10 @@
     ],
     "damage": 1000,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -14343,12 +14151,12 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 10,
-    "active": 3,
-    "recovery": 22,
-    "overall": 34,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -8,
     "invul": "",
     "minDamage": "",
@@ -14367,12 +14175,10 @@
     ],
     "damage": 1200,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -14381,12 +14187,12 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 23,
-    "active": 3,
-    "recovery": 24,
-    "overall": 49,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -14405,27 +14211,26 @@
     ],
     "damage": 3500,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
     ],
     "property": [
-      "Armor Break",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "1+7",
-    "active": 25,
-    "recovery": 22,
-    "overall": 54,
-    "frameAdv": -15,
-    "invul": "1-23",
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#236BC"
@@ -14442,27 +14247,24 @@
     ],
     "damage": 2300,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "AD",
-      " MD"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Launch",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+6",
-    "active": 4,
-    "recovery": 24,
-    "overall": 37,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -14481,27 +14283,24 @@
     ],
     "damage": 1000,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch",
-      " Wall Bounce",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": 10,
-    "active": 7,
-    "recovery": 21,
-    "overall": 37,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -8,
     "invul": "",
     "minDamage": "",
@@ -14537,9 +14336,9 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 30,
+    "overall": "",
     "frameAdv": -14,
-    "invul": "Strike 4-22",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#236X~B"
@@ -14556,25 +14355,24 @@
     ],
     "damage": 800,
     "guard": [
-      "L"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": 9,
-    "active": 3,
-    "recovery": 18,
-    "overall": 29,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -14596,13 +14394,7 @@
       "L"
     ],
     "cancel": [
-      "-SE-",
-      " -N-",
-      " -SP-",
-      " -CH-",
-      " -EX-",
-      " -MD-",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -14611,7 +14403,7 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 5,
     "active": 2,
@@ -14638,12 +14430,7 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -14652,12 +14439,12 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": 7,
+    "startup": 8,
     "active": 5,
     "recovery": 16,
-    "overall": 27,
+    "overall": 28,
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -14676,27 +14463,26 @@
     ],
     "damage": 1100,
     "guard": [
-      "L"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 13,
-    "active": 5,
-    "recovery": 17,
-    "overall": 34,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": 2,
-    "invul": "MD Clash 1-12",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#2BC"
@@ -14716,22 +14502,16 @@
       "L"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
-      "Launch",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 8,
     "active": 5,
@@ -14758,20 +14538,16 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 14,
     "active": 2,
@@ -14795,28 +14571,26 @@
     ],
     "damage": "460*3 (1255)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD",
-      " -J-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 8,
-    "active": "4(4)4(4)5",
-    "recovery": "13 + 12L",
-    "overall": 53,
-    "frameAdv": -17,
-    "invul": "MD Clash 1-7",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#3BC"
@@ -14836,25 +14610,21 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " EX",
-      " CH",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 11,
-    "active": 3,
-    "recovery": 19,
-    "overall": 32,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -5,
     "invul": "",
     "minDamage": "",
@@ -14885,13 +14655,13 @@
       ""
     ],
     "attribute": [
-      "Throw"
+      ""
     ],
     "startup": 4,
     "active": 3,
     "recovery": 19,
     "overall": 25,
-    "frameAdv": 18,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -14909,27 +14679,26 @@
     ],
     "damage": 1500,
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 20,
-    "active": 6,
-    "recovery": 11,
-    "overall": 36,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": 0,
-    "invul": "MD Clash 1-11",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#4BC"
@@ -14949,13 +14718,7 @@
       "LH"
     ],
     "cancel": [
-      "-SE-",
-      " -N-",
-      " -SP-",
-      " -CH-",
-      " -EX-",
-      " -MD-",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -14964,7 +14727,7 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 5,
     "active": 2,
@@ -14991,12 +14754,7 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -15005,7 +14763,7 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 7,
     "active": 4,
@@ -15032,21 +14790,16 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
-      "Wall Bounce vs Air"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 9,
     "active": 6,
@@ -15070,27 +14823,26 @@
     ],
     "damage": "640*2 (1196)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "(EX)",
-      " (MD)"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 6,
-    "active": "8(4)3",
-    "recovery": "18 + 12L",
-    "overall": 50,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -28,
-    "invul": "1-13",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#623A"
@@ -15107,25 +14859,24 @@
     ],
     "damage": "520*3 (1206)",
     "guard": [
-      "H"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 22,
-    "active": "4,8(4)3",
-    "recovery": "11 + 14L",
-    "overall": 65,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -11,
     "invul": "",
     "minDamage": "",
@@ -15144,30 +14895,26 @@
     ],
     "damage": "620*3 (1624)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "(N)",
-      " (EX)",
-      " (MD)",
-      " (J)"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+2",
-    "active": "4,7(5)2",
-    "recovery": "24 + 12L",
-    "overall": 59,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -33,
-    "invul": "1-16",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#623C"
@@ -15199,9 +14946,9 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 30,
+    "overall": "",
     "frameAdv": "",
-    "invul": "Strike 4-22",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#6AB"
@@ -15218,28 +14965,26 @@
     ],
     "damage": "700*2 (1302)",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
-      "Launch",
-      " Wall Bounce"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 12,
-    "active": "5(7)7",
-    "recovery": 17,
-    "overall": 47,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
-    "invul": "MD Clash 1-11",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#6BC"
@@ -15256,27 +15001,26 @@
     ],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
     ],
     "property": [
-      "Armor Break",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "1+21",
-    "active": 4,
-    "recovery": 27,
-    "overall": 52,
-    "frameAdv": -14,
-    "invul": "1-25",
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#ABCD"
@@ -15291,27 +15035,25 @@
     "hitboxes": [],
     "damage": 1200,
     "guard": [
-      "HA"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-",
-      " J"
+      ""
     ],
     "property": [
-      "Ground Bounce"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": 18,
-    "active": "X",
-    "recovery": "31L",
+    "startup": "",
+    "active": "",
+    "recovery": "",
     "overall": "",
-    "frameAdv": -19,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15327,27 +15069,25 @@
     "hitboxes": [],
     "damage": 1200,
     "guard": [
-      "HA"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-",
-      " J"
+      ""
     ],
     "property": [
-      "Ground Bounce"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": 18,
-    "active": "X",
-    "recovery": "31L",
+    "startup": "",
+    "active": "",
+    "recovery": "",
     "overall": "",
-    "frameAdv": -19,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -15365,26 +15105,23 @@
     ],
     "damage": "690*3 (1807)",
     "guard": [
-      "HA"
+      ""
     ],
     "cancel": [
-      "MD",
-      " J"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Ground Bounce",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+4",
-    "active": "3,3(4)X",
-    "recovery": "31L",
+    "startup": "",
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": "",
     "invul": "",
@@ -15404,24 +15141,23 @@
     ],
     "damage": 1400,
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 12,
-    "active": 7,
-    "recovery": "12L",
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": -12,
     "invul": "",
@@ -15441,25 +15177,23 @@
     ],
     "damage": 1400,
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
-      "Launch",
-      " Wall Bounce"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 14,
-    "active": 9,
-    "recovery": "12L",
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": -18,
     "invul": "",
@@ -15479,27 +15213,23 @@
     ],
     "damage": 2600,
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "AD",
-      " MD"
+      ""
     ],
     "property": [
-      "Armor Break",
-      " Launch",
-      " Wall Bounce",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
-    "startup": "4+3",
-    "active": 9,
-    "recovery": "12L",
+    "startup": "",
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": -16,
     "invul": "",
@@ -15525,18 +15255,17 @@
       ""
     ],
     "property": [
-      "Launch",
-      " Hard Knockdown"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Throw"
+      ""
     ],
-    "startup": 1,
-    "active": 3,
-    "recovery": "12L",
+    "startup": "",
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": "",
     "invul": "",
@@ -15556,28 +15285,26 @@
     ],
     "damage": "1200, 400 (1500)",
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 16,
-    "active": "X(2)5",
-    "recovery": 24,
+    "active": "",
+    "recovery": "",
     "overall": "",
     "frameAdv": -4,
-    "invul": "MD Clash 1-11",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#j.4BC"
@@ -15594,29 +15321,26 @@
     ],
     "damage": 1500,
     "guard": [
-      "LHA"
+      ""
     ],
     "cancel": [
-      "EX",
-      " MD",
-      " -J-"
+      ""
     ],
     "property": [
-      "Launch",
-      " Wall Bounce"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 14,
-    "active": 9,
-    "recovery": "12L",
+    "active": "",
+    "recovery": "",
     "overall": "",
-    "frameAdv": -18,
-    "invul": "MD Clash 1-11",
+    "frameAdv": "",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Miyako_Arima#j.6BC"
@@ -15636,12 +15360,7 @@
       "HA"
     ],
     "cancel": [
-      "SE",
-      " N",
-      " SP",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -15650,12 +15369,12 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 5,
     "active": 4,
-    "recovery": 11,
-    "overall": 19,
+    "recovery": 20,
+    "overall": 28,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15677,12 +15396,7 @@
       "HA"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -15691,12 +15405,12 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 6,
     "active": 8,
-    "recovery": "",
-    "overall": "",
+    "recovery": 18,
+    "overall": 31,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15718,12 +15432,7 @@
       "HA"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " CH",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -15732,12 +15441,12 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 8,
     "active": 7,
-    "recovery": "",
-    "overall": "",
+    "recovery": 25,
+    "overall": 39,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -15759,10 +15468,7 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " CH",
-      " EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -15771,7 +15477,7 @@
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 9,
     "active": 3,
@@ -15798,19 +15504,16 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
-      "Launch"
+      ""
     ],
     "cost": [
       ""
     ],
     "attribute": [
-      "Strike"
+      ""
     ],
     "startup": 11,
     "active": 3,
@@ -15835,9 +15538,7 @@
       "LH"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -15869,8 +15570,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -15902,9 +15602,7 @@
       "LH"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -15936,8 +15634,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -15969,7 +15666,7 @@
       "LH"
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
@@ -16001,8 +15698,7 @@
       "H"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -16036,8 +15732,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -16071,8 +15766,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -16106,7 +15800,7 @@
       "LH"
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
@@ -16138,9 +15832,7 @@
       "LHA"
     ],
     "cancel": [
-      "(CH)",
-      " (EX)",
-      " (MD)"
+      ""
     ],
     "property": [
       ""
@@ -16172,9 +15864,7 @@
       "LHA"
     ],
     "cancel": [
-      "(CH)",
-      " (EX)",
-      " (MD)"
+      ""
     ],
     "property": [
       ""
@@ -16203,7 +15893,7 @@
     "hitboxes": [],
     "damage": 3500,
     "guard": [
-      "H"
+      ""
     ],
     "cancel": [
       ""
@@ -16270,8 +15960,7 @@
       "LHA"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -16305,13 +15994,7 @@
       "L"
     ],
     "cancel": [
-      "N",
-      " -SE-",
-      " -SP-",
-      " RB",
-      " -EX-",
-      " -MD-",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -16346,12 +16029,7 @@
       " L"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -16385,9 +16063,7 @@
       "LH"
     ],
     "cancel": [
-      "EX",
-      " MD",
-      " -J-"
+      ""
     ],
     "property": [
       ""
@@ -16421,12 +16097,7 @@
       "L"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -16461,8 +16132,7 @@
       " H"
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -16496,10 +16166,7 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -16567,9 +16234,7 @@
       "LH"
     ],
     "cancel": [
-      "EX",
-      " MD",
-      " -J-"
+      ""
     ],
     "property": [
       ""
@@ -16603,13 +16268,7 @@
       "LH"
     ],
     "cancel": [
-      "-N-",
-      " -SE-",
-      " -SP-",
-      " -RB-",
-      " -EX-",
-      " -MD-",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -16643,12 +16302,7 @@
       "LH"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -16685,12 +16339,7 @@
       ""
     ],
     "property": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "cost": [
       ""
@@ -16721,8 +16370,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -16757,8 +16405,7 @@
       " H"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -16792,7 +16439,7 @@
       "LH"
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
@@ -16824,8 +16471,7 @@
       "LHA"
     ],
     "cancel": [
-      "EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -16859,9 +16505,7 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -16873,10 +16517,10 @@
       ""
     ],
     "startup": 13,
-    "active": 8,
+    "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": "-7~0",
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -16892,7 +16536,7 @@
     "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
-      "LH"
+      ""
     ],
     "cancel": [
       ""
@@ -16961,12 +16605,7 @@
       "HA"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -16982,7 +16621,7 @@
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "Clash 16-19",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Noel#j.[C]"
@@ -16998,8 +16637,7 @@
       "LHA"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -17031,8 +16669,7 @@
       "LHA"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -17064,7 +16701,7 @@
       "LHA"
     ],
     "cancel": [
-      "MD"
+      ""
     ],
     "property": [
       ""
@@ -17099,8 +16736,7 @@
       ""
     ],
     "property": [
-      "EX",
-      " MD"
+      ""
     ],
     "cost": [
       ""
@@ -17131,13 +16767,7 @@
       "HA"
     ],
     "cancel": [
-      "N",
-      " SE",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -17171,12 +16801,7 @@
       "HA"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -17210,12 +16835,7 @@
       "HA"
     ],
     "cancel": [
-      "N",
-      " SP",
-      " RB",
-      " EX",
-      " MD",
-      " J"
+      ""
     ],
     "property": [
       ""
@@ -17249,10 +16869,7 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " RB",
-      " EX",
-      " MD"
+      ""
     ],
     "property": [
       ""
@@ -17286,10 +16903,7 @@
       "LH"
     ],
     "cancel": [
-      "SP",
-      " EX",
-      " MD",
-      " (J)"
+      ""
     ],
     "property": [
       ""
@@ -17335,7 +16949,7 @@
     "startup": 13,
     "active": "",
     "recovery": "",
-    "overall": 45,
+    "overall": "",
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -17367,7 +16981,7 @@
     "startup": 13,
     "active": "",
     "recovery": "",
-    "overall": 67,
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -17396,7 +17010,7 @@
     "attribute": [
       ""
     ],
-    "startup": 13,
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -17429,9 +17043,9 @@
       ""
     ],
     "startup": 9,
-    "active": 3,
-    "recovery": 32,
-    "overall": 43,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -17463,7 +17077,7 @@
     "startup": 21,
     "active": "",
     "recovery": "",
-    "overall": 56,
+    "overall": "",
     "frameAdv": -3,
     "invul": "",
     "minDamage": "",
@@ -17492,11 +17106,11 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -9,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -17507,9 +17121,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/2/28/MBTL_Warc_236C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "400*6 (1992)",
     "guard": [
       "LH"
@@ -17527,12 +17139,12 @@
     "attribute": [
       ""
     ],
-    "startup": 11,
-    "active": 13,
-    "recovery": 47,
-    "overall": 70,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -34,
-    "invul": "1-16 All",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#236C"
@@ -17564,9 +17176,9 @@
       ""
     ],
     "startup": 6,
-    "active": 2,
-    "recovery": 11,
-    "overall": 18,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -17600,9 +17212,9 @@
       ""
     ],
     "startup": 7,
-    "active": 4,
-    "recovery": 15,
-    "overall": 25,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -17636,9 +17248,9 @@
       ""
     ],
     "startup": 8,
-    "active": 5,
-    "recovery": 24,
-    "overall": 36,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -12,
     "invul": "",
     "minDamage": "",
@@ -17671,10 +17283,10 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
-    "active": 3,
-    "recovery": 25,
-    "overall": 39,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -17706,7 +17318,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 27,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -17740,9 +17352,9 @@
       ""
     ],
     "startup": 12,
-    "active": 3,
-    "recovery": 26,
-    "overall": 40,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -12,
     "invul": "",
     "minDamage": "",
@@ -17754,9 +17366,7 @@
     "input": "4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/8/85/MBTL_Warc_throw_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "300, 1000 (1300)",
     "guard": [
       "N/A"
@@ -17774,7 +17384,7 @@
       ""
     ],
     "startup": 4,
-    "active": 3,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -17808,7 +17418,7 @@
     "startup": 9,
     "active": "",
     "recovery": "",
-    "overall": 39,
+    "overall": "",
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -17820,9 +17430,7 @@
     "input": "5[B]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/5/55/MBTL_Warc_5B_be_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "400*2 (768)",
     "guard": [
       "H"
@@ -17840,11 +17448,11 @@
       ""
     ],
     "startup": 29,
-    "active": 4,
-    "recovery": 22,
-    "overall": 54,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
-    "invul": "Armor 13-30",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#5[B]"
@@ -17872,11 +17480,11 @@
       ""
     ],
     "startup": 21,
-    "active": 4,
-    "recovery": 22,
-    "overall": 46,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -8,
-    "invul": "Armor 16-21",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#5[C]"
@@ -17908,9 +17516,9 @@
       ""
     ],
     "startup": 5,
-    "active": 2,
-    "recovery": 11,
-    "overall": 17,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -17924,7 +17532,9 @@
     "images": [
       "https://wiki.gbl.gg/images/c/c3/MBTL_Warc_5B.png"
     ],
-    "hitboxes": [],
+    "hitboxes": [
+      "https://wiki.gbl.gg/images/a/af/MBTL_Warc_5B_hb.png"
+    ],
     "damage": 480,
     "guard": [
       "LH"
@@ -17942,9 +17552,9 @@
       ""
     ],
     "startup": 9,
-    "active": 4,
-    "recovery": 17,
-    "overall": 29,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -6,
     "invul": "",
     "minDamage": "",
@@ -17978,9 +17588,9 @@
       ""
     ],
     "startup": 10,
-    "active": 4,
-    "recovery": 23,
-    "overall": 36,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -18012,7 +17622,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 39,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -18044,7 +17654,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 39,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -18076,7 +17686,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 33,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -18108,7 +17718,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 33,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -18120,9 +17730,7 @@
     "input": "623C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/d/dc/MBTL_Warc_623C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "1000, 1040 (2040)",
     "guard": [
       "LH"
@@ -18140,11 +17748,11 @@
     "attribute": [
       ""
     ],
-    "startup": 8,
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -3,
+    "frameAdv": -5,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -18173,9 +17781,9 @@
       ""
     ],
     "startup": 7,
-    "active": 13,
-    "recovery": 35,
-    "overall": 54,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -18209,9 +17817,9 @@
       ""
     ],
     "startup": 23,
-    "active": 3,
-    "recovery": 21,
-    "overall": 46,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -7,
     "invul": "",
     "minDamage": "",
@@ -18223,9 +17831,7 @@
     "input": "ABCD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/e/eb/MBTL_Warc_ABCD_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "4800 [4800 ~ 6960 in BH]",
     "guard": [
       ""
@@ -18246,7 +17852,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -14,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -18257,9 +17863,7 @@
     "input": "j.4/6AD",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/f/f2/MBTL_Warc_airthrow_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       ""
@@ -18277,7 +17881,7 @@
       ""
     ],
     "startup": "",
-    "active": 3,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -18309,11 +17913,11 @@
       ""
     ],
     "startup": 20,
-    "active": 5,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "Clash 16-19",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#j.[C]"
@@ -18473,11 +18077,11 @@
       ""
     ],
     "startup": 5,
-    "active": "8, 2, 2, 2",
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "14-25 Armor",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Red_Arcueid#j.2C"
@@ -18541,7 +18145,7 @@
       ""
     ],
     "startup": 5,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -18577,7 +18181,7 @@
       ""
     ],
     "startup": 5,
-    "active": "3, 3",
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -18613,7 +18217,7 @@
       ""
     ],
     "startup": 10,
-    "active": 5,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -18648,10 +18252,10 @@
     "attribute": [
       ""
     ],
-    "startup": 9,
-    "active": 3,
-    "recovery": 23,
-    "overall": 34,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
     "invul": "",
     "minDamage": "",
@@ -18684,10 +18288,10 @@
     "attribute": [
       ""
     ],
-    "startup": 12,
-    "active": 3,
-    "recovery": 26,
-    "overall": 40,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -12,
     "invul": "",
     "minDamage": "",
@@ -18751,7 +18355,7 @@
     "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 35,
+    "overall": 38,
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -18814,9 +18418,9 @@
     ],
     "startup": 22,
     "active": 2,
-    "recovery": 19,
-    "overall": 42,
-    "frameAdv": -4,
+    "recovery": 22,
+    "overall": 45,
+    "frameAdv": -7,
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -18922,12 +18526,8 @@
     "chara": "Saber",
     "input": "236A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/cf/MBTL_Saber_236A.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/6/64/MBTL_Saber_236A_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "HL"
@@ -18959,9 +18559,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/c2/MBTL_Saber_236B_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 1000,
     "guard": [
       "HL"
@@ -19010,7 +18608,7 @@
     "attribute": [
       ""
     ],
-    "startup": 14,
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
@@ -19025,9 +18623,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/3/3f/MBTL_Saber_236C_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "530*4 (1870)",
     "guard": [
       "HL"
@@ -19058,12 +18654,8 @@
     "chara": "Saber",
     "input": "236X~4X",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/9a/MBTL_Saber_236X4X.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/6/67/MBTL_Saber_236X4X_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "L"
@@ -19094,12 +18686,8 @@
     "chara": "Saber",
     "input": "236X~X",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/5/57/MBTL_Saber_236XX.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/a/ae/MBTL_Saber_236XX_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -19130,12 +18718,8 @@
     "chara": "Saber",
     "input": "236X~X~4X",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/6/60/MBTL_Saber_236XX4X.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/b/b9/MBTL_Saber_236XX4X_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "H"
@@ -19166,12 +18750,8 @@
     "chara": "Saber",
     "input": "236X~X~X",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/d/d4/MBTL_Saber_236XXX.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/a/a0/MBTL_Saber_236XXX_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1100,
     "guard": [
       "HL"
@@ -19202,9 +18782,7 @@
     "chara": "Saber",
     "input": "2A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/4/44/MBTL_Saber_2A.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/e/e2/MBTL_Saber_2A_hb.png"
     ],
@@ -19238,15 +18816,13 @@
     "chara": "Saber",
     "input": "2B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/6/62/MBTL_Saber_2B.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/0/07/MBTL_Saber_2B_hb.png"
     ],
     "damage": 420,
     "guard": [
-      "L"
+      "HL"
     ],
     "cancel": [
       ""
@@ -19274,9 +18850,7 @@
     "chara": "Saber",
     "input": "2C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/96/MBTL_Saber_2C.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/7/73/MBTL_Saber_2C_hb.png"
     ],
@@ -19343,12 +18917,8 @@
     "chara": "Saber",
     "input": "3C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/b/b1/MBTL_Saber_3C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/a/af/MBTL_Saber_3C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "HL"
@@ -19380,9 +18950,7 @@
     "chara": "Saber",
     "input": "4/6AD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/b/b2/MBTL_Saber_throw.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/3/3b/MBTL_Saber_throw_hb.png"
     ],
@@ -19449,9 +19017,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/4/4b/MBTL_Saber_5C_be_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 990,
     "guard": [
       "HL"
@@ -19475,7 +19041,7 @@
     "recovery": 26,
     "overall": 51,
     "frameAdv": -14,
-    "invul": "Clash 19-20",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Saber#5[C]"
@@ -19484,9 +19050,7 @@
     "chara": "Saber",
     "input": "5A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/23/MBTL_Saber_5A.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/b5/MBTL_Saber_5A_hb.png"
     ],
@@ -19523,9 +19087,7 @@
     "chara": "Saber",
     "input": "5B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/7/72/MBTL_Saber_5B.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/8/86/MBTL_Saber_5B_hb.png"
     ],
@@ -19561,9 +19123,7 @@
     "chara": "Saber",
     "input": "5C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/c5/MBTL_Saber_5C.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/b0/MBTL_Saber_5C_hb.png"
     ],
@@ -19599,12 +19159,8 @@
     "chara": "Saber",
     "input": "623A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/2f/MBTL_Saber_623A.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/d/d3/MBTL_Saber_623A_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "HL"
@@ -19636,9 +19192,7 @@
     "chara": "Saber",
     "input": "623B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/27/MBTL_Saber_623B_1.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
@@ -19689,7 +19243,7 @@
     "attribute": [
       ""
     ],
-    "startup": "4 + 4",
+    "startup": 8,
     "active": "3 (4) 8",
     "recovery": 30,
     "overall": 52,
@@ -19735,9 +19289,7 @@
     "chara": "Saber",
     "input": "6C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/8/85/MBTL_Saber_6C.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/b/ba/MBTL_Saber_6C_hb.png"
     ],
@@ -19806,9 +19358,7 @@
     "chara": "Saber",
     "input": "j.4/6AD",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/a/aa/MBTL_Saber_airthrow.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/c/cb/MBTL_Saber_airthrow_hb.png"
     ],
@@ -19842,12 +19392,8 @@
     "chara": "Saber",
     "input": "j[C]",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/e/e2/MBTL_Saber_jC.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/8/86/MBTL_Saber_jC_be_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "HA"
@@ -19983,9 +19529,7 @@
     "input": "j6BC",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/f/fd/MBTL_Saber_j6BC_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "380*4 (1359)",
     "guard": [
       "HLA"
@@ -20016,9 +19560,7 @@
     "chara": "Saber",
     "input": "jA",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/a/a3/MBTL_Saber_jA.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/a/a1/MBTL_Saber_jA_hb.png"
     ],
@@ -20055,9 +19597,7 @@
     "chara": "Saber",
     "input": "jB",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/d/de/MBTL_Saber_jB.png"
-    ],
+    "images": [],
     "hitboxes": [
       "https://wiki.gbl.gg/images/8/82/MBTL_Saber_jB_hb.png"
     ],
@@ -20093,12 +19633,8 @@
     "chara": "Saber",
     "input": "jC",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/e/e2/MBTL_Saber_jC.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/7/7f/MBTL_Saber_jC_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 560,
     "guard": [
       "HA"
@@ -20131,12 +19667,8 @@
     "chara": "Saber",
     "input": "rapid2",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/f/f0/MBTL_Saber_rapid2_1.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/91/MBTL_Saber_rapid2_1_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "120*4 (408)",
     "guard": [
       "HL"
@@ -20169,12 +19701,8 @@
     "chara": "Saber",
     "input": "rapid3",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/b/b1/MBTL_Saber_3C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/a/af/MBTL_Saber_3C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       ""
@@ -20228,7 +19756,7 @@
     "active": 10,
     "recovery": 14,
     "overall": 31,
-    "frameAdv": -4,
+    "frameAdv": "-4 (at worst)",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -20261,7 +19789,7 @@
     "active": 10,
     "recovery": 13,
     "overall": 29,
-    "frameAdv": -1,
+    "frameAdv": "-1 (at worst)",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -20469,9 +19997,7 @@
     "input": "236A",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/c1/MBTL_Tohno_236A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 1200,
     "guard": [
       "LH"
@@ -20504,9 +20030,7 @@
     "input": "236B",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/c1/MBTL_Tohno_236A_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "520*3 (1377)",
     "guard": [
       "LH"
@@ -20571,9 +20095,7 @@
     "input": "236C",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/3/3b/MBTL_Tohno_236C_1_hb.png"
-    ],
+    "hitboxes": [],
     "damage": "660*4 (2263)",
     "guard": [
       "LH"
@@ -20646,12 +20168,8 @@
     "chara": "Shiki Tohno",
     "input": "2B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/1/1e/MBTL_Tohno_2B_1.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/c/c8/MBTL_Tohno_2B_1_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "260*2 (504)",
     "guard": [
       "L"
@@ -20696,13 +20214,13 @@
     "cancel": [
       "EX",
       " MD",
-      " -J-"
+      " J"
     ],
     "property": [
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20777,7 +20295,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20796,12 +20314,8 @@
     "chara": "Shiki Tohno",
     "input": "3C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/c6/MBTL_Tohno_3C.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/9/99/MBTL_Tohno_3C_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": 700,
     "guard": [
       "LH"
@@ -20914,7 +20428,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -20934,9 +20448,7 @@
     "input": "5[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/0/0b/MBTL_Tohno_5C_be_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 2000,
     "guard": [
       "U"
@@ -20954,11 +20466,11 @@
       ""
     ],
     "startup": 31,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "N/A",
-    "invul": "18-30 Clash",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Shiki_Tohno#5[C]"
@@ -21203,7 +20715,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -21255,9 +20767,7 @@
     "input": "j[C]",
     "name": "",
     "images": [],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/b/b2/MBTL_Tohno_jC_be_hb.png"
-    ],
+    "hitboxes": [],
     "damage": 900,
     "guard": [
       "H"
@@ -21280,11 +20790,11 @@
       ""
     ],
     "startup": 20,
-    "active": 7,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "15-19 Clash",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Shiki_Tohno#j.[C]"
@@ -21438,7 +20948,7 @@
       ""
     ],
     "cost": [
-      ""
+      "2 Moon Bar (refunds 1 on hit)"
     ],
     "attribute": [
       ""
@@ -21498,12 +21008,8 @@
     "chara": "Shiki Tohno",
     "input": "jB",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/f/f7/MBTL_Tohno_jB.png"
-    ],
-    "hitboxes": [
-      "https://wiki.gbl.gg/images/5/59/MBTL_Tohno_jB_1_hb.png"
-    ],
+    "images": [],
+    "hitboxes": [],
     "damage": "200*2 (392)",
     "guard": [
       "H"
@@ -21602,11 +21108,11 @@
       ""
     ],
     "startup": 9,
-    "active": "3 (14) 3",
-    "recovery": 23,
-    "overall": 51,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -10,
-    "invul": "20-27 High Profile",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Shiki_Tohno#rapid_2"
@@ -21657,8 +21163,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21687,13 +21192,10 @@
     "hitboxes": [],
     "damage": "640*2 (1196)",
     "guard": [
-      "L(1)",
-      " LH(2)"
+      "L"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21725,9 +21227,7 @@
       "LH"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21770,11 +21270,11 @@
     "attribute": [
       ""
     ],
-    "startup": "4+9",
+    "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 36,
-    "frameAdv": -7,
+    "overall": "",
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -21791,9 +21291,7 @@
       "LH"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21825,8 +21323,7 @@
       "U"
     ],
     "cancel": [
-      "(EX)",
-      " (MD)"
+      ""
     ],
     "property": [
       ""
@@ -21858,8 +21355,7 @@
       "LH"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21891,9 +21387,7 @@
       "LHA"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21925,9 +21419,7 @@
       "LHA"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -21950,86 +21442,16 @@
   },
   {
     "chara": "Vlov Arkhangel",
-    "input": "22A~X",
-    "name": "",
-    "images": [],
-    "hitboxes": [],
-    "damage": 900,
-    "guard": [
-      "LA"
-    ],
-    "cancel": [
-      "-EX-",
-      " -MD-",
-      " (J)"
-    ],
-    "property": [
-      ""
-    ],
-    "cost": [
-      ""
-    ],
-    "attribute": [
-      ""
-    ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": -6,
-    "invul": "",
-    "minDamage": "",
-    "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22A~X"
-  },
-  {
-    "chara": "Vlov Arkhangel",
-    "input": "22A~X",
-    "name": "",
-    "images": [],
-    "hitboxes": [],
-    "damage": 900,
-    "guard": [
-      "LA"
-    ],
-    "cancel": [
-      "-EX-",
-      " -MD-",
-      " (J)"
-    ],
-    "property": [
-      ""
-    ],
-    "cost": [
-      ""
-    ],
-    "attribute": [
-      ""
-    ],
-    "startup": "",
-    "active": "",
-    "recovery": "",
-    "overall": "",
-    "frameAdv": -7,
-    "invul": "",
-    "minDamage": "",
-    "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22A~X"
-  },
-  {
-    "chara": "Vlov Arkhangel",
     "input": "22B",
     "name": "",
     "images": [],
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      "LA"
+      "L"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -22058,12 +21480,10 @@
     "hitboxes": [],
     "damage": 1000,
     "guard": [
-      "LA"
+      "L"
     ],
     "cancel": [
-      "-CH-",
-      " -EX-",
-      " -MD-"
+      ""
     ],
     "property": [
       ""
@@ -22086,7 +21506,71 @@
   },
   {
     "chara": "Vlov Arkhangel",
-    "input": "22B~X",
+    "input": "22C",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
+    "damage": "1200*2 (2016)",
+    "guard": [
+      ""
+    ],
+    "cancel": [
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22C"
+  },
+  {
+    "chara": "Vlov Arkhangel",
+    "input": "22C",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
+    "damage": "1200*2 (2016)",
+    "guard": [
+      "LA"
+    ],
+    "cancel": [
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": "",
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22C"
+  },
+  {
+    "chara": "Vlov Arkhangel",
+    "input": "22X~X",
     "name": "",
     "images": [],
     "hitboxes": [],
@@ -22095,9 +21579,39 @@
       "LA"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-",
-      " (J)"
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": -6,
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22X~X"
+  },
+  {
+    "chara": "Vlov Arkhangel",
+    "input": "22X~X",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
+    "damage": 900,
+    "guard": [
+      "LA"
+    ],
+    "cancel": [
+      ""
     ],
     "property": [
       ""
@@ -22116,11 +21630,11 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22B~X"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22X~X"
   },
   {
     "chara": "Vlov Arkhangel",
-    "input": "22B~X",
+    "input": "22X~X",
     "name": "",
     "images": [],
     "hitboxes": [],
@@ -22129,9 +21643,39 @@
       "LA"
     ],
     "cancel": [
-      "-EX-",
-      " -MD-",
-      " (J)"
+      ""
+    ],
+    "property": [
+      ""
+    ],
+    "cost": [
+      ""
+    ],
+    "attribute": [
+      ""
+    ],
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
+    "frameAdv": -7,
+    "invul": "",
+    "minDamage": "",
+    "landing": "",
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22X~X"
+  },
+  {
+    "chara": "Vlov Arkhangel",
+    "input": "22X~X",
+    "name": "",
+    "images": [],
+    "hitboxes": [],
+    "damage": 900,
+    "guard": [
+      "LA"
+    ],
+    "cancel": [
+      ""
     ],
     "property": [
       ""
@@ -22150,79 +21694,13 @@
     "invul": "",
     "minDamage": "",
     "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22B~X"
-  },
-  {
-    "chara": "Vlov Arkhangel",
-    "input": "22C",
-    "name": "",
-    "images": [],
-    "hitboxes": [],
-    "damage": "1200*2 (2016)",
-    "guard": [
-      "LA"
-    ],
-    "cancel": [
-      "MD"
-    ],
-    "property": [
-      ""
-    ],
-    "cost": [
-      ""
-    ],
-    "attribute": [
-      ""
-    ],
-    "startup": "4+4",
-    "active": "",
-    "recovery": "",
-    "overall": 37,
-    "frameAdv": 16,
-    "invul": "",
-    "minDamage": "",
-    "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22C"
-  },
-  {
-    "chara": "Vlov Arkhangel",
-    "input": "22C",
-    "name": "",
-    "images": [],
-    "hitboxes": [],
-    "damage": "1200*2 (2016)",
-    "guard": [
-      "LA"
-    ],
-    "cancel": [
-      "MD"
-    ],
-    "property": [
-      ""
-    ],
-    "cost": [
-      ""
-    ],
-    "attribute": [
-      ""
-    ],
-    "startup": "4+4",
-    "active": "",
-    "recovery": "",
-    "overall": 37,
-    "frameAdv": 16,
-    "invul": "",
-    "minDamage": "",
-    "landing": "",
-    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22C"
+    "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#22X~X"
   },
   {
     "chara": "Vlov Arkhangel",
     "input": "236A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/e/ec/MBTL_Vlov_F236A.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -22243,7 +21721,7 @@
     "startup": 20,
     "active": "",
     "recovery": "",
-    "overall": 42,
+    "overall": "",
     "frameAdv": 4,
     "invul": "",
     "minDamage": "",
@@ -22286,9 +21764,7 @@
     "chara": "Vlov Arkhangel",
     "input": "236B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/2/28/MBTL_Vlov_F236B.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -22309,7 +21785,7 @@
     "startup": 18,
     "active": "",
     "recovery": "",
-    "overall": 38,
+    "overall": "",
     "frameAdv": 5,
     "invul": "",
     "minDamage": "",
@@ -22370,11 +21846,11 @@
     "attribute": [
       ""
     ],
-    "startup": "1+14",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -11,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -22402,11 +21878,11 @@
     "attribute": [
       ""
     ],
-    "startup": "1+14",
+    "startup": "",
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -11,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -22416,9 +21892,7 @@
     "chara": "Vlov Arkhangel",
     "input": "236C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/a/a9/MBTL_Vlov_F236C.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "1000*3 (2350)",
     "guard": [
@@ -22436,11 +21910,11 @@
     "attribute": [
       ""
     ],
-    "startup": "4+9",
+    "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 33,
-    "frameAdv": 7,
+    "overall": "",
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -22468,11 +21942,11 @@
     "attribute": [
       ""
     ],
-    "startup": "4+5",
+    "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 36,
-    "frameAdv": 4,
+    "overall": "",
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -22500,10 +21974,10 @@
     "attribute": [
       ""
     ],
-    "startup": 41,
+    "startup": "",
     "active": "",
-    "recovery": 12,
-    "overall": 52,
+    "recovery": "",
+    "overall": "",
     "frameAdv": 15,
     "invul": "",
     "minDamage": "",
@@ -22649,7 +22123,7 @@
       "LHA"
     ],
     "cancel": [
-      "-EX-"
+      ""
     ],
     "property": [
       ""
@@ -22697,9 +22171,9 @@
       ""
     ],
     "startup": 6,
-    "active": 2,
-    "recovery": 12,
-    "overall": 19,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -2,
     "invul": "",
     "minDamage": "",
@@ -22733,9 +22207,9 @@
       ""
     ],
     "startup": 9,
-    "active": 4,
-    "recovery": 22,
-    "overall": 35,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -12,
     "invul": "",
     "minDamage": "",
@@ -22767,7 +22241,7 @@
     "startup": 12,
     "active": "",
     "recovery": "",
-    "overall": 36,
+    "overall": "",
     "frameAdv": 5,
     "invul": "",
     "minDamage": "",
@@ -22799,7 +22273,7 @@
     "startup": 11,
     "active": "",
     "recovery": "",
-    "overall": 36,
+    "overall": "",
     "frameAdv": 5,
     "invul": "",
     "minDamage": "",
@@ -22833,9 +22307,9 @@
       ""
     ],
     "startup": 9,
-    "active": 4,
-    "recovery": 28,
-    "overall": 41,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -16,
     "invul": "",
     "minDamage": "",
@@ -22869,9 +22343,9 @@
       ""
     ],
     "startup": 12,
-    "active": 3,
-    "recovery": 27,
-    "overall": 41,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -13,
     "invul": "",
     "minDamage": "",
@@ -22900,10 +22374,10 @@
     "attribute": [
       ""
     ],
-    "startup": 4,
+    "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 25,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -22935,7 +22409,7 @@
     "startup": 15,
     "active": "",
     "recovery": "",
-    "overall": 49,
+    "overall": "",
     "frameAdv": -4,
     "invul": "",
     "minDamage": "",
@@ -22969,9 +22443,9 @@
       ""
     ],
     "startup": 7,
-    "active": 2,
-    "recovery": 11,
-    "overall": 19,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -1,
     "invul": "",
     "minDamage": "",
@@ -23005,9 +22479,9 @@
       ""
     ],
     "startup": 10,
-    "active": 3,
-    "recovery": 21,
-    "overall": 33,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
@@ -23039,9 +22513,9 @@
       ""
     ],
     "startup": 10,
-    "active": 4,
-    "recovery": 26,
-    "overall": 40,
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -14,
     "invul": "",
     "minDamage": "",
@@ -23071,7 +22545,7 @@
       ""
     ],
     "startup": 30,
-    "active": 3,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -10,
@@ -23084,9 +22558,7 @@
     "chara": "Vlov Arkhangel",
     "input": "6BC",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/ce/MBTL_Vlov_F6BC.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "1100*2 (1793)",
     "guard": [
@@ -23106,8 +22578,8 @@
     ],
     "startup": 28,
     "active": "",
-    "recovery": 8,
-    "overall": 35,
+    "recovery": "",
+    "overall": "",
     "frameAdv": 21,
     "invul": "",
     "minDamage": "",
@@ -23136,10 +22608,10 @@
     "attribute": [
       ""
     ],
-    "startup": "10~14",
+    "startup": 14,
     "active": "",
     "recovery": "",
-    "overall": 35,
+    "overall": "",
     "frameAdv": 9,
     "invul": "",
     "minDamage": "",
@@ -23173,7 +22645,7 @@
       ""
     ],
     "startup": 16,
-    "active": 3,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": -8,
@@ -23208,7 +22680,7 @@
     "active": "",
     "recovery": "",
     "overall": "",
-    "frameAdv": -13,
+    "frameAdv": "",
     "invul": "",
     "minDamage": "",
     "landing": "",
@@ -23269,11 +22741,11 @@
       ""
     ],
     "startup": 20,
-    "active": 6,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
-    "invul": "Clash 16-19",
+    "invul": "",
     "minDamage": "",
     "landing": "",
     "moveLink": "https://wiki.gbl.gg/w/Melty_Blood/MBTL/Vlov_Arkhangel#j.[C]"
@@ -23282,9 +22754,7 @@
     "chara": "Vlov Arkhangel",
     "input": "j236A",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/c6/MBTL_Vlov_Fj236A.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -23348,9 +22818,7 @@
     "chara": "Vlov Arkhangel",
     "input": "j236B",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/c/c9/MBTL_Vlov_Fj236B.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": 1200,
     "guard": [
@@ -23414,9 +22882,7 @@
     "chara": "Vlov Arkhangel",
     "input": "j236C",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/9/95/MBTL_Vlov_Fj236C.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "800*3 (1880)",
     "guard": [
@@ -23544,9 +23010,7 @@
     "chara": "Vlov Arkhangel",
     "input": "j6BC",
     "name": "",
-    "images": [
-      "https://wiki.gbl.gg/images/d/dd/MBTL_Vlov_Fj6BC.png"
-    ],
+    "images": [],
     "hitboxes": [],
     "damage": "900*2 (1467)",
     "guard": [
@@ -23564,10 +23028,10 @@
     "attribute": [
       ""
     ],
-    "startup": 19,
+    "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 53,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -23596,10 +23060,10 @@
     "attribute": [
       ""
     ],
-    "startup": "11~14",
+    "startup": "",
     "active": "",
     "recovery": "",
-    "overall": 53,
+    "overall": "",
     "frameAdv": "",
     "invul": "",
     "minDamage": "",
@@ -23633,7 +23097,7 @@
       ""
     ],
     "startup": 6,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -23669,7 +23133,7 @@
       ""
     ],
     "startup": 10,
-    "active": 4,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -23705,7 +23169,7 @@
       ""
     ],
     "startup": 12,
-    "active": 5,
+    "active": "",
     "recovery": "",
     "overall": "",
     "frameAdv": "",
@@ -23736,10 +23200,10 @@
     "attribute": [
       ""
     ],
-    "startup": 10,
-    "active": 6,
-    "recovery": 34,
-    "overall": 49,
+    "startup": "",
+    "active": "",
+    "recovery": "",
+    "overall": "",
     "frameAdv": -9,
     "invul": "",
     "minDamage": "",
