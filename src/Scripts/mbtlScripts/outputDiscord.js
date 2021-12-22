@@ -1,4 +1,4 @@
-const Command = require("../Structures/Command.js")
+const Command = require("../../Structures/Command.js")
 const FindFrameData = require("./findFrameData.js")
 const Discord = require("discord.js")
 const {makeFields, makeSelectableFields} = require("./makeFields.js")

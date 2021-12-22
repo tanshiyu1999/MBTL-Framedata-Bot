@@ -56,7 +56,7 @@ const regexNameFinder = (tempName, nameList) => {
 // Function is used in input parser
 // Will return an array with 2 elements [charactername, charactermove]
 const inputParser = (args) => {
-  const frameDataBase = require("../Data/frameDataBase.json")
+  const mbtlFrameData = require("../../Data/mbtlFrameData.json")
   let outputArgs = [];
 
   // Create a temporary argument to be used as input for charNameShorthandParser
@@ -81,7 +81,7 @@ const inputParser = (args) => {
 
   // Generate a an array with all the character names.
   let nameList = []; 
-  frameDataBase.forEach(moveObj => {
+  mbtlFrameData.forEach(moveObj => {
     if (!nameList.includes(moveObj.chara)) {
       nameList.push(moveObj.chara)
     }

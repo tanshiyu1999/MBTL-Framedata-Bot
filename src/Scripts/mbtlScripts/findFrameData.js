@@ -1,4 +1,5 @@
-const dupNameDifferentiator = require("./dupNameDifferentiator.js")
+const dupNameDifferentiator = require("./dupNameDifferentiator.js");
+const mbtlFrameData = require("../../Data/mbtlFrameData.json")
 
 
 
@@ -105,8 +106,7 @@ const searchAbsoluteMoves = (moveObj, move) => {
 
 // Search data will search through all the character data and return found matches
 const searchData = async (name, move) => {
-  const frameDataBase = require("../Data/frameDataBase.json")
-  let characterData = frameDataBase;
+  let characterData = mbtlFrameData;
   
   let moveObjs = dupNameDifferentiator(name, characterData)
 

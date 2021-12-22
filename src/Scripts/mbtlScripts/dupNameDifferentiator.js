@@ -1,6 +1,6 @@
 
 const dupNameDifferentiator = (name, characterData) => {
-  const frameDataBase = require("../Data/frameDataBase.json")
+  const mbtlFrameData = require("../../Data/mbtlFrameData.json")
   // \b at start of regex to ensure that we start searching fron the front of the word 
   let regex = "\\b"
   for (let i= 0; i < name.length; i++) {
@@ -10,7 +10,7 @@ const dupNameDifferentiator = (name, characterData) => {
 
 
   let nameList = []; 
-  frameDataBase.forEach(moveObj => {
+  mbtlFrameData.forEach(moveObj => {
     if (!nameList.includes(moveObj.chara)) {
       nameList.push(moveObj.chara)
     }

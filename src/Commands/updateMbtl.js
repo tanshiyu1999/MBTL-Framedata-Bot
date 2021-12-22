@@ -1,10 +1,10 @@
-const fetchData = require("../Scripts/fetchData.js");
+const fetchData = require("../Scripts/mbtlScripts/fetchData.js");
 const Discord = require("discord.js");
 
 const Command = require("../Structures/Command.js")
 
 module.exports = new Command({
-  name: "updateNecoArc",
+  name: "updateMbtl",
   description: "Update the local database",
   permission: "SEND_MESSAGES",
   async run(message, args, client) {

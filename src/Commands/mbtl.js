@@ -1,15 +1,15 @@
 const Command = require("../Structures/Command.js");
-const searchData = require("../Scripts/findFrameData.js");
-const inputParser = require("../Scripts/inputParser.js");
+const searchData = require("../Scripts/mbtlScripts/findFrameData.js");
+const inputParser = require("../Scripts/mbtlScripts/inputParser.js");
 const Discord = require("discord.js");
-const outputDiscord = require("../Scripts/outputDiscord.js");
-const {makeFields, makeSelectableFields} = require("../Scripts/makeFields.js");
+const outputDiscord = require("../Scripts/mbtlScripts/outputDiscord.js");
+const {makeFields, makeSelectableFields} = require("../Scripts/mbtlScripts/makeFields.js");
 const emoji = ["0️⃣", "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣", "6️⃣", "7️⃣","8️⃣", "9️⃣", "🔟"];
 
 
 module.exports = new Command({
-  name: "f",
-  description: "Shows an embed",
+  name: "mbtl",
+  description: "Prints MBTL framedata",
   permission: "SEND_MESSAGES",
   async run(message, args, client) {
     console.log(`Initial Input Argument: ${args}`)

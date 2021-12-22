@@ -2,7 +2,7 @@
 
 const Discord = require("discord.js");
 const Command = require("../Structures/Command.js")
-const {arcs, maids, rekka, rapid} = require("../Scripts/helpMessages.js");
+const {arcs, maids, rekka, rapid} = require("../Scripts/mbtlScripts/helpMessages.js");
 
 
 module.exports = new Command({

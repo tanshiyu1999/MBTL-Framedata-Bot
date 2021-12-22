@@ -1,5 +1,5 @@
 const Event = require("../Structures/Event.js");
-const inputParser = require("../Scripts/inputParser.js")
+const inputParser = require("../Scripts/mbtlScripts/inputParser.js")
 
 module.exports = new Event("messageCreate", (client, message) => {
   if (message.author.bot) return;
